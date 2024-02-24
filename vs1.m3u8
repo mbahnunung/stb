@@ -192,7 +192,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/KawOb6q.png?v=1.0.0.1" group-title="🇮🇩 Local" tvg-id="DAAITV.id" tvg-name="DAAI TV", DAAI TV
-#http://khano.nng.cloudns.us//live/m3u8/id/0525ed2747e3161.m3u8
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
