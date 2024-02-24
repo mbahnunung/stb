@@ -113,11 +113,6 @@ http://warningfm.github.io/utubeLive/nosignal/index.m3u8
 
 ########################################################      Kids     ########################################################
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/xnK3XBL.png?v=1.0.0.1" group-title="Kids" tvg-id="5464" tvg-name="BabyTV (HD)", BabyTV
-http://warningfm.github.io/utubeLive/nosignal/index.m3u8
-
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
@@ -463,9 +458,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadi
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/YHsUiwa.png?v=1.0.0.1" group-title="Religious" tvg-id="MQTV.id" tvg-name="MQTV", MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/tl7ePSI.png?v=1.0.0.1" group-title="Religious" tvg-id="AjwaTV.id" tvg-name="Ajwa TV", Ajwa TV
-https://iptvme.xyz/vid/hls.m3u8?id=7464
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/oJE1tDf.png?v=1.0.0.1" group-title="Religious" tvg-id="AswajaTV.id" tvg-name="AswajaTV", AswajaTV
 https://warningfm.github.io/dailymotion/AswajaTV.m3u8
