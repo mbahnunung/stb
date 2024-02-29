@@ -109,7 +109,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/6183ec225226ccd.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/LCBLk2T.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="26" tvg-id="BNTV" tvg-name="BN TV", BN TV
-http://warningfm.github.io/utubeLive/nosignal/index.m3u8
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
 ########################################################      Kids     ########################################################
 
