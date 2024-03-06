@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=805720,FRAME-RATE=25.000,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=480x360
-http://op-group1-swiftservehd-1.dens.tv/h/h06/02.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=NET.
+http://op-group1-swiftservesd-1.dens.tv/h/h06/02.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1638329,FRAME-RATE=25.000,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1024x576
-http://op-group1-swiftservehd-1.dens.tv/h/h06/01.m3u8?app_type=web&userid=615704&tkn=G1IMTJ3R7Y8U9VKW4YMFBUPW28M9MZSC&chname=NET.
+http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
