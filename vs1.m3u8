@@ -85,15 +85,15 @@ http://khano.nng.cloudns.us/live/m3u8/op/7335edf66aba710.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/h6qDBhV.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="20" tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia", CNN Indonesia
-http://khano.nng.cloudns.us/live/m3u8/id/d12f0b99ed1f070.m3u8
+http://stb.mbahnunungonline.net/live/m3u8/id/d12f0b99ed1f070.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/uJTTmk8.png?v=1.1.1.1" group-title="🇮🇩 Nasional" ch-number="21" tvg-id="CNBCIndonesia.id" tvg-name="CNBC Indonesia", CNBC Indonesia
-http://khano.nng.cloudns.us/live/m3u8/id/ef7e8c7bc86110e.m3u8
+http://stb.mbahnunungonline.net/live/m3u8/id/ef7e8c7bc86110e.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/tIFiAdl.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="22" tvg-id="GarudaTV.id" tvg-name="Garuda TV", Garuda TV
-http://khano.nng.cloudns.us/live/m3u8/id/b825800cf4d3aaa.m3u8
+http://stb.mbahnunungonline.net/live/m3u8/id/b825800cf4d3aaa.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/g3hWHhA.png?v=1.1.1.1" group-title="🇮🇩 Nasional" ch-number="23" tvg-id="TVRISport.id" tvg-name="TVRI Sport", TVRI Sport HD
