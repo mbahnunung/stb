@@ -50,8 +50,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FGSb1Vw.png?v=1.0.0.1" group-title="🇮🇩 tvN150N" ch-number="10" tvg-id="CitraDangdut.id" tvg-name="Citra Dangdut", Citra Dangdut
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tIFiAdl.png?v=1.0.0.1" group-title="🇮🇩 tvN150N" ch-number="10" tvg-id="GarudaTV.id" tvg-name="Garuda TV", Garuda TV
+http://stb.mbahnunungonline.net/live/m3u8/id/b825800cf4d3aaa.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sxlxwvA.png?v=1.1.1.1" group-title="🇮🇩 tvN150N" ch-number="11" tvg-id="ANTV.id" tvg-name="antv", antv
@@ -110,10 +110,6 @@ http://stb.mbahnunungonline.net/live/m3u8/id/ef7e8c7bc86110e.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Yk5Anu.png?v=1.1.1.1" group-title="🇮🇩 tvN150N" ch-number="23" tvg-id="SEAToday.id" tvg-name="SEA Today", SEA Today
 https://nyanv-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tIFiAdl.png?v=1.0.0.1" group-title="🇮🇩 tvN150N" tvg-id="GarudaTV.id" tvg-name="Garuda TV", Garuda TV
-http://stb.mbahnunungonline.net/live/m3u8/id/b825800cf4d3aaa.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I64wd67.png?v=1.0.0.1" group-title="⚽ Sports" tvg-id="TVRISport.id" tvg-name="TVRI Sport HD", TVRI Sport HD
@@ -177,7 +173,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/383fb71f4a76ab2.m3u8
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eXelOvO.png?v=1.0.0.1" group-title="🇮🇩 tvN150N" tvg-id="IndonesianaTV.id" tvg-name="Indonesiana TV", Indonesiana TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eXelOvO.png?v=1.0.0.1" group-title="Entertainment" tvg-id="IndonesianaTV.id" tvg-name="Indonesiana TV", Indonesiana TV
 https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index.m3u8
 
 ########################################################      Kids     ########################################################
@@ -682,6 +678,10 @@ http://warningfm.github.io/utubeLive/nosignal/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NN60Hzb.png?v=1.0.0.1" group-title="Music", POP Musik
 http://khano.nng.cloudns.us/live/m3u8/id/94a637fadb57201.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FGSb1Vw.png?v=1.0.0.1" group-title="🇮🇩 tvN150N" tvg-id="CitraDangdut.id" tvg-name="Citra Dangdut", Citra Dangdut
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hwBnVIB.jpg?v=1.0.0.1" group-title="🇮🇩 tvN150N" ch-number="110" tvg-id="Nagaswara Digital" tvg-name="Nagaswara Digital", Nagaswara Digital
