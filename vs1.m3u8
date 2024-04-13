@@ -298,10 +298,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mp
 https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/W1JfODW.png?v=1.0.0.1" group-title="Entertainment" tvg-id="UseePrime.id" tvg-name="UseePrime", UseePrime
-http://khano.nng.cloudns.us/live/m3u8/id/fabdcb417fcb93f.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/VyqMhjx.png?v=1.0.0.1" group-title="Entertainment" tvg-id="CAAJ2700030ON" tvg-name="Outside", Outside
 https://c185ba78559f47b79f8079be89884d03.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_OutsideTV/playlist.m3u8
 
@@ -533,7 +529,7 @@ http://warningfm.github.io/utubeLive/nosignal/index.m3u8
 https://unifi-live11.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VCzqP4i.png?v=1.1.1.1" group-title="Sports" tvg-id="5118" tvg-name="Premier Sports", Premier Sports
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch320%29/index.m3u8
+http://warningfm.github.io/utubeLive/nosignal/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hMWORSD.png?v=1.1.1.1" group-title="Sports" tvg-id="5257" tvg-name="TRACE Sport Stars HD", TRACE Sport Stars HD
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
@@ -558,7 +554,7 @@ https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 ########################################################   Knowledge   ########################################################
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/KHKIztL.png?v=1.0.0.1" group-title="Knowledge" tvg-id="AnimalPlanet.id" tvg-name="Animal Planet (HD)", Animal Planet (HD)
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.m3u8
+http://warningfm.github.io/utubeLive/nosignal/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -573,7 +569,7 @@ https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
 http://khano.nng.cloudns.us/live/m3u8/op/7335edf66aba710.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/AWvwPm5.png?v=1.0.0.1" group-title="Knowledge" tvg-id="DiscoveryChannel" tvg-name="Discovery Ch (HD)", Discovery Ch (HD)
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/index.m3u8
+http://warningfm.github.io/utubeLive/nosignal/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
