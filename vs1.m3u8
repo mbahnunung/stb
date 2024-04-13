@@ -462,8 +462,9 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/oJE1tDf.png?v=1.0.0.1" group-title="Religious" tvg-id="AswajaTV.id" tvg-name="AswajaTV", AswajaTV
 https://warningfm.github.io/dailymotion/AswajaTV.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/xg97ErR.png?v=1.0.0.1" group-title="Religious" tvg-id="Al Sunnah Al Nabawiyah TV HD" tvg-name="Al Sunnah Al Nabawiyah TV HD", Al Sunnah Al Nabawiyah TV HD
-https://edge.taghtia.com/sa/6.m3u8
+http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/nclyzsj.png?v=1.0.0.1" group-title="Religious" tvg-id="IqraTV.uk" tvg-name="Iqra TV", Iqra TV
 https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
