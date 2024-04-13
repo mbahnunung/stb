@@ -76,14 +76,6 @@ https://s7.mbahnunungonline.net/live/m3u8/id/378a642ff00fed9.m3u8
 http://stb.mbahnunungonline.net/live/m3u8/id/270f72deeb5843f.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/od0w7R3.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="18" tvg-id="OChannel.id" tvg-name="MOJI", MOJI
-http://khano.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d418.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/9JPHanf.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="19" tvg-id="MentariTV.id" tvg-name="Mentari TV", Mentari TV
-http://khano.nng.cloudns.us/live/m3u8/op/7335edf66aba710.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/h6qDBhV.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="20" tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia", CNN Indonesia
 http://stb.mbahnunungonline.net/live/m3u8/id/d12f0b99ed1f070.m3u8
 
@@ -110,6 +102,14 @@ http://khano.nng.cloudns.us/live/m3u8/id/6183ec225226ccd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/LCBLk2T.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="26" tvg-id="BNTV" tvg-name="BN TV", BN TV
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/od0w7R3.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="18" tvg-id="OChannel.id" tvg-name="MOJI", MOJI
+http://khano.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d418.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/9JPHanf.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="19" tvg-id="MentariTV.id" tvg-name="Mentari TV", Mentari TV
+http://khano.nng.cloudns.us/live/m3u8/op/7335edf66aba710.m3u8
 
 ########################################################      Kids     ########################################################
 
