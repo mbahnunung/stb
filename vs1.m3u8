@@ -175,7 +175,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(475bc115-b0ee
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/bKLoSVx.png?v=1.0.0.1" group-title="🇮🇩 Local" tvg-id="JTV.id" tvg-name="JTV", JTV
-http://khano.nng.cloudns.us/live/m3u8/id/226fe77699e03c5.m3u8
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(390d2da5-6a3f-489a-8b63-d8585dccb4b0)/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
