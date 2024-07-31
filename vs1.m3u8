@@ -163,8 +163,11 @@ http://warningfm.github.io/utubeLive/nosignal/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3pc3BRz.png?v=1.0.0.1" group-title="Kids" tvg-id="FunPlanet" tvg-name="FunPlanet", FunPlanet
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/manifest.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4kDKj8W.png?v=1.0.0.1" group-title="Kids" tvg-id="Dunia Anak" tvg-name="Dunia Anak", Dunia Anak
-http://warningfm.github.io/utubeLive/nosignal/index.m3u8
+https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
 
 ########################################################     Local     ########################################################
 
