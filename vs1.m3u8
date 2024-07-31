@@ -554,11 +554,14 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD
 #EXTINF: -1 tvg-logo="https://i.imgur.com/dFmPXWJ.png?v=1.0.0.1" group-title="Knowledge" tvg-id="SONY BBC Earth" tvg-name="SONY BBC Earth HD", SONY BBC Earth HD
 http://warningfm.github.io/utubeLive/nosignal/index.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uweOMvbfFMqXv/W4rujK9Q", "kid":"J8igjqvNS7yI7aNpDL9qrw" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/WVpnAKn.png?v=1.0.0.1" group-title="Knowledge" tvg-id="5204" tvg-name="Discovery Asia (HD)", Discovery Asia
-http://khano.nng.cloudns.us/live/m3u8/op/7335edf66aba710.m3u8
+https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/AWvwPm5.png?v=1.0.0.1" group-title="Knowledge" tvg-id="DiscoveryChannel" tvg-name="Discovery Ch (HD)", Discovery Ch (HD)
-http://warningfm.github.io/utubeLive/nosignal/index.m3u8
+http://khano.nng.cloudns.us/live/m3u8/op/7335edf66aba710.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
