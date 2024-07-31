@@ -120,9 +120,6 @@ http://khano.nng.cloudns.us/live/m3u8/op/7335edf66aba710.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Dy7OlLF.png?v=1.0.0.1" group-title="Kids" tvg-id="6236" tvg-name="CBeebies (HD)", CBeebies (HD)
 https://cempedak-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/OrEXAse.png?v=1.0.0.1" group-title="Kids" tvg-id="5226" tvg-name="Cartoon Network (HD)", Cartoon Network (HD)
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/index.m3u8
-
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
@@ -158,9 +155,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/bMwkQEd.png?v=1.0.0.1" group-title="Kids" tvg-id="ZooMoo.sg" tvg-name="Zoomoo", Zoomoo
 https://cempedak-live-cdn.mncnow.id/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd
-
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/xXz1Lht.png?v=1.0.0.1" group-title="Kids" tvg-id="5228" tvg-name="Cartoonito (HD)", Cartoonito (HD)
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch372%29/index.m3u8
 
 #EXTINF:0 tvg-logo="https://cdn4.mbahnunungonline.net/img/DOpFSTU.png?v=1.0.0.1" group-title="Kids" tvg-id="MoonbugKids.us" tvg-name="Moonbug Kids", Moonbug Kids
 http://khano.nng.cloudns.us/live/m3u8/Kids/c36fa382a5bf123.m3u8
