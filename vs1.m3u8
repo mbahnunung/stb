@@ -175,6 +175,11 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(c99739b1-0748
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/SNzeDbZ.png?v=1.0.0.1" group-title="Kids" tvg-id="Horee.id" tvg-name="Horee", Horee
 https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7bd1932fa7de4cbab16db022d58b8d3e:395876eaa793b48c0837e304ae279de6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ekz0FMS.png?v=1.0.0.1" group-title="Kids" tvg-id="" tvg-name="Cartoonito", CARTOONITO 🇬🇧 🇷🇴 
+https://m7rovideolive.solocoo.tv/blueskylivedash/blueboomerang/Manifest.mpd
+
 ########################################################     Local     ########################################################
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
