@@ -23,9 +23,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/RdOrRX2.png?v=1.1.1.1" group-title="🇮🇩 tvN150N" ch-number="4" tvg-id="AlQuranKareem.id" tvg-name="Al Quran Al Kareem - [Channel 93].id", AlQuran Kareem
 https://cempedak-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/BbPufM8.png?v=1.1.1.1" group-title="🇮🇩 tvN150N" ch-number="5" tvg-id="Indosiar.id" tvg-name="Indosiar", Indosiar
-http://stb.mbahnunungonline.net/live/m3u8/id/575eeb9f08dc8da.m3u8
+https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Jj4S2E4.png?v=1.0.0.1" group-title="🇮🇩 tvN150N" ch-number="6" tvg-id="MetroTV.id" tvg-name="Metro TV", Metro TV
@@ -628,7 +630,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/hZRtYEf.png?v=1.0.0.1" group-title="⚽ Sports" tvg-id="SoccerChannel.id" tvg-name="Soccer Channel", Soccer Channel
-https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti-soccerchannel-hd.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/4AcGcN0.png?v=1.0.0.1" group-title="⚽ Sports" tvg-id="mjh-redbull-tv" tvg-name="Redbull TV", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
