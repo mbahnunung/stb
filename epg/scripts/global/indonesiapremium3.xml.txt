@@ -1,0 +1,137 @@
+ABC Australia;ABC Australia
+Aljazeera;Aljazeera
+AlQuran Kareem;AlQuran Kareem
+Animax;Animax
+Aniplus;Aniplus
+Antara;Antara
+ANTV;ANTV
+Arirang;Arirang
+Asian Food Network;Asian Food Network
+ATV;ATV
+AXN;AXN
+Bali TV;Bali TV
+beIN Sports 1;beIN Sports 1
+beIN Sports 3;beIN Sports 3
+Bioskop Indonesia;Bioskop Indonesia
+Bloomberg;Bloomberg
+Boomerang;Boomerang
+BTV;BTV
+Cartoon Network;Cartoon Network
+CCTV4;CCTV4
+Celestial Movie;Celestial Movie
+CGTN Documentary;CGTN Documentary
+Chinese Drama;Chinese Drama
+Cinema World;Cinema World
+Citra Dangdut;Citra Dangdut
+Citra Drama;Citra Drama
+CNBC Asia;CNBC Asia
+CNBC Indonesia;CNBC Indonesia
+CNN Indonesia;CNN Indonesia
+CNN International;CNN International
+Crime Investigation;Crime Investigation
+CTI Asia;CTI Asia
+Da Vinci Learning;Da Vinci Learning
+Daai TV;Daai TV
+Discovery Channel;Discovery Channel
+Dreamworks;Dreamworks
+Dunia anak;Dunia anak
+Dunia Lain;Dunia Lain
+DW (English);DW (English)
+Eat and Go;Eat and Go
+EBC Asia;EBC Asia
+Euronews;Euronews
+FashionTV;FashionTV
+Fight Sport;Fight Sport
+Flik;Flik
+Formosa;Formosa
+France 24;France 24
+Galaxy;Galaxy
+Galaxy Premium;Galaxy Premium
+GTV;GTV
+HGTV;HGTV
+History;History
+Hits;Hits
+HIts Movie;HIts Movie
+HITS Now;HITS Now
+Horee;Horee
+Horizon Sports;Horizon Sports
+IDX;IDX
+I-Konser;I-Konser
+IMC;IMC
+IndiKids;IndiKids
+Indonesiana TV;Indonesiana TV
+Indosiar;Indosiar
+iNews;iNews
+Insert;Insert
+JakTV;JakTV
+JTV;JTV
+KBS World;KBS World
+Kix;Kix
+Kompas TV;Kompas TV
+Kplus;Kplus
+Kungfu TV;Kungfu TV
+Lifetime;Lifetime
+Lingua;Lingua
+Mentari TV;Mentari TV
+Metro TV;Metro TV
+MNC;MNC
+MNC News;MNC News
+MOJI;MOJI
+Moonbug Kids;Moonbug Kids
+MQTV;MQTV
+MTATV;MTATV
+MTV Live;MTV Live
+Muhammadiyah TV;Muhammadiyah TV
+MUI TV;MUI TV
+Musik Indonesia;Musik Indonesia
+My Cinema;My Cinema
+My Cinema Asia;My Cinema Asia
+My Family;My Family
+MyKidz;MyKidz
+Nat Geo;Nat Geo
+Nat Geo Wild;Nat Geo Wild
+NBA;NBA
+Net.;Net.
+News Asia;News Asia
+nhk world Japan;nhk world Japan
+Nick Junior;Nick Junior
+Nickelodeon;Nickelodeon
+Nusantara TV;Nusantara TV
+Panda TV;Panda TV
+Paramount;Paramount
+Prambors;Prambors
+Rajawali TV;Rajawali TV
+RCTI;RCTI
+Rock Action;Rock Action
+Rock Entertainment;Rock Entertainment
+Rodja TV;Rodja TV
+RRI NET;RRI NET
+SCTV;SCTV
+SEA Today;SEA Today
+Seru!;Seru!
+SGEM;SGEM
+Shenzen;Shenzen
+SONE;SONE
+SPOTV;SPOTV
+SPOTV2;SPOTV2
+Tawaf TV;Tawaf TV
+Tech Storm;Tech Storm
+Thrill;Thrill
+TLC;TLC
+Trans7;Trans7
+TransTV;TransTV
+TRT World;TRT World
+TV One;TV One
+TV5Monde;TV5Monde
+TV9 NU;TV9 NU
+TVBS News;TVBS News
+TVN;TVN
+TVN Movies;TVN Movies
+TVRI;TVRI
+UChannel;UChannel
+UseePrime;UseePrime
+UseeSports;UseeSports
+UseeSports2;UseeSports2
+Warner;Warner
+ZBioskop;ZBioskop
+Zhejiang;Zhejiang

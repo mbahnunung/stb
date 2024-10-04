@@ -1,0 +1,40 @@
+AJWA TV;AJWA TV
+Aljazeera;Aljazeera
+ANTV;ANTV
+Bein 1;Bein 1
+Bein 3;Bein 3
+BTV;BTV
+Champions TV 1;Champions TV 1
+Champions TV 2;Champions TV 2
+Champions TV 3;Champions TV 3
+Champions TV 5;Champions TV 5
+Champions TV 6;Champions TV 6
+DAAI TV;DAAI TV
+Fashion TV Midnight Secrets;Fashion TV Midnight Secrets
+Hip Hip Horee!;Hip Hip Horee!
+Horee;Horee
+Indosiar;Indosiar
+Jaktv;Jaktv
+JTV;JTV
+Kompas TV;Kompas TV
+Makkah TV;Makkah TV
+Mentari TV;Mentari TV
+Metro TV;Metro TV
+Moji;Moji
+NET TV;NET TV
+News Asia;News Asia
+NHK World Japan;NHK World Japan
+Nusantara TV;Nusantara TV
+Premier League TV;Premier League TV
+RANS Channel;RANS Channel
+Rock Action;Rock Action
+RTV;RTV
+SCTV;SCTV
+TRANS TV;TRANS TV
+Trans7;Trans7
+TVN;TVN
+TVOne;TVOne
+TVRI;TVRI
+World Cup 1;World Cup 1
+World Cup 2;World Cup 2
+Zee Bioskop;Zee Bioskop
