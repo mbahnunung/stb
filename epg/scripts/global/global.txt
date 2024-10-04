@@ -1,3 +1,6 @@
+aqfindonesia.xml
+https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml
+
 indonesia.xml
 https://www.bevy.be/bevyfiles/indonesia.xml
 
