@@ -1,0 +1,39 @@
+name: Generate EPG every day
+on:
+  schedule:
+    - cron: '00 00-12/6 * * *'
+  pull_request:
+    branches:
+      - master
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.11
+      - name: config
+        run: |
+          git pull
+          git config --global user.email "warningfm@gmail.com"
+          git config --global user.name "warningfm"
+      - name: generate
+        run: |
+          cd epg/scripts
+          pwd
+          echo "Installing dependencies..."
+          python3 -m pip install lxml pgzip requests
+          echo "Generating EPG..."
+          python3 -u index.py -zo guide.xml --source="global/global.txt" --gen-name="ipt.mbahnunungonline.net" --gen-url="ipt.mbahnunungonline.net"
+          mv -v guide.xml.gz ..
+          cd ../..
+      - name: commit
+        run: |
+          git add -A
+          git commit -m "Generate EPG every day"
+          git push
