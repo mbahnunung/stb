@@ -645,11 +645,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/3GcxMUu.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://i.imgur.com/1bCDNce.jpg?v=1.0.0.1" tvg-id="5250" tvg-name="HGTV (HD)", HGTV
-https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/18b0e90c29afebbb0caae2ba8bdee9e2439d1817/f8a232cfff768fe.m3u8
+https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/int/f8a232cfff768fe.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/g6GJYLq.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://i.imgur.com/1bCDNce.jpg?v=1.0.0.1" tvg-id="FoodNetwork.uk" tvg-name="Food Network (HD)", Food Network
-https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/d184e15ae00a6fd37b6edbe5fe1f58331c5e701e/647844d232a8d60.m3u8
+https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/int/647844d232a8d60.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/t8AFvZJ.png?v=1.0.0.1", group-title="Lifestyle" group-logo="https://i.imgur.com/1bCDNce.jpg?v=1.0.0.1", B adventure
