@@ -640,23 +640,23 @@ https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=367f9bf4d0684f109d74a9eeb68d32be:59983c58c1b0daa1dcc370f697ccaead
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/ZJXotBY.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://i.imgur.com/1bCDNce.jpg?v=1.0.0.1" tvg-id="5256" tvg-name="AFN (HD)", Asian Food Network
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/ZJXotBY.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://i.imgur.com/h2a2AIf.png?v=1.0.0.1" tvg-id="5256" tvg-name="AFN (HD)", Asian Food Network
 https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/3GcxMUu.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://i.imgur.com/1bCDNce.jpg?v=1.0.0.1" tvg-id="5250" tvg-name="HGTV (HD)", HGTV
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/3GcxMUu.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://i.imgur.com/h2a2AIf.png?v=1.0.0.1" tvg-id="5250" tvg-name="HGTV (HD)", HGTV
 https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/int/f8a232cfff768fe.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/g6GJYLq.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://i.imgur.com/1bCDNce.jpg?v=1.0.0.1" tvg-id="FoodNetwork.uk" tvg-name="Food Network (HD)", Food Network
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/g6GJYLq.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://i.imgur.com/h2a2AIf.png?v=1.0.0.1" tvg-id="FoodNetwork.uk" tvg-name="Food Network (HD)", Food Network
 https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/int/647844d232a8d60.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cNuQLzT.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://i.imgur.com/1bCDNce.jpg?v=1.0.0.1" tvg-id="DENS Food Channel.id" tvg-name="DENS Food Channel.id", DENS Food Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cNuQLzT.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://i.imgur.com/h2a2AIf.png?v=1.0.0.1" tvg-id="DENS Food Channel.id" tvg-name="DENS Food Channel.id", DENS Food Channel
 http://khano.nng.cloudns.us/live/m3u8/id/dfc160946781414.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/t8AFvZJ.png?v=1.0.0.1", group-title="Lifestyle" group-logo="https://i.imgur.com/1bCDNce.jpg?v=1.0.0.1", B adventure
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/t8AFvZJ.png?v=1.0.0.1", group-title="Lifestyle" group-logo="https://i.imgur.com/h2a2AIf.png?v=1.0.0.1", B adventure
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/manifest.mpd
 
 ########################################################    Fashion    ########################################################
