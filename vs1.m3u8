@@ -17,7 +17,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd|Referer=https://www.visionplus.id
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sdrwEQf.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="4" tvg-id="ANTV.id" tvg-name="ANTV", antv
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sdrwEQf.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="4" tvg-id="ANTV.id" tvg-name="ANTV", ANTV
 https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/id/b630a001384603f.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Dw3SKHg.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="6" tvg-id="MetroTV.id" tvg-name="Metro TV", MetroTV
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Dw3SKHg.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="6" tvg-id="MetroTV.id" tvg-name="Metro TV", Metro TV
 https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/id/6183ec225226ccb.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sWeXuef.png?v=1.1.1.1" group-title="🇮🇩 Nasional" ch-number="7" tvg-id="Trans7.id" tvg-name="Trans 7", Trans7
@@ -93,7 +93,7 @@ https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/
 https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/id/3f58825fe229a8i.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/9arShxH.png?v=1.1.1.1" group-title="🇮🇩 Nasional" ch-number="23" tvg-id="MagnaTV" tvg-name="Magna TV", Magna Channel
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/9arShxH.png?v=1.1.1.1" group-title="🇮🇩 Nasional" ch-number="23" tvg-id="MagnaChannel.id" tvg-name="Magna Channel", Magna Channel
 https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/id/6183ec225226cce.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -102,12 +102,12 @@ https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/od0w7R3.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="25" tvg-id="Moji" tvg-name="MOJI", MOJI
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/od0w7R3.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="25" tvg-id="Moji.id" tvg-name="MOJI", MOJI
 https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/9JPHanf.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="26" tvg-id="Mentari TV" tvg-name="Mentari TV", MentariTV
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/9JPHanf.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="26" tvg-id="MentariTV.id" tvg-name="Mentari TV", Mentari TV
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -117,56 +117,56 @@ https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/
 ########################################################     Local     ########################################################
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/bKLoSVx.png?v=1.0.0.1" group-title="🇮🇩 Local" tvg-id="JTV.id" tvg-name="JTV", JTV
-https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/3cb5e432967e1c0b614bde9bd8eaa9775f102dca/226fe77699e03c6.m3u8
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/4P5UM89.png?v=1.1.1.1" group-title="🇮🇩 Local" tvg-id="JTV.id" tvg-name="JTV", JTV
+https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/id/226fe77699e03c6.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/NVODNmw.png?v=1.0.0.1" group-title="🇮🇩 Local" tvg-id="JakTV.id" tvg-name="Jak TV", JakTV
-https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/c93339cb20a9c5e44d3acaca539fd79dee1ba963/a6e7e966ea54cd3.m3u8
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/yvU25Cp.png?v=1.0.0.1" group-title="🇮🇩 Local" tvg-id="JakTV.id" tvg-name="Jak TV", JakTV
+https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/id/a6e7e966ea54cd3.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/U9zYPHc.png?v=1.0.0.1" group-title="🇮🇩 Local" tvg-id="DAAITV.id" tvg-name="DAAI TV", DAAI TV
-https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/17b7ea5dd796e160f826e3ec2b293a4ca4307d5e/0525ed2747e3161.m3u8
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/KawOb6q.png?v=1.1.1.1" group-title="🇮🇩 Local" tvg-id="DAAITV.id" tvg-name="DAAI TV", DAAITV
+https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/id/0525ed2747e3161.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/9i6ufQh.png?v=1.0.0.1" group-title="🇮🇩 Local" tvg-id="ElshintaTV.id" tvg-name="Elshinta TV", Elshinta TV
-https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/a0d5c015980da87d9e49cf0c3f9563266809d138/383fb71f4a76ab2.m3u8
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/k18lWrU.png?v=1.0.0.1" group-title="🇮🇩 Local" tvg-id="ElshintaTV.id" tvg-name="Elshinta TV", Elshinta TV
+https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/id/383fb71f4a76ab2.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Tj2eF2o.png?v=1.0.0.1" group-title="🇮🇩 Local" tvg-id="BaliTV.id" tvg-name="Bali TV.id", Bali TV
 https://cdn09jtedge.indihometv.com/atm/hlsv3/balitv/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/iXtcLdL.png?v=1.0.0.1" group-title="🇮🇩 Local" tvg-id="BandungTV.id" tvg-name="Bandung TV.id", Bandung TV
-https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/3a1d811aee40d584926ff27bc4fa6fb9d774d8a0/829dbdfe0b57013.m3u8
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/iXtcLdL.png?v=1.0.0.1" group-title="🇮🇩 Local" tvg-id="BandungTV.id" tvg-name="Bandung TV", Bandung TV
+https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/id/829dbdfe0b57013.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/XBtbPBF.png?v=1.0.0.1" group-title="🇮🇩 Local" tvg-id="TVRI.id" tvg-name="TVRI Jawa Timur", TVRI Jawa Timur
-https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/86cafb13c619f12156776130e6bf8b4460136268/3f58825fe229a8g.m3u8
+https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/id/3f58825fe229a8g.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/sjDo7Fq.png?v=1.0.0.1" group-title="🇮🇩 Local" tvg-id="JawaPosTV.id" tvg-name="Jawa Pos TV", Jawa Pos TV
-https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/2f40d986d520c053f2820c1f5284a1ebe2dab795/459caa984301138.m3u8
+https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/id/459caa984301138.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/DATJMK7.png?v=1.0.0.1" group-title="🇮🇩 Local" tvg-id="JPMTV.id" tvg-name="Jawa Pos TV",Jawa Pos TV (JPM)
-https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/3a1d811aee40d584926ff27bc4fa6fb9d774d8a0/226fe77699e03c7.m3u8
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/DATJMK7.png?v=1.0.0.1" group-title="🇮🇩 Local" tvg-id="JPMTV.id" tvg-name="JPM TV",Jawa Pos TV (JPM)
+https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/id/226fe77699e03c7.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TspQMBQ.png?v=1.0.0.1" group-title="🇮🇩 Local" tvg-id="Channel Jowo" tvg-name="Channel Jowo", Channel Jowo
-http://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8
+https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/id/1de333734b1b7e0.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/tlH0Quf.png?v=1.0.0.1" group-title="🇮🇩 Local" tvg-id="SaktiTV" tvg-name="Sakti TV", Sakti TV
-https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/950cc127181b4f32abccc00c901884af78b75212/3202e9487d9cd5c.m3u8
+https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/id/3202e9487d9cd5c.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/ehDWytF.png?v=1.0.0.1" group-title="🇮🇩 Local" tvg-id="TVKU" tvg-name="TVKU", TVKU
-https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/6d01382d09ad90cdb86830d483811764f8816ccd/29afb26faff1ccd.m3u8
+https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/id/29afb26faff1ccd.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/45ukWAy.png?v=1.0.0.1" group-title="🇮🇩 Local" tvg-id="dutaTV" tvg-name="duta TV", duta TV
-https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/0804928621b29f35f5ad5af65e3a9ac2c392ebc3/3254f236ad3e872.m3u8
+https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/id/3254f236ad3e872.m3u8
 
 ########################################################      Kids     ########################################################
 
