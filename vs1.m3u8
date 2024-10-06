@@ -267,7 +267,7 @@ https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/4Yk5Anu.png?v=1.0.0.1" group-title="Entertainment" tvg-id="5615" tvg-name="SEA Today", SEA Today
-https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/2a32dd6bd7782d5fec721f9a0aa271edb7b22b78/seatoday.m3u8
+https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/id/2224e34a782179c.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wvfo+UaN71Jm4BpMZGt2pg", "kid":"6r+7fdXvRhaZyHmwWUHhjQ" } ], "type":"temporary" }
@@ -286,7 +286,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/aKZ7opS.png?v=1.0.0.1" tvg-id="Da Vinci Learning" tvg-name"Da Vinci Learning", Da Vinci Learning
-https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/c7969de0e23eddae7b6a4419eed806fbc813c4f4/bcc43de11a0e1b3.m3u8
+https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/int/bcc43de11a0e1b3.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
