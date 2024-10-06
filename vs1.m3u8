@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://khano.nng.cloudns.us/epg/guide.xml.gz" url-tvg="http://khano.nng.cloudns.us/epg/guide.xml.gz" refresh="3600"
+#EXTM3U x-tvg-url="https://warningfm.github.io/x1/epg/guide.xml.gz" url-tvg="https://warningfm.github.io/x1/epg/guide.xml.gz" refresh="3600"
 
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
