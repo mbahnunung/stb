@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.nng.cloudns.us" url-tvg="http://epg.nng.cloudns.us" refresh="3600"
+#EXTM3U x-tvg-url="http://khano.nng.cloudns.us/epg/guide.xml.gz" url-tvg="http://khano.nng.cloudns.us/epg/guide.xml.gz" refresh="3600"
 
 #EXTM3U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
