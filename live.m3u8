@@ -186,9 +186,10 @@ http://khano.nng.cloudns.us/live/m3u8/ns/dcba938c62f7539.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/BwijqtC.png?v=1.0.0.1" group-title="News" tvg-id="NHKWorldJapan.jp" tvg-name"NHK World", NHK World
 http://khano.nng.cloudns.us/live/m3u8/ns/ec695f65e6a2f4b.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/DcF2NzS.png?v=1.0.0.1" group-title="News" tvg-id="TRTWorld.tr" tvg-name"TRT World", TRT World
-http://khano.nng.cloudns.us/live/m3u8/ns/27491db6bea155a.m3u8
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/fgUVz5m.png?v=1.0.0.1" group-title="News" tvg-id="aljazeeraarabic.kn" tvg-name="Al Jazeera Arabic HD", Al Jazeera Arabic HD
-http://khano.nng.cloudns.us/live/m3u8/ar/f5f5c18cf037918.m3u8
+http://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/S3Gn16p.png?v=1.0.0.1" group-title="News" tvg-id="Al arabiya" tvg-name="Al arabiya", Al arabiya
 http://khano.nng.cloudns.us/live/m3u8/ar/b8b58e25df2b3ce.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/xSCGVhz.png?v=1.0.0.1" group-title="News" tvg-id="AlManar.lb" tvg-name="Al-Manar TV", Al-Manar TV
