@@ -19,11 +19,12 @@ http://khano.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ISLk55hTmFU/YMOFgw3MJBI/AAAAAAAABEY/f-5hIh6bHC4D_roTzfsdwpuV0Xu7wGGJQCLcBGAsYHQ/s0/Jj4S2E4.png?v=1.0.0.1" group-title="tvN150N" tvg-id="MetroTV.id" tvg-name="Metro TV", Metro TV
 http://khano.nng.cloudns.us/live/m3u8/id/6183ec225226ccc.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yAoaEjGMwtg/YMOFhdLK3NI/AAAAAAAABEg/aL3SuCSNJJoU5RNuy6T1ctbHz21na8XxACLcBGAsYHQ/s0/QTEjMpg.png?v=1.1.1.1" group-title="tvN150N" tvg-id="Trans7.id" tvg-name="Trans 7", Trans7
-http://khano.nng.cloudns.us/live/m3u8/id/cdd283c9d3d43b6.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yAoaEjGMwtg/YMOFhdLK3NI/AAAAAAAABEg/aL3SuCSNJJoU5RNuy6T1ctbHz21na8XxACLcBGAsYHQ/s0/QTEjMpg.png?v=1.1.1.1" group-title="tvN150N" tvg-id="Trans7.id" tvg-name="Trans 7", Trans7
+https://servicebuss.transvision.co.id/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-irPeH0aY7Vs/YMOFhjlQnZI/AAAAAAAABEo/BL60bQ0Z0pI9hoQcWXvyer2eLJcVd4QUwCLcBGAsYHQ/s0/RnrimdT.png?v=1.0.0.1" group-title="tvN150N" tvg-id="TransTV.id" tvg-name="Trans TV", TransTV
 https://servicebuss.transvision.co.id/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -137,9 +138,11 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 
 ########################################################     Hindi     ########################################################
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9kAfga9QGgM/YaRVJu9gWYI/AAAAAAAABd0/uLvfdVcDMZkvcmvTyC-aUfHRfAtuoMfVACLcBGAsYHQ/s0/yvfUpGV.png?v=1.0.0.1" group-title="Hindi" tvg-id="Zee" tvg-name="Zee", Zee Bioskop
-http://edge.linknetott.swiftserve.com/channelgroup2/cg216production/ch161/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-wQHbKHxOruU/YaRUEymWMYI/AAAAAAAABdk/BPme3hn_dbgz5hsaJnXiyxJUFiXrVC8XQCLcBGAsYHQ/s0/UaHtwO2.png?v=1.0.0.1" group-title="Hindi" tvg-id="INBC28000122W" tvg-name="9X Music", 9X Music
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e7df70530006bef067327cefde82c0e:b92b6a2aba522bd9bb2d07cf241e7398
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9kAfga9QGgM/YaRVJu9gWYI/AAAAAAAABd0/uLvfdVcDMZkvcmvTyC-aUfHRfAtuoMfVACLcBGAsYHQ/s0/yvfUpGV.png?v=1.0.0.1" group-title="Hindi" tvg-id="Zee Bioskop.id" tvg-name="Zee Bioskop.id", Zee Bioskop
+https://d1abp075u76pbq.cloudfront.net/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd|Referer=https://www.visionplus.id
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-wQHbKHxOruU/YaRUEymWMYI/AAAAAAAABdk/BPme3hn_dbgz5hsaJnXiyxJUFiXrVC8XQCLcBGAsYHQ/s0/UaHtwO2.png?v=1.0.0.1" group-title="Hindi" tvg-id="INBC28000122W" tvg-name="9XM", 9X Music
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ZeLdXehPNQQ/YaRUovFxTPI/AAAAAAAABds/P7dt8s7g1ycXGE5eHgS71D6FLKLhwX4bgCLcBGAsYHQ/s0/D3WXba7.png?v=1.0.0.1" group-title="Hindi", B4U Music
 https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba711.m3u8
@@ -147,16 +150,16 @@ https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba711.m3u8
 https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba710.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-2CZWDn-gVks/YaRWeK4pqkI/AAAAAAAABeE/aawEF9bRY1YG8_xHo3Q1esrp3e0a2UwpgCLcBGAsYHQ/s0/C5EpW33.png?v=1.0.0.1" group-title="Hindi", Bflix Movies
 https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba711.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-pNKL6gq6voQ/YazhLEKfCjI/AAAAAAAABg4/i4mhlQMPZjIhITvzpILVp6I-P53LhRkTgCNcBGAsYHQ/s0/2UQNzYB.png?v=1.0.0.1" group-title="Hindi" tvg-id="Zing" tvg-name="Zing (Canada)", Zing
-http://khano.nng.cloudns.us/live/m3u8/hnd/zing.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-pNKL6gq6voQ/YazhLEKfCjI/AAAAAAAABg4/i4mhlQMPZjIhITvzpILVp6I-P53LhRkTgCNcBGAsYHQ/s0/2UQNzYB.png?v=1.0.0.1" group-title="Hindi" tvg-id="Zing" tvg-name="Zing", Zing
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing1/default/zing.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ZMWaf-9ttB0/Yazg-lx3EQI/AAAAAAAABg0/tdgLi3aMGXsIzR09F7VzVLWaOjq6oQjCgCNcBGAsYHQ/s0/ceBQDFq.png?v=1.0.0.1" group-title="Hindi" tvg-id="Zee TV" tvg-name="Zee TV HD", Zee TV
-http://khano.nng.cloudns.us/live/m3u8/hnd/zeetvhd.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-aTeGAVtEj6c/YazhdujNFBI/AAAAAAAABhE/tsO9m2hlNYwH1HWVfUo-vWTThrnzpAoWwCNcBGAsYHQ/s0/Akf09tQ.png?v=1.0.0.1" group-title="Hindi", Zee Bollywood
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood/default/zeebollywood.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd1/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-aTeGAVtEj6c/YazhdujNFBI/AAAAAAAABhE/tsO9m2hlNYwH1HWVfUo-vWTThrnzpAoWwCNcBGAsYHQ/s0/Akf09tQ.png?v=1.0.0.1" group-title="Hindi" tvg-id="Zee Bollywood" tvg-name="Zee Bollywood", Zee Bollywood
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood1/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-RArAA1PLfXc/Yazhuq-x75I/AAAAAAAABhM/ZEAGZgIIB7Ubho7CbkfsFXOEkeZNqWJGACNcBGAsYHQ/s0/gSsIODC.png?v=1.0.0.1" group-title="Hindi" tvg-id="Zee Cinema" tvg-name="Zee Cinema", Zee Cinema
-http://khano.nng.cloudns.us/live/m3u8/hnd/zeecinemahd.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-F7QBp_b-Qi0/Yazh8z3SLvI/AAAAAAAABhQ/FJ6SrgqpQZw_YrAzMTTPcrKjDNgOoJxjwCNcBGAsYHQ/s0/4L7BYKM.png?v=8.8.4.4" group-title="Hindi", &PicturesHD
-http://khano.nng.cloudns.us/live/m3u8/hnd/andpictureshd.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-F7QBp_b-Qi0/Yazh8z3SLvI/AAAAAAAABhQ/FJ6SrgqpQZw_YrAzMTTPcrKjDNgOoJxjwCNcBGAsYHQ/s0/4L7BYKM.png?v=8.8.4.4" group-title="Hindi" tvg-id="andpictures HD" tvg-name="andpictures HD", &pictures HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd1/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_0svg5azHp4/YaziJ_E58yI/AAAAAAAABhY/oamiMQd2h64IEwn_caccvXf4faCzT2iMwCNcBGAsYHQ/s0/36Sd3Rt.png?v=1.0.0.1" group-title="Hindi" tvg-id="Sony Max" tvg-name="Sony Max", Sony Max
 http://edge.linknetott.swiftserve.com/channelgroup4/cg401production/ch174/index.m3u8
 
