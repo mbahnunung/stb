@@ -128,11 +128,11 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-FEsiFZmwtbY/YRNvtf75QtI/AAAAAAAABMc/tYXOeAu802w1W0nNAE0VmlTuY3erWYGfwCLcBGAsYHQ/s0/s1mRWex.png?v=1.0.0.1" group-title="Malaysia" tvg-id="TV2" tvg-name="TV2", TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ANVwj4DYXvw/YXPNWrNbSXI/AAAAAAAABZA/Eg2TOIXqy30jYeyOLtp5KfNP9esaLbwCwCLcBGAsYHQ/s0/oW0riHe.jpg?v=1.1.1.1" group-title="Malaysia" tvg-id="TV3" tvg-name="TV3", TV3
-http://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fkv_-oOSb7E/YXPOxXhLvGI/AAAAAAAABZY/lwrgteqCHicRMwQZR0mkymzDC6LOv16AgCLcBGAsYHQ/s0/f2JzaMd.png?v=1.0.0.1" group-title="Malaysia" tvg-id="TV9" tvg-name="TV9", TV9
-http://live-streams-ssai-01.tonton.com.my/live/2020783a-0303-401a-9c92-b7c3c9108c0b/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-klZZ0QLUvto/YRN042dytQI/AAAAAAAABNM/kXEMDj7OD0ckkMH1prjNb6XGPTyUJ7H0ACLcBGAsYHQ/s0/6fEGqfK.png?v=1.0.0.1" group-title="Singapore" tvg-id="Channel NewsAsia" tvg-name="Channel NewsAsia", Channel News Asia
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/0c5WJlU.png?v=1.1.1.1" group-title="Malaysia" tvg-id="TV3" tvg-name="TV3", TV3
+https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/SQWHP5j.png?v=1.0.0.1" group-title="Malaysia" tvg-id="TV9" tvg-name="TV9", TV9
+https://tonton-live-ssai.akamaized.net/live/2020783a-0303-401a-9c92-b7c3c9108c0b/cmaf.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-klZZ0QLUvto/YRN042dytQI/AAAAAAAABNM/kXEMDj7OD0ckkMH1prjNb6XGPTyUJ7H0ACLcBGAsYHQ/s0/6fEGqfK.png?v=1.0.0.1" group-title="Singapore" tvg-id="Channel NewsAsia" tvg-name="CNA", CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
 ########################################################     Hindi     ########################################################
