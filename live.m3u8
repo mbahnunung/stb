@@ -257,16 +257,16 @@ http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/N0TKqJd.png?v=1.0.0.1" group-title="Movies" tvg-id="tvNMoviesAsia.hk" tvg-name="tvN Movies", TVN Movies
-http://op-group2-swiftservehd-1.dens.tv/h/h21/index.m3u8
+https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/Mov/d577c0880b08b2f.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/C4fAMFx.png?v=1.0.0.1" group-title="Movies" tvg-id="ParamountNetworkIndonesia.id" tvg-name="Paramount Network", Paramount Network
 http://s7.mbahnunungonline.net/live/m3u8/iptv/paramount.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/rlWbgCR.png?v=1.1.1.1" group-title="Movies" tvg-id="RockExtreme.sg" tvg-name="ROCK Action", ROCK Action
-http://s7.mbahnunungonline.net/live/m3u8/iptv/rockaction.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/p1a0RwN.png?v=1.0.0.1" group-title="Movies" tvg-id="RockEntertainment.sg" tvg-name="Rock Entertainment", Rock Entertainment
-http://s7.mbahnunungonline.net/live/m3u8/iptv/rockentertainment.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h16/index.m3u8
 
 ########################################################     RADIO     ########################################################
 
