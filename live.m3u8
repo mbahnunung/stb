@@ -152,16 +152,24 @@ http://khano.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8|user-agent=Mozilla
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fWptaGwAu_4/YROhuhWnZAI/AAAAAAAABOs/EV7vqN3WHnckLRH37Zs7X1G0E8ZESC9SgCLcBGAsYHQ/s0/6FcTok4.png?v=1.0.0.1" group-title="tvN150N" tvg-id="Saudi Sunna HD.ua" tvg-name="Saudi Sunna HD.ua", Al Sunnah Al Nabawiyah TV (Medina)
 http://khano.nng.cloudns.us/live/m3u8/ar/18d7c304801584a.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7JEi9_dcPeg/YROl1qfq_2I/AAAAAAAABPM/Q8pDdzocmoYCSzSB64p4Ll9s4_8IqdfpgCLcBGAsYHQ/s0/nclyzsj.png?v=1.0.0.1" group-title="Arab" tvg-id="Iqraa-Tv" tvg-name="Iqraa-Tv", Iqraa-Tv
-https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-YF73LSe6SHQ/YROmILrBmbI/AAAAAAAABPU/XBoXp3ghoewbWc7RWozxa3CX3aTjiu8YQCLcBGAsYHQ/s0/vUHoMzT.png?v=1.1.1.1" group-title="Arab" tvg-id="Makkah TV" tvg-name="Makkah TV", Makkah TV
-https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba711.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BpmnnBICvzY/YXPK-Z5QhDI/AAAAAAAABYo/YxZLfoeC5Y4I1VfCC-I9o5_94tDLF2vuwCLcBGAsYHQ/s0/tAqn0hP.png?v=1.0.0.1" group-title="Arab" tvg-id="SaudiTV.sa" tvg-name="Saudi TV", Saudi TV
-https://edge.taghtia.com/sa/2.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-rsx1P2KRtzA/YXPLbPP8mBI/AAAAAAAABYw/zrMwugaPMrsT_7zBHl9wzg4LrqCRWbxOQCLcBGAsYHQ/s0/yIDtEcz.jpg?v=1.1.1.1" group-title="Arab" tvg-id="DubaiTV.ae" tvg-name="Dubai TV", Dubai TV
-/live/m3u8/ar/bcc43de11a0e1b3.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ZEmXPKO9S4U/YXPLtFdDq-I/AAAAAAAABY4/K_-kfoVmPKM4tdLO8lgABODAqWrulPx1ACLcBGAsYHQ/s0/6NbRu5c.png?v=1.0.0.1" group-title="Arab" tvg-id="Noor Dubai TV" tvg-name="Noor Dubai TV", Noor Dubai TV
-https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7JEi9_dcPeg/YROl1qfq_2I/AAAAAAAABPM/Q8pDdzocmoYCSzSB64p4Ll9s4_8IqdfpgCLcBGAsYHQ/s0/nclyzsj.png?v=1.0.0.1" group-title="Arab" tvg-id="IqraTV.uk" tvg-name="IQRA TV.uk", Iqra TV
+http://khano.nng.cloudns.us/live/m3u8/ar/df36e66d66f4156.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-YF73LSe6SHQ/YROmILrBmbI/AAAAAAAABPU/XBoXp3ghoewbWc7RWozxa3CX3aTjiu8YQCLcBGAsYHQ/s0/vUHoMzT.png?v=1.1.1.1" group-title="Arab" tvg-id="Makkah TV.ar" tvg-name="Makkah TV.ar", Makkah TV
+http://khano.nng.cloudns.us/live/m3u8/ar/3058a2456b128c1.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yIDtEcz.png?v=1.1.1.1" group-title="Dubai" tvg-id="Dubai TV HD.ua" tvg-name="Dubai TV HD.ua", Dubai TV
+https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/ar/bcc43de11a0e1b3.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6NbRu5c.png?v=1.0.0.1" group-title="Dubai" tvg-id="Noor Dubai.ua" tvg-name="Noor Dubai.ua", Noor Dubai TV
+https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/master.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KttTuz6.png?v=1.0.0.1" group-title="Dubai" tvg-id="Dubai One.ua" tvg-name="Dubai One.ua", Dubai One
+https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/master.m3u8
 
 ########################################################   MalaysiaTV  ########################################################
 
