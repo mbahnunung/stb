@@ -48,13 +48,17 @@ http://khano.nng.cloudns.us/live/m3u8/id/0976f879a0c4548.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-krWxMeHwxrM/YRJC1qPBLiI/AAAAAAAABK8/I6ecPYNF59obT6YQqrDmosB9uVU0QzC-gCLcBGAsYHQ/s0/FGSb1Vw.png?v=1.0.0.1" group-title="tvN150N" tvg-id="CitraDangdut.id" tvg-name="Citra Dangdut", Citra Dangdut
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-mQPuaSA2MD4/YMOFi2xTJ1I/AAAAAAAABFA/OGNqwGFRWxAFfj8MPP2b12h1CAX1HhNYACLcBGAsYHQ/s0/jqNYjGu.png?v=1.0.0.1" group-title="tvN150N" tvg-id="NET.id" tvg-name="NET TV", NET.
-http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-GJ3HxKhpQiQ/YMOFj7kvn3I/AAAAAAAABFM/ounfS_2q6ioyAftyC3HEyqmVAQ1tKgmegCLcBGAsYHQ/s0/zg4YPTD.png?v=1.1.1.1" group-title="tvN150N" tvg-id="Maleo" tvg-name="MTV Live", Maleo
 https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-im1wyciwT3A/YRa4drCVz6I/AAAAAAAABTE/qy8luMe5yTowjdCdsuu-m4WVuYlZ226TACLcBGAsYHQ/s0/eLjHSKm.png?v=1.1.1.1" group-title="tvN150N" tvg-id="NusantaraTV.id" tvg-name="Nusantara TV", NusantaraTV
+http://khano.nng.cloudns.us/live/m3u8/id/378a642ff00fed9.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-mQPuaSA2MD4/YMOFi2xTJ1I/AAAAAAAABFA/OGNqwGFRWxAFfj8MPP2b12h1CAX1HhNYACLcBGAsYHQ/s0/jqNYjGu.png?v=1.0.0.1" group-title="tvN150N" tvg-id="NET.id" tvg-name="NET TV", NET.
+http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ep5F0g7U91Q/YMOFiX0jbGI/AAAAAAAABE0/UIyb8Hyrd682jQ5DXo9AolJQxy1luiFawCLcBGAsYHQ/s0/XlZqfwV.png?v=1.1.1.1" group-title="tvN150N" tvg-id="RajawaliTV.id" tvg-name="RTV", RTV
@@ -79,10 +83,6 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Edy-dDv89ZA/YMOFi3Put8I/AAAAAAAABE8/yh_egePZ7v8uz1lUDjXzNjVJvlJjMIA_QCLcBGAsYHQ/s0/gII3Eq8.png?v=1.0.0.1" group-title="tvN150N" tvg-id="BeritaSatu.id" tvg-name="Berita Satu", BTV
 http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843f.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-im1wyciwT3A/YRa4drCVz6I/AAAAAAAABTE/qy8luMe5yTowjdCdsuu-m4WVuYlZ226TACLcBGAsYHQ/s0/eLjHSKm.png?v=1.1.1.1" group-title="tvN150N" tvg-id="NusantaraTV.id" tvg-name="Nusantara TV", NusantaraTV
-http://khano.nng.cloudns.us/live/m3u8/id/378a642ff00fed9.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-CID2wYVDXMA/YMOFfU3URMI/AAAAAAAABD8/oMaieyhDZCklUBv-8pQljrHLIMHK_7GoQCLcBGAsYHQ/s0/1Mtx9mY.png?v=1.1.1.1" group-title="tvN150N" tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia", CNN Indonesia
