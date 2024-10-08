@@ -11,8 +11,8 @@ http://khano.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847b.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-aMcvtlHs7GQ/YRa7HF6-GwI/AAAAAAAABTM/fgzEO-rE8yMV_uzGaQQ6yp9TrOgHOYwiwCLcBGAsYHQ/s0/HJHmRAh.png?v=1.1.1.1" group-title="tvN150N" tvg-id="MNCTV.id" tvg-name="MNC TV", MNCTV
 https://1a-mnctv.rctiplus.id/mnctv-sdi.mpd|Referer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3Ur9mQDmgIU/YMOFhmXfs_I/AAAAAAAABEk/taYbuYCWiuEA7Y5q9msgBPDl-aOO_JdVACLcBGAsYHQ/s0/RdOrRX2.png?v=1.1.1.1" group-title="tvN150N" tvg-id="AlQuranKareem.id" tvg-name="Al Quran Al Kareem", AlQuran Kareem
-http://khano.nng.cloudns.us/live/m3u8/ar/f74b5dff8b8e6c6.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--m-tf_1Hlmk/YQ-_XEI4EHI/AAAAAAAABI8/STJkg-d0ge0i5Qksv2Vp49eI47CH9h8bgCLcBGAsYHQ/s0/sxlxwvA.png?v=1.0.0.1" group-title="tvN150N" tvg-id="ANTV.id" tvg-name="ANTV", antv
+http://khano.nng.cloudns.us/live/m3u8/id/b630a001384603f.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-5ZxSkqFEDrE/YMOFgN2TyqI/AAAAAAAABEM/0oHHHxoQveQ16OoWUgCsMZojtkip6x66QCLcBGAsYHQ/s0/BbPufM8.png?v=1.1.1.1" group-title="tvN150N" tvg-id="Indosiar.id" tvg-name="Indosiar", Indosiar
 http://khano.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
@@ -43,8 +43,9 @@ http://khano.nng.cloudns.us/live/m3u8/id/0976f879a0c4548.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ep5F0g7U91Q/YMOFiX0jbGI/AAAAAAAABE0/UIyb8Hyrd682jQ5DXo9AolJQxy1luiFawCLcBGAsYHQ/s0/XlZqfwV.png?v=1.1.1.1" group-title="tvN150N" tvg-id="RajawaliTV.id" tvg-name="RTV", RTV
 http://khano.nng.cloudns.us/live/m3u8/id/590642f0a31efa4.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--m-tf_1Hlmk/YQ-_XEI4EHI/AAAAAAAABI8/STJkg-d0ge0i5Qksv2Vp49eI47CH9h8bgCLcBGAsYHQ/s0/sxlxwvA.png?v=1.0.0.1" group-title="tvN150N" tvg-id="ANTV.id" tvg-name="ANTV", antv
-http://khano.nng.cloudns.us/live/m3u8/id/b630a001384603f.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3Ur9mQDmgIU/YMOFhmXfs_I/AAAAAAAABEk/taYbuYCWiuEA7Y5q9msgBPDl-aOO_JdVACLcBGAsYHQ/s0/RdOrRX2.png?v=1.1.1.1" group-title="tvN150N" tvg-id="AlQuranKareem.id" tvg-name="Al Quran Al Kareem", AlQuran Kareem
+http://khano.nng.cloudns.us/live/m3u8/ar/f74b5dff8b8e6c6.m3u8
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-XVXPUmZD94k/YMOFiwPPw1I/AAAAAAAABE4/xP4HMP2m7gYKwTn4H35HmejWpek8VNFXQCLcBGAsYHQ/s0/aJhpmgf.png?v=1.0.0.1" group-title="tvN150N" tvg-id="KompasTV.id" tvg-name="Kompas TV", Kompas TV
 http://khano.nng.cloudns.us/live/m3u8/id/ae5f9d6bcd610b6.m3u8
