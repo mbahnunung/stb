@@ -137,10 +137,11 @@ http://khano.nng.cloudns.us/live/m3u8/id/459caa984301138.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/383fb71f4a76ab2.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Vilyz9s.png?v=1.0.0.1" group-title="tvN150N" tvg-id="IDTV" tvg-name="ID TV", IDTV
-http://khano.nng.cloudns.us/live/m3u8/m3u8/id/270f72deeb5843e.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/refs/heads/cast/img/Vilyz9s.png?v=1.0.0.1" group-title="tvN150N" tvg-id="IDTV" tvg-name="ID TV", IDTV
+http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843e.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/refs/heads/cast/img/LCBLk2T.png?v=1.0.0.1" group-title="tvN150N" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="24" tvg-id="Local.Programming.Dummy.us" tvg-name="BN Channel",BN Channel
+http://khano.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8|user-agent=Mozilla/5.0
 
 ########################################################   Arab TV    ########################################################
 
