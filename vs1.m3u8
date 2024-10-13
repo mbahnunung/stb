@@ -814,9 +814,9 @@ https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.m
 https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7
+#KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
 #EXTINF:-1 group-title=" HBO GO " group-logo="https://i.imgur.com/1gJbl86.png?v=1.0.0.1" tvg-logo="https://warningfm.github.io/v3/img/ew9mSea.png?v=1.0.0.1" tvg-id="CinemaxHD.id" tvg-name="CINEMAX (HD)", Cinemax HD
-https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
+https://atemeshield1-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 
 ########################################################    Korengan   ########################################################
 
