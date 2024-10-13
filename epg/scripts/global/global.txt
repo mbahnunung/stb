@@ -94,8 +94,11 @@ https://www.bevy.be/bevyfiles/turkey.xml
 turkeypremium1.xml
 https://www.bevy.be/bevyfiles/turkeypremium1.xml
 
-indihometv.com.xml
-https://raw.githubusercontent.com/warningfm/v2/refs/heads/cloud/indihometv.com.xml
+thailand.xml
+https://www.bevy.be/bevyfiles/thailand.xml
 
 vidio.com.xml
 https://raw.githubusercontent.com/warningfm/v2/refs/heads/cloud/vidio.com.xml
+
+indihometv.com.xml
+https://raw.githubusercontent.com/warningfm/v2/refs/heads/cloud/indihometv.com.xml
