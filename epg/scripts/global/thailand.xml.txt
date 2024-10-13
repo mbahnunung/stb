@@ -1,0 +1,114 @@
+3 HD.th;3 HD.th
+3BB Asian.th;3BB Asian.th
+3BB Sports One.th;3BB Sports One.th
+4050.th;4050.th
+Al Jazeera.th;Al Jazeera.th
+ALTV4.th;ALTV4.th
+AmarinTV HD.th;AmarinTV HD.th
+Animal Planet.th;Animal Planet.th
+AniPlus.th;AniPlus.th
+Arirang.th;Arirang.th
+Asian Food Network.th;Asian Food Network.th
+ATTV.th;ATTV.th
+BBC Lifestyle.th;BBC Lifestyle.th
+BBC News.th;BBC News.th
+beIN SPORTS 1.th;beIN SPORTS 1.th
+beIN SPORTS 2.th;beIN SPORTS 2.th
+beIN SPORTS 3.th;beIN SPORTS 3.th
+Boomerang.th;Boomerang.th
+Cartoon Club.th;Cartoon Club.th
+Cartoon Network.th;Cartoon Network.th
+Cartoonito.th;Cartoonito.th
+CCTV4.th;CCTV4.th
+CGTN.th;CGTN.th
+CH5 HD.th;CH5 HD.th
+CH7 HD.th;CH7 HD.th
+CH8.th;CH8.th
+Channel News Asia.th;Channel News Asia.th
+CINEMAX.th;CINEMAX.th
+CNN.th;CNN.th
+DHARMA TV.th;DHARMA TV.th
+Discovery Asia.th;Discovery Asia.th
+Discovery.th;Discovery.th
+DLTV1.th;DLTV1.th
+DLTV10.th;DLTV10.th
+DLTV11.th;DLTV11.th
+DLTV12.th;DLTV12.th
+DLTV13.th;DLTV13.th
+DLTV14.th;DLTV14.th
+DLTV15.th;DLTV15.th
+DLTV2.th;DLTV2.th
+DLTV3.th;DLTV3.th
+DLTV4.th;DLTV4.th
+DLTV5.th;DLTV5.th
+DLTV6.th;DLTV6.th
+DLTV7.th;DLTV7.th
+DLTV8.th;DLTV8.th
+DLTV9.th;DLTV9.th
+DW.th;DW.th
+ETV.th;ETV.th
+Euro News.th;Euro News.th
+Eurosport Asia.th;Eurosport Asia.th
+Food Network.th;Food Network.th
+France 24.th;France 24.th
+Global Trekker.th;Global Trekker.th
+GMM25.th;GMM25.th
+GOLF CHANNEL.th;GOLF CHANNEL.th
+HBO Family.th;HBO Family.th
+HBO Hits.th;HBO Hits.th
+HBO Signature.th;HBO Signature.th
+HBO.th;HBO.th
+HITS Movies.th;HITS Movies.th
+HITS.th;HITS.th
+HLN.th;HLN.th
+JKN 18.th;JKN 18.th
+JKN HI SHOPPING.th;JKN HI SHOPPING.th
+JKN-CNBC.th;JKN-CNBC.th
+LunthungTV.th;LunthungTV.th
+Mangkorn.th;Mangkorn.th
+MCOT HD.th;MCOT HD.th
+Media TV.th;Media TV.th
+Mix Major.th;Mix Major.th
+MONO.th;MONO.th
+MONO29 Music Station.th;MONO29 Music Station.th
+MONO29 Plus.th;MONO29 Plus.th
+MV Lao.th;MV Lao.th
+MVTV.th;MVTV.th
+Nation TV.th;Nation TV.th
+NBT 2 HD.th;NBT 2 HD.th
+NEW TM.th;NEW TM.th
+News 1.th;News 1.th
+NHK.th;NHK.th
+Nick Jr..th;Nick Jr..th
+Nickelodeon.th;Nickelodeon.th
+O shopping.th;O shopping.th
+ONE 31 HD.th;ONE 31 HD.th
+Paramount Network.th;Paramount Network.th
+Parliament.th;Parliament.th
+Police TV.th;Police TV.th
+PPTV HD.th;PPTV HD.th
+Rama Channel.th;Rama Channel.th
+ROCK Action.th;ROCK Action.th
+ROCK ENTERTAINMENT.th;ROCK ENTERTAINMENT.th
+RT Channel.th;RT Channel.th
+RT Documentary.th;RT Documentary.th
+TechStorm.th;TechStorm.th
+Thairath TV HD.th;Thairath TV HD.th
+TLC.th;TLC.th
+TNN.th;TNN.th
+TOP News.th;TOP News.th
+Topline.th;Topline.th
+TPBS.th;TPBS.th
+True 4 U.th;True 4 U.th
+True Shopping.th;True Shopping.th
+TrueSelect.th;TrueSelect.th
+T-Sports7.th;T-Sports7.th
+TV5MONDE.th;TV5MONDE.th
+TVB Thai.th;TVB Thai.th
+TVBS News.th;TVBS News.th
+TVD 1.th;TVD 1.th
+TVD MOMO.th;TVD MOMO.th
+VTV News.th;VTV News.th
+Warner TV.th;Warner TV.th
+White Channel.th;White Channel.th
+Workpoint TV.th;Workpoint TV.th
