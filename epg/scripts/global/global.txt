@@ -85,6 +85,9 @@ https://www.bevy.be/bevyfiles/unitedstatespremium1.xml
 unitedstatespremium4.xml
 https://www.bevy.be/bevyfiles/unitedstatespremium4.xml
 
+us.xml
+https://i.mjh.nz/PlutoTV/us.xml
+
 czech.xml
 https://www.bevy.be/bevyfiles/czech.xml
 
