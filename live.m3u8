@@ -390,25 +390,23 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
 https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#KODIPROP:inputstream.adaptive.license_key=d2159ffe3be22ed4916a6abe4d58d265:3e4efcec08d5d5c18a403b7048a43638
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/pmnxhBQ.png?v=1.0.0.1" group-title="⚽ Sports" tvg-id="FightSports.us" tvg-name="Fight Sports.id", Fight Sports
-https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
+https://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Dpcqpim.png?v=1.0.0.1" group-title="⚽ Sports" tvg-id="HorizonSports.us.id" tvg-name="Horizon Sports", Horizon Sports
 https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/sprt/3b5901d4c8158d3.m3u8
 
-#EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/zfcBrM4.png?v=1.0.0.1" group-title="⚽ Sports" tvg-id="SPOTV.id" tvg-name="SPOTV", SPOTV
-https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 
-#EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/wDbt2cl.png?v=1.0.0.1" group-title="⚽ Sports" tvg-id="SPOTV2.id" tvg-name="SPOTV2", SPOTV2
-https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
