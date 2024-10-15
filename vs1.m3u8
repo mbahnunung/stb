@@ -73,7 +73,7 @@ https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/
 https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/id/d12f0b99ed1f070.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/g3hWHhA.png?v=1.1.1.1" group-title="🇮🇩 Nasional" ch-number="18" tvg-id="TVRISport.id" tvg-name="TVRI.id", TVRI Sport HD
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/g3hWHhA.png?v=1.1.1.1" group-title="🇮🇩 Nasional" ch-number="18" tvg-id="TVRISport.id" tvg-name="TVRI Sport HD", TVRI Sport HD
 https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/id/3f58825fe229a8h.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
