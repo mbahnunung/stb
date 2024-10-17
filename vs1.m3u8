@@ -81,28 +81,28 @@ https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Si0yCfg.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="19" tvg-id="BTV.id" tvg-name="BTV", BTV
 https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/id/270f72deeb5843f.m3u8
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/uJTTmk8.png?v=1.1.1.1" group-title="🇮🇩 Nasional" ch-number="20" tvg-id="CNBCIndonesia.id" tvg-name="CNBC Indonesia", CNBC Indonesia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/od0w7R3.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="20" tvg-id="Moji.id" tvg-name="MOJI", MOJI
+https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
+
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/uJTTmk8.png?v=1.1.1.1" group-title="🇮🇩 Nasional" ch-number="21" tvg-id="CNBCIndonesia.id" tvg-name="CNBC Indonesia", CNBC Indonesia
 https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/id/ef7e8c7bc86110e.m3u8
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/tIFiAdl.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="21" tvg-id="GarudaTV.id" tvg-name="Garuda TV", GarudaTV
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/tIFiAdl.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="22" tvg-id="GarudaTV.id" tvg-name="Garuda TV", GarudaTV
 https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/id/b825800cf4d3aaa.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/5yKwYhk.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="22" tvg-id="TVRI.id" tvg-name="TVRI.id", TVRI World HD
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/5yKwYhk.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="23" tvg-id="TVRI.id" tvg-name="TVRI.id", TVRI World HD
 https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/id/3f58825fe229a8i.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/9arShxH.png?v=1.1.1.1" group-title="🇮🇩 Nasional" ch-number="23" tvg-id="MagnaChannel.id" tvg-name="Magna Channel", Magna Channel
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/9arShxH.png?v=1.1.1.1" group-title="🇮🇩 Nasional" ch-number="24" tvg-id="MagnaChannel.id" tvg-name="Magna Channel", Magna Channel
 https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/id/6183ec225226cce.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Vilyz9s.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="24" tvg-id="IDTV" tvg-name="ID TV", IDTV
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Vilyz9s.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="25" tvg-id="IDTV" tvg-name="ID TV", IDTV
 https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/id/270f72deeb5843e.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/od0w7R3.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="25" tvg-id="Moji.id" tvg-name="MOJI", MOJI
-https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
