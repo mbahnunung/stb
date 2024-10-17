@@ -237,7 +237,7 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7bd1932fa7de4cbab16db022d58b8d3e:395876eaa793b48c0837e304ae279de6
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ekz0FMS.png?v=1.0.0.1" group-title="Kids" group-logo="https://i.imgur.com/BxvUXcn.png?v=1.0.0.1" tvg-id="" tvg-name="Cartoonito", CARTOONITO 🇬🇧 🇷🇴 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H8QSTW8.png?v=1.0.0.1" group-title="Kids" group-logo="https://i.imgur.com/BxvUXcn.png?v=1.0.0.1" tvg-id="" tvg-name="Cartoonito", CARTOONITO 🇬🇧 🇷🇴 
 https://m7rovideolive.solocoo.tv/blueskylivedash/blueboomerang/Manifest.mpd
 
 ######################################################## Entertainment ########################################################
