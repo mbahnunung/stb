@@ -270,7 +270,7 @@ https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wvfo+UaN71Jm4BpMZGt2pg", "kid":"6r+7fdXvRhaZyHmwWUHhjQ" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/OeBBgcc.png?v=1.0.0.1" group-title="Entertainment" tvg-id="Citra Drama" tvg-name="Citra Drama (HD)", Citra Drama
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/OeBBgcc.png?v=1.0.0.1" group-title="Entertainment" tvg-id="ChineseDrama.id" tvg-name="Citra Drama (HD)", Citra Drama
 https://atemeshield1-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
