@@ -26,8 +26,8 @@ https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/
 https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/id/6183ec225226ccc.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sWeXuef.png?v=1.1.1.1" group-title="🇮🇩 Nasional" ch-number="7" tvg-id="Trans7.id" tvg-name="Trans 7", Trans7
-#https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/id/cdd283c9d3d43b5.m3u8
-https://zozotv.xyz:443/live/lisshomestay/@1212/44.ts
+https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/id/cdd283c9d3d43b5.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
