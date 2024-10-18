@@ -1023,25 +1023,14 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d2
 
 ########################################################    RCTI+   ########################################################
 
-#EXTINF:-1 group-title="RCTI+" group-logo="https://i.imgur.com/hQChToD.png?v=1.0.0.1" tvg-id="RCTI.id" tvg-logo="https://i.imgur.com/gsh3JQg.png",RCTI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://1a-rcti.rctiplus.id/rcti-sdi.mpd
-
-#EXTINF:-1 group-title="RCTI+" group-logo="https://i.imgur.com/hQChToD.png?v=1.0.0.1" tvg-id="MNCTV.id" tvg-logo="https://i.imgur.com/KU9R3ZR.png",MNCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://1a-mnctv.rctiplus.id/mnctv-sdi.mpd
-
-#EXTINF:-1 group-title="RCTI+" group-logo="https://i.imgur.com/hQChToD.png?v=1.0.0.1" tvg-id="GTV.id" tvg-logo="https://i.imgur.com/5LCTihb.png",GTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://1a-gtv.rctiplus.id/gtv-sdi.mpd
-
-#EXTINF:-1 group-title="RCTI+" group-logo="https://i.imgur.com/hQChToD.png?v=1.0.0.1" tvg-id="iNews.id" tvg-logo="https://i.imgur.com/PRrzyHd.png",iNews
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://1a-inews.rctiplus.id/inews-sdi.mpd
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-4vn2eAluQ8E/YaHV_r0OksI/AAAAAAAABbg/LvE4G9XqvFYw6RhmfbSMCK0cdlU4Ls9iwCLcBGAsYHQ/s0/rA0rUsj.png?v=1.1.1.1" group-title="RCTI+" tvg-id="RCTI.id" tvg-name="RCTI", RCTI
+https://1a-rcti.rctiplus.id/rcti-sdi.mpd|Referer=https://www.rctiplus.com
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-qovVcapetqw/YaHWqQxM-PI/AAAAAAAABbo/Oo0aERE3uqMBKQnm1UVH5TH4hQGMsFHgwCLcBGAsYHQ/s0/AWnnWow.png?v=1.1.1.1" group-title="RCTI+" tvg-id="MNCTV.id" tvg-name="MNCTV", MNCTV
+https://1a-mnctv.rctiplus.id/mnctv-sdi.mpd|Referer=https://www.rctiplus.com
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-GR57XA8olF8/YMOFfPvSOCI/AAAAAAAABEA/bOl3WXT_UR4IBjao-dPtkBXKz8wO3UivACLcBGAsYHQ/s0/45Vmwv5.png?v=1.1.1.1" group-title="RCTI+" tvg-id="GTV.id" tvg-name="GTV", GTV
+https://1a-gtv.rctiplus.id/gtv-sdi.mpd|Referer=https://www.rctiplus.com
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DgVXdILk_2U/YMOFgRvUd8I/AAAAAAAABEQ/tlWQu2OAmxwnyVFbaa1KFXsseg5Ie5OnACLcBGAsYHQ/s0/EknqlDs.png?v=1.0.0.1" group-title="RCTI+" tvg-id="iNews.id" tvg-name="iNews", iNews
+https://1a-inews.rctiplus.id/inews-sdi.mpd|Referer=https://www.rctiplus.com
 
 ########################################################     samsung-tvplus     ########################################################
 
