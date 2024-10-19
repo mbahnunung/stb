@@ -107,7 +107,7 @@ https://warningfm.github.io/v3/live/str/id/270f72deeb5843g.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/LCBLk2T.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="27" tvg-id="Local.Programming.Dummy.us" tvg-name="BN Channel",BN Channel
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/LCBLk2T.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="27" tvg-id="BNTV" tvg-name="BN Channel",BN Channel
 https://warningfm.github.io/v3/live/str/id/6183ec225226ccf.m3u8
 
 ########################################################     Local     ########################################################
