@@ -142,11 +142,11 @@ https://warningfm.github.io/v3/live/str/id/829dbdfe0b57013.m3u8
 https://warningfm.github.io/v3/live/str/id/3f58825fe229a8g.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sjDo7Fq.png?v=1.0.0.1" group-title="Local" tvg-id="JawaPosTV.id" tvg-name="Jawa Pos TV", Jawa Pos TV
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/rKyn10E.png?v=1.0.0.1" group-title="Local" tvg-id="JawaPosTV.id" tvg-name="Jawa Pos TV", Jawa Pos TV
 https://warningfm.github.io/v3/live/str/id/459caa984301138.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/DATJMK7.png?v=1.0.0.1" group-title="Local" tvg-id="JPMTV.id" tvg-name="JPM TV",Jawa Pos TV (JPM)
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sjDo7Fq.png?v=1.0.0.1" group-title="Local" tvg-id="JPMTV.id" tvg-name="JPM TV",Jawa Pos TV (JPM)
 https://warningfm.github.io/v3/live/str/id/226fe77699e03c7.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
