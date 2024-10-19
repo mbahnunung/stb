@@ -30,12 +30,12 @@ https://warningfm.github.io/v3/live/str/id/6183ec225226ccc.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yAoaEjGMwtg/YMOFhdLK3NI/AAAAAAAABEg/aL3SuCSNJJoU5RNuy6T1ctbHz21na8XxACLcBGAsYHQ/s0/QTEjMpg.png?v=1.1.1.1" group-title="tvN150N" tvg-id="Trans7.id" tvg-name="Trans 7", Trans7
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/2bBYR4N.png?v=1.1.1.1" group-title="tvN150N" tvg-id="Trans7.id" tvg-name="Trans 7", Trans7
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-irPeH0aY7Vs/YMOFhjlQnZI/AAAAAAAABEo/BL60bQ0Z0pI9hoQcWXvyer2eLJcVd4QUwCLcBGAsYHQ/s0/RnrimdT.png?v=1.0.0.1" group-title="tvN150N" tvg-id="TransTV.id" tvg-name="Trans TV", TransTV
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/QwS47vl.png?v=1.0.0.1" group-title="tvN150N" tvg-id="TransTV.id" tvg-name="Trans TV", TransTV
 https://d1abp075u76pbq.cloudfront.net/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd|Referer=https://www.visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
