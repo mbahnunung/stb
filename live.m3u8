@@ -25,7 +25,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ISLk55hTmFU/YMOFgw3MJBI/AAAAAAAABEY/f-5hIh6bHC4D_roTzfsdwpuV0Xu7wGGJQCLcBGAsYHQ/s0/Jj4S2E4.png?v=1.0.0.1" group-title="tvN150N" tvg-id="MetroTV.id" tvg-name="Metro TV", Metro TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t1oPyuG.png?v=1.0.0.1" group-title="tvN150N" tvg-id="MetroTV.id" tvg-name="Metro TV", Metro TV
 https://warningfm.github.io/v3/live/str/id/6183ec225226ccc.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
