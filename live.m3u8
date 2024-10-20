@@ -44,7 +44,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.m
 https://d1abp075u76pbq.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd|Referer=https://www.visionplus.id
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kPU9eV5MyK8/YMOFg1dHAbI/AAAAAAAABEc/tWJYK_5cqkUMkKDQBq_Z1lDMmEnGLgiLACLcBGAsYHQ/s0/N1yKLa1.png?v=1.1.1.1" group-title="tvN150N" tvg-id="TVOne.id" tvg-name="TVOne", tvOne
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w12vlFx.png?v=1.1.1.1" group-title="tvN150N" tvg-id="TVOne.id" tvg-name="TVOne", tvOne
 https://warningfm.github.io/v3/live/str/id/0976f879a0c4548.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
