@@ -892,7 +892,7 @@ https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
 https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/s1mRWex.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="TV2" tvg-name="TV2 HD", TV2
-https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my/
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/dhrruWp.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="TV6" tvg-name="TV6", TV6
 https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
