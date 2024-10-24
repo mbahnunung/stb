@@ -666,7 +666,7 @@ https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b4e2xGk.png" group-title="Movies" channel-id="mjh-discovery-ptms" tvg-id="mjh-discovery-ptms" , MovieSphere
-https://i.mjh.nz/discovery-ptms.m3u8
+https://i.mjh.nz/.r/discovery-ptms.m3u8
 
 ########################################################    Bioskop Indonesia     ########################################################
 
