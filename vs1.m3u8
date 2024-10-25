@@ -717,18 +717,18 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/manifest.
 ########################################################    Fashion    ########################################################
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/W9uCyf3.png?v=1.0.0.1" group-title="Fashion" group-logo="https://i.imgur.com/hnmGABf.png?v=1.0.0.1" tvg-id="Fashion TV HD.ua" tvg-name="Fashion TV HD.ua", FashionTVᴴᴰ
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/W9uCyf3.png?v=1.0.0.1" group-title="Fashion" group-logo="https://i.imgur.com/hnmGABf.png?v=1.0.0.1" tvg-id="Fashion TV HD.ua" tvg-name="Fashion TV HD.ua", FashionTVᴴᴰ
 https://gist.githubusercontent.com/warningfm/59db6482e1faef80b94ef7c31e8ebb5f/raw/f3cb5977c5eec3a9d25be50923707aaf90863557/801a98b42276bae.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/OsbTFpv.png?v=1.0.0.1" group-title="Fashion" group-logo="https://i.imgur.com/hnmGABf.png?v=1.0.0.1" tvg-id="FashionTV.cz" tvg-name="FashionTV.cz", FashionTV Czech&Slovak
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/OsbTFpv.png?v=1.0.0.1" group-title="Fashion" group-logo="https://i.imgur.com/hnmGABf.png?v=1.0.0.1" tvg-id="FashionTV.cz" tvg-name="FashionTV.cz", FashionTV Czech&Slovak
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/XgrBSh3.png?v=1.0.0.1" group-title="Fashion" group-logo="https://i.imgur.com/hnmGABf.png?v=1.0.0.1" tvg-id="GBAJ4900002DE" tvg-name="Fashion TV, Fashion TV
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/XgrBSh3.png?v=1.0.0.1" group-title="Fashion" group-logo="https://i.imgur.com/hnmGABf.png?v=1.0.0.1" tvg-id="GBAJ4900002DE" tvg-name="Fashion TV, Fashion TV
 https://gist.githubusercontent.com/warningfm/59db6482e1faef80b94ef7c31e8ebb5f/raw/3ff1a9117e1309041fa6ec3e2c766c4db12fc4c4/801a98b42276bac.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/LQqABbX.png?v=1.0.0.1" group-title="Fashion" group-logo="https://i.imgur.com/hnmGABf.png?v=1.0.0.1" tvg-id="FashionTVMidniteSecrets.fr" tvg-name="Fashion TV Midnight Secrets", Fashion TV Midnight Secrets
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/PNrJJmL.png?v=1.0.0.1" group-title="Fashion" group-logo="https://i.imgur.com/hnmGABf.png?v=1.0.0.1" tvg-id="FashionTVMidniteSecrets.fr" tvg-name="Fashion TV Midnight Secrets", Fashion TV Midnight Secrets
 https://gist.githubusercontent.com/warningfm/59db6482e1faef80b94ef7c31e8ebb5f/raw/85f5d6b4f3e01d0393bdeff4157dd80ee6e1c738/700a192f4d09364.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
