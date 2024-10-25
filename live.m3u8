@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://warningfm.github.io/x1/epg/guide.xml.gz" url-tvg="https://warningfm.github.io/x1/epg/guide.xml.gz" refresh="3600"
 
 #EXTM3U
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/pLMEyhP.png?v=1.1.1.1" group-title="tvN150N" tvg-id="RCTI.id" tvg-name="RCTI", RCTI
 https://1a-rcti.rctiplus.id/rcti-sdi.mpd|Referer=https://www.rctiplus.com
 
@@ -10,7 +10,7 @@ https://1a-rcti.rctiplus.id/rcti-sdi.mpd|Referer=https://www.rctiplus.com
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/kHUcKkK.png?v=1.0.0.1" group-title="tvN150N" tvg-id="SCTV.id" tvg-name="SCTV", SCTV
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/AWnnWow.png?v=1.1.1.1" group-title="tvN150N" tvg-id="MNCTV.id" tvg-name="MNC TV", MNCTV
 https://1a-mnctv.rctiplus.id/mnctv-sdi.mpd|Referer=https://www.rctiplus.com
 
@@ -24,7 +24,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/g4Hv2nh.png?v=1.1.1.1" group-title="tvN150N" tvg-id="Indosiar.id" tvg-name="Indosiar", Indosiar
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/fd77alx.png?v=1.0.0.1" group-title="tvN150N" tvg-id="MetroTV.id" tvg-name="Metro TV", Metro TV
 https://warningfm.github.io/v3/live/str/id/6183ec225226ccb.m3u8
 
@@ -43,7 +43,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ihaiNhe.png?v=1.1.1.1" group-title="tvN150N" tvg-id="GTV.id" tvg-name="GTV", GTV
 https://d1abp075u76pbq.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd|Referer=https://www.visionplus.id
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w12vlFx.png?v=1.1.1.1" group-title="tvN150N" tvg-id="TVOne.id" tvg-name="TVOne", tvOne
 https://warningfm.github.io/v3/live/str/id/0976f879a0c4548.m3u8
 
@@ -52,7 +52,7 @@ https://warningfm.github.io/v3/live/str/id/0976f879a0c4548.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-krWxMeHwxrM/YRJC1qPBLiI/AAAAAAAABK8/I6ecPYNF59obT6YQqrDmosB9uVU0QzC-gCLcBGAsYHQ/s0/FGSb1Vw.png?v=1.0.0.1" group-title="tvN150N" tvg-id="CitraDangdut.id" tvg-name="Citra Dangdut", Citra Dangdut
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-GJ3HxKhpQiQ/YMOFj7kvn3I/AAAAAAAABFM/ounfS_2q6ioyAftyC3HEyqmVAQ1tKgmegCLcBGAsYHQ/s0/zg4YPTD.png?v=1.1.1.1" group-title="tvN150N" tvg-id="MTVLive.id" tvg-name="Maleo", Maleo
 https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
 
