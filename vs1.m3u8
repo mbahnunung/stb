@@ -717,7 +717,7 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/manifest.
 ########################################################    Fashion    ########################################################
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/LgeA5wM.png?v=1.0.0.1" group-title="Fashion" group-logo="https://i.imgur.com/hnmGABf.png?v=1.0.0.1" tvg-id="Fashion TV HD.ua" tvg-name="Fashion TV HD.ua", FashionTVᴴᴰ
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/LgeA5wM.png?v=1.0.0.1" group-title="Fashion" group-logo="https://i.imgur.com/hnmGABf.png?v=1.0.0.1" tvg-id="Fashion TV HD.ua" tvg-name="Fashion TV HD.ua", FashionTV ᴴᴰ
 https://gist.githubusercontent.com/warningfm/59db6482e1faef80b94ef7c31e8ebb5f/raw/f3cb5977c5eec3a9d25be50923707aaf90863557/801a98b42276bae.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/uE4EMmh.png?v=1.0.0.1" group-title="Fashion" group-logo="https://i.imgur.com/hnmGABf.png?v=1.0.0.1" tvg-id="FashionTV.cz" tvg-name="FashionTV.cz", FashionTV Czech&Slovak
