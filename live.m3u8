@@ -575,7 +575,7 @@ https://streaming.indihometv.com/atm/DASH/FASHION_TV/manifest.mpd
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/uE4EMmh.png?v=1.0.0.1" group-title="Fashion" group-logo="https://i.imgur.com/hnmGABf.png?v=1.0.0.1" tvg-id="FashionTV.cz" tvg-name="FashionTV.cz", FashionTV Czech&Slovak
 https://warningfm.github.io/v3/live/str/fs/364bfe25097b975.m3u8
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/GRifhjd.png?v=1.0.0.1" group-title="Fashion" group-logo="https://i.imgur.com/hnmGABf.png?v=1.0.0.1" tvg-id="FashionTVMidnightSecrets.fr" tvg-name="Fashion TV Midnight Secrets", Fashion TV Midnight Secrets
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/60eCxNT.png?v=1.0.0.1" group-title="Fashion" group-logo="https://i.imgur.com/hnmGABf.png?v=1.0.0.1" tvg-id="FashionTVMidnightSecrets.fr" tvg-name="Fashion TV Midnight Secrets", Fashion TV Midnight Secrets
 http://khano.nng.cloudns.us/live/m3u8/fs/700a192f4d09364.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
