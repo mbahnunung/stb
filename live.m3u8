@@ -511,53 +511,53 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg401production/ch174/index.
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a2dd864fc95998efd52979e5f732e029:4f705ca934ba3ef5513fea618d4f938d
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BydlaOh.png?v=1.0.0.1" group-title="🌍 News" tvg-id="ABC Australia", ABC Australia
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/BydlaOh.png?v=1.0.0.1" group-title="🌍 News" tvg-id="ABC Australia", ABC Australia
 https://dsgtq5sngxkde.cloudfront.net/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
 
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=272401a5b200375e49a4712cf39f369c:39d7bc2faf1f13b8a2bb106b617e604a
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AG53buo.png?v=1.0.0.1" group-title="🌍 News" tvg-id="BloombergTV.id" tvg-name"Bloomberg TV (HD)", Bloomberg
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/AG53buo.png?v=1.0.0.1" group-title="🌍 News" tvg-id="BloombergTV.id" tvg-name"Bloomberg TV (HD)", Bloomberg
 https://d1abp075u76pbq.cloudfront.net/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6fEGqfK.png?v=1.0.0.1" group-title="🌍 News" tvg-id="CNA.id" tvg-name"News Asia", CNA
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/6fEGqfK.png?v=1.0.0.1" group-title="🌍 News" tvg-id="CNA.id" tvg-name"News Asia", CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GZQvCs6.png?v=1.0.0.1" group-title="🌍 News" tvg-id="DWEnglish.de" tvg-name="DW (English)", DW (English)
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/GZQvCs6.png?v=1.0.0.1" group-title="🌍 News" tvg-id="DWEnglish.de" tvg-name="DW (English)", DW (English)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/fNQSndi.png?v=1.0.0.1" group-title="🌍 News" tvg-id="EuronewsEnglish.fr" tvg-name="Euronews", Euronews HD
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/fNQSndi.png?v=1.0.0.1" group-title="🌍 News" tvg-id="EuronewsEnglish.fr" tvg-name="Euronews", Euronews HD
 https://cdn09jtedge.indihometv.com/joss/134/euronews720/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/GFOQVEf.png?v=1.0.0.1" group-title="🌍 News" tvg-id="France24English.fr.id" tvg-name"France 24 English", France 24 English
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/GFOQVEf.png?v=1.0.0.1" group-title="🌍 News" tvg-id="France24English.fr.id" tvg-name"France 24 English", France 24 English
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BwijqtC.png?v=1.0.0.1" group-title="🌍 News" tvg-id="NHKWorldJapan.jp" tvg-name"NHK World - [Channel 355].id", NHK World
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/BwijqtC.png?v=1.0.0.1" group-title="🌍 News" tvg-id="NHKWorldJapan.jp" tvg-name"NHK World - [Channel 355].id", NHK World
 http://op-group1-swiftservehd-1.dens.tv/h/h23/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DcF2NzS.png?v=1.0.0.1" group-title="🌍 News" tvg-id="TRTWorld.tr" tvg-name"TRT World", TRT World
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/DcF2NzS.png?v=1.0.0.1" group-title="🌍 News" tvg-id="TRTWorld.tr" tvg-name"TRT World", TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fbdbe252e6354b175852d1929c42d848:7a8bb14fcf8fd0b896ab41c29a78aae0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RytQgdW.png?v=1.0.0.1" group-title="🌍 News" tvg-id="IDX" tvg-name="IDX", IDX
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/RytQgdW.png?v=1.0.0.1" group-title="🌍 News" tvg-id="IDX" tvg-name="IDX", IDX
 https://dsgtq5sngxkde.cloudfront.net/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4497473c5b978655ce62de7873e04174:6af319f8d82351f8c3b18c9abdfdef4d
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NTIQcW0.png?v=1.0.0.1" group-title="🌍 News" tvg-id="MetroTV.id" tvg-name="Metro TV", Metro TV
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/NTIQcW0.png?v=1.0.0.1" group-title="🌍 News" tvg-id="MetroTV.id" tvg-name="Metro TV", Metro TV
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26cc3e3343858d3986322f16e10b5823:0ad735e707e1c79bc550efa49f2ea4bd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5lFXY6k.png?v=1.0.0.1" group-title="🌍 News" tvg-id="SindoNews.id" tvg-name="SindoNews.id", Sindo News TV
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/hF7S77p.png?v=1.0.0.1" group-title="🌍 News" tvg-id="SindoNews.id" tvg-name="SindoNews.id", Sindo News TV
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
 ########################################################     RADIO     ########################################################
