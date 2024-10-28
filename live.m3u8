@@ -61,19 +61,19 @@ https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
 https://warningfm.github.io/v3/live/str/id/378a642ff00fed9.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-mQPuaSA2MD4/YMOFi2xTJ1I/AAAAAAAABFA/OGNqwGFRWxAFfj8MPP2b12h1CAX1HhNYACLcBGAsYHQ/s0/jqNYjGu.png?v=1.0.0.1" group-title="tvN150N" tvg-id="NET.id" tvg-name="NET TV", NET.
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/jqNYjGu.png?v=1.0.0.1" group-title="tvN150N" tvg-id="NET.id" tvg-name="NET TV", NET.
 https://warningfm.github.io/v3/live/str/id/6cdb3402d11f58d.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/refs/heads/cast/img/CazxFep.png?v=1.1.1.1" group-title="tvN150N" tvg-id="RajawaliTV.id" tvg-name="RTV", RTV
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/CazxFep.png?v=1.1.1.1" group-title="tvN150N" tvg-id="RajawaliTV.id" tvg-name="RTV", RTV
 https://warningfm.github.io/v3/live/str/id/590642f0a31efa4.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3Ur9mQDmgIU/YMOFhmXfs_I/AAAAAAAABEk/taYbuYCWiuEA7Y5q9msgBPDl-aOO_JdVACLcBGAsYHQ/s0/RdOrRX2.png?v=1.1.1.1" group-title="tvN150N" tvg-id="Saudi Quran HD.ua" tvg-name="Saudi Quran HD.ua", AlQuran Kareem
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/RdOrRX2.png?v=1.1.1.1" group-title="tvN150N" tvg-id="Saudi Quran HD.ua" tvg-name="Saudi Quran HD.ua", AlQuran Kareem
 https://warningfm.github.io/v3/live/str/ar/f74b5dff8b8e6c6.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-XVXPUmZD94k/YMOFiwPPw1I/AAAAAAAABE4/xP4HMP2m7gYKwTn4H35HmejWpek8VNFXQCLcBGAsYHQ/s0/aJhpmgf.png?v=1.0.0.1" group-title="tvN150N" tvg-id="KompasTV.id" tvg-name="Kompas TV", Kompas TV
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/rlzvdcL.png?v=1.1.1.1" group-title="tvN150N" tvg-id="KompasTV.id" tvg-name="Kompas TV", Kompas TV
 https://warningfm.github.io/v3/live/str/id/ae5f9d6bcd610b6.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
