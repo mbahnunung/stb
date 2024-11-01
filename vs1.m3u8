@@ -27,10 +27,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Dw3SKHg.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="6" tvg-id="MetroTV.id" tvg-name="Metro TV", Metro TV
 https://warningfm.github.io/v3/live/str/id/6183ec225226ccb.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sWeXuef.png?v=1.1.1.1" group-title="🇮🇩 Nasional" ch-number="7" tvg-id="Trans7.id" tvg-name="Trans 7", Trans7
-https://d1abp075u76pbq.cloudfront.net/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd|Referer=https://www.visionplus.id
+https://cdn10jtedge.indihometv.com/atm/hlsv3/trans7/trans7.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
