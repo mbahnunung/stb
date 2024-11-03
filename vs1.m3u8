@@ -174,10 +174,8 @@ https://warningfm.github.io/v3/live/str/id/3254f236ad3e872.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/6JSc2Ds.png?v=1.1.1.1" group-title="Kids" group-logo="https://i.imgur.com/BxvUXcn.png?v=1.0.0.1" tvg-id="Cartoonito.sg" tvg-name="Cartoonito (HD)", Cartoonito (HD)
 https://atemeshield1-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1bb72f4f71b743c8b20de75ecebfd4a1:04466fa0a683bfdc5bc3cf0d67776722
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/OrEXAse.png?v=1.0.0.1" group-title="Kids" group-logo="https://i.imgur.com/BxvUXcn.png?v=1.0.0.1" tvg-id="Cartoon Network.th" tvg-name="Cartoon Network.th", Cartoon Network (HD)
-https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=194891b41223a5f1ec2beff1c95e2f53:eeb1fb2ec011f9563653495f9ac427b1
