@@ -752,7 +752,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/AustraliaPlus/sa_dash_vmx/Austral
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/eHrjMov.png?v=1.0.0.1" group-title="🌍 News" tvg-id="BBCWorldNews.id" tvg-name"BBC World News", BBC World News
-https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6vpx7bvwjm7ao/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/6fEGqfK.png?v=1.0.0.1" group-title="🌍 News" tvg-id="CNA.id" tvg-name"News Asia", CNA
