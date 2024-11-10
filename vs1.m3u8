@@ -1119,3 +1119,5 @@ https://d1vp12yk4i8ou5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="INWILD" tvg-chno="" tvg-logo="https://i.imgur.com/8z87JrE.png" group-title="Science & Nature", INWILD
 https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
 
+#EXTINF:-1  tvg-id="USBA3800005NI" tvg-logo="https://i.imgur.com/M87kbVk.png" group-title="Science & Nature" channel-id="SamsungTVPlus-USBA3800005NI" tvg-name="Clarity 4K" tvg-chno="3520",Clarity 4K
+https://d34llq02ebsd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xm86ab912xr1m/Clarity_4K.m3u8
