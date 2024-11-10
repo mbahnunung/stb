@@ -1110,7 +1110,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-H
 
 ########################################################     samsung-tvplus     ########################################################
 
-#EXTINF:-1 tvg-id="USBA3400003IP" tvg-chno="1404" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/81/USBA3400003IP_20210525T051505.png" group-title="Science & Nature",Love Nature 4K
+#EXTINF:-1 tvg-id="USBA3400003IP" tvg-chno="1404" tvg-logo="https://i.imgur.com/Y3qMrJT.png" group-title="Science & Nature",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USBA3000043LH" tvg-chno="1400" tvg-logo="https://i.imgur.com/CzxXnsG.png" group-title="Science & Nature", Samsung Wild Life
@@ -1119,5 +1119,5 @@ https://d1vp12yk4i8ou5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="INWILD" tvg-chno="" tvg-logo="https://i.imgur.com/8z87JrE.png" group-title="Science & Nature", INWILD
 https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
 
-#EXTINF:-1  tvg-id="USBA3800005NI" tvg-logo="https://i.imgur.com/M87kbVk.png" group-title="Science & Nature" channel-id="SamsungTVPlus-USBA3800005NI" tvg-name="Clarity 4K" tvg-chno="3520",Clarity 4K
+#EXTINF:-1  tvg-id="USBA3800005NI" tvg-logo="https://i.imgur.com/IYYgQr3.png" group-title="Science & Nature" channel-id="SamsungTVPlus-USBA3800005NI" tvg-name="Clarity 4K" tvg-chno="3520",Clarity 4K
 https://d34llq02ebsd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xm86ab912xr1m/Clarity_4K.m3u8
