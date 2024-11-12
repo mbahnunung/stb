@@ -32,9 +32,10 @@ http://khano.nng.cloudns.us/live/m3u8/id/cdd283c9d3d43b5.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/AySErC1.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/U5JFSGW.png?v=1.0.0.1" ch-number="8" tvg-id="TransTV.id" tvg-name="Trans TV", TransTV
 http://khano.nng.cloudns.us/live/m3u8/id/61061784f4a9271.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/kkQGC04.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/U5JFSGW.png?v=1.0.0.1" ch-number="9" tvg-id="GTV.id" tvg-name="GTV", GTV
-https://1a-gtv.rctiplus.id/gtv-sdi.mpd|Referer=https://www.rctiplus.com
+https://d1abp075u76pbq.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd|Referer=https://www.visionplus.id
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/CTqyhF2.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="10" tvg-id="TVOne.id" tvg-name="TVOne", TVOne
