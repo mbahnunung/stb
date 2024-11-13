@@ -214,10 +214,10 @@ https://cdn09jtedge.indihometv.com/joss/134/moonbug/index.m3u8
 
 ###################################################### Knowledge ######################################################
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/KHKIztL.png?v=1.0.0.1" group-title="Knowledge" tvg-id="Animal Planet.th" tvg-name="Animal Planet.th", Animal Planet
-https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -229,16 +229,15 @@ https://warningfm.github.io/v3/live/str/knl/cgtndocumentary.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/jD4e8Ez.png?v=1.0.0.1" group-title="Knowledge" tvg-id="BBC Earth HD.sg" tvg-name="BBC Earth HD.sg", BBC Earth HD
 https://d1abp075u76pbq.cloudfront.net/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd|Referer=https://www.visionplus.id
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/WVpnAKn.png?v=1.0.0.1" group-title="Knowledge" tvg-id="DiscoveryAsia.sg" tvg-name="Discovery Asia", Discovery Asia
-https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
+https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"U7st5POk7YRmHk/FJ6H8CQ", "kid":"AM/zNYmmRo65jk23qtRsoA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_key=646973636f3030303030303030303030:0b0c2a86713e0546df8ab4403927059d
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/AWvwPm5.png?v=1.0.0.1" group-title="Knowledge" tvg-id="Discovery.th" tvg-name="Discovery.th", Discovery Channel
-https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Tbur8nX.png?v=1.0.0.1" group-title="Knowledge" tvg-id="5119" tvg-name="(HD) Outdoor Channel", Outdoor Channel
 https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/cb573d167b6c678b9ed43864cef84782847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258af764cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7abb00913d938f2e7014d902645fa83439c8201b385860d8341d77ef840cbc3a683861583e4ce598a6f4ef00d224054bdc210bac759b9d49f7a309d03472c7c74d5d3587ad35efc23624ff1feb1d00d63e4cdfb4cb56139bc058a4e8a37c81bc28c68f43cc28f8fa5246338aad05e6f6dc0b7e2e28f443b4cebe7fd3ca5d30565a5d6ac100157f868471983f4ca5baec21e97a437848ea47c52cfbc4a8194be8feeffd804cc6582f0fd96394d5970442cb21df3ca238b729d4fa1c04575070d5cfbce1c84a7c94e3c6778838275dd0754ec88dccd8c587b824b336ec54c951b0965c7312c5be02ef295752caa2e188a3838b40967d00cacf67cbbf79bd6073db4ccce0daa3cb8fb59848477c3070b500cb7fd3b4c051d2da28948397028930bb4a9898b112e0fe3f0c1fbba231b0f2b185f09cbafa7479280c4260a0583340265671b039914dc0a8e561a184f297f616abaa1e30e83cb566658f8379174bf4cd1a97d1c/playlist.m3u8
@@ -268,9 +267,9 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d
 ########################################################     Movies    ########################################################
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b7b00124894d4f1f8b91fba79160b896:bb236ab2b198c2ffd722817bfa74cd08
+#KODIPROP:inputstream.adaptive.license_key=c5d5297a84f8b2de977f07286345c591:bdb773d6d25303b75a396b8040cfaf8c
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/fE1C6ra.png?v=1.0.0.1" group-title="Movies" tvg-id="AXN.id" tvg-name="AXN", AXN
-https://atemecdnbalancer-voe.sysln.id/live/eds/AXNHD/mpd/AXNHD.mpd
+https://cempedak-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Jy0qhiH.png?v=1.0.0.1" group-title="Movies" tvg-id="CCM.id" tvg-name="Celestial Classic Movies", Celestial Classic Movies
