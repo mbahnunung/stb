@@ -256,10 +256,9 @@ https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/8uoL1CE.png?v=1.0.0.1" group-title="Entertainment" tvg-id="5318" tvg-name="ROCK ENT (HD)", Rock Entertainment
 https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/Mov/6dbd87da999998e.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7r0ahjZ99sLEqtcLemFlqQ","kid":"q6yeC_K0SPiHEUWCnGin_Q"}],"type":"temporary"}
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/le4o5Zy.png?v=1.0.0.1" group-title="Entertainment" tvg-id="TLC.id" tvg-name="TLC (id)" tvg-country="id" tvg-language="id", TLC (id)
-https://atemeshield1-voe.sysln.id/live/eds/TLCHD/mpd/TLCHD.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/le4o5Zy.png?v=1.0.0.1" group-title="Entertainment" tvg-id="TLC HD.uk" tvg-name="TLC HD.uk" tvg-country="id" tvg-language="id", TLC HD.uk
+https://warningfm.github.io/v3/live/str/int/f79749a4711e350.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/2RySrJl.png?v=1.0.0.1" group-title="Entertainment" tvg-id="CCTV4.id" tvg-name="CCTV-4", CCTV4
