@@ -536,6 +536,23 @@ https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/ra
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_201.png" group-title="Knowledge" tvg-id="GlobalTrekker" tvg-name="Global Trekker", Global Trekker
 https://d1abp075u76pbq.cloudfront.net/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd|Referer=https://www.visionplus.id
 
+########################################################     samsung-tvplus     ########################################################
+
+#EXTINF:-1 tvg-id="USBA3400003IP" tvg-chno="1404" tvg-logo="https://i.imgur.com/2tBjtic.png" group-title="Science & Nature", Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+
+#EXTINF:-1 tvg-id="USBA3000043LH" tvg-chno="1400" tvg-logo="https://i.imgur.com/CzxXnsG.png" group-title="Science & Nature", Samsung Wild Life
+https://d1vp12yk4i8ou5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/WildLife2-prod/playlist.m3u8
+
+#EXTINF:-1 tvg-id="INWILD" tvg-chno="" tvg-logo="https://i.imgur.com/8z87JrE.png" group-title="Science & Nature", INWILD
+https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
+
+#EXTINF:-1  tvg-id="USBA3800005NI" tvg-logo="https://i.imgur.com/IYYgQr3.png" group-title="Science & Nature" channel-id="SamsungTVPlus-USBA3800005NI" tvg-name="Clarity 4K" tvg-chno="3520",Clarity 4K
+https://d34llq02ebsd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xm86ab912xr1m/Clarity_4K.m3u8
+
+#EXTINF:-1 group-title="Science & Nature" tvg-logo="https://i.imgur.com/9Btm8V1.png", WildEarth
+https://wildearth-roku.amagi.tv/playlist.m3u8
+
 ########################################################     Music     ########################################################
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1104,17 +1121,3 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd|Ref
 #KODIPROP:inputstream.adaptive.license_key=a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DgVXdILk_2U/YMOFgRvUd8I/AAAAAAAABEQ/tlWQu2OAmxwnyVFbaa1KFXsseg5Ie5OnACLcBGAsYHQ/s0/EknqlDs.png?v=1.0.0.1" group-title="VISION+" group-logo="https://warningfm.github.io/v3/img/U5JFSGW.png" tvg-id="iNews.id" tvg-name="iNews", iNews
 https://d1abp075u76pbq.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd|Referer=https://www.visionplus.id
-
-########################################################     samsung-tvplus     ########################################################
-
-#EXTINF:-1 tvg-id="USBA3400003IP" tvg-chno="1404" tvg-logo="https://i.imgur.com/Y3qMrJT.png" group-title="Science & Nature",Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-
-#EXTINF:-1 tvg-id="USBA3000043LH" tvg-chno="1400" tvg-logo="https://i.imgur.com/CzxXnsG.png" group-title="Science & Nature", Samsung Wild Life
-https://d1vp12yk4i8ou5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/WildLife2-prod/playlist.m3u8
-
-#EXTINF:-1 tvg-id="INWILD" tvg-chno="" tvg-logo="https://i.imgur.com/8z87JrE.png" group-title="Science & Nature", INWILD
-https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
-
-#EXTINF:-1  tvg-id="USBA3800005NI" tvg-logo="https://i.imgur.com/IYYgQr3.png" group-title="Science & Nature" channel-id="SamsungTVPlus-USBA3800005NI" tvg-name="Clarity 4K" tvg-chno="3520",Clarity 4K
-https://d34llq02ebsd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xm86ab912xr1m/Clarity_4K.m3u8
