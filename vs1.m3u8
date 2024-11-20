@@ -469,7 +469,7 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 ########################################################   Knowledge   ########################################################
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/On8j9hu.png?v=1.0.0.1" group-title="Knowledge" tvg-id="Animal Planet HD World" tvg-name="Animal Planet HD World", Animal Planet HD World
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/On8j9hu.png?v=1.0.0.1" group-title="Knowledge" tvg-id="Animal Planet HD World.in" tvg-name="Animal Planet HD World.in", Animal Planet HD World
 https://warningfm.github.io/v2/live/m3u8/int/7c3acc2d8ef3624.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
@@ -497,7 +497,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:0 tvg-logo="https://cdn4.mbahnunungonline.net/img/9XfDPx3.png?v=1.0.0.1" group-title="Knowledge"-id="Discovery HD World" tvg-name="Discovery HD World", Discovery HD World
+#EXTINF:0 tvg-logo="https://cdn4.mbahnunungonline.net/img/9XfDPx3.png?v=1.0.0.1" group-title="Knowledge"-id="Discovery HD World.in" tvg-name="Discovery HD World.in", Discovery HD World
 https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/0d936f069c81e0b579c80e6d03497feb678ae03f/adb3ea162365d59.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
