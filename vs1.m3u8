@@ -76,7 +76,7 @@ https://warningfm.github.io/v3/live/str/id/3f58825fe229a8h.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/KARJyvj.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="19" tvg-id="BTV.id" tvg-name="BTV", BTV
-https://warningfm.github.io/v3/live/str/id/026f46e9812825d.m3u8
+https://warningfm.github.io/v3/live/str/id/3f58825fe229a9e.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
