@@ -771,6 +771,11 @@ https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://warningfm.github.io/v3/live/str/ns/ccb94808e06e001.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6de9ad0c51e2673f543b71ac5a54211:533886c95819317d48fd079d78c3d757
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/NzzxPJT.png?v=1.0.0.1" group-title="🌍 News" tvg-id="CNBCAsia.id" tvg-name"CNBC Asia", CNBC Asia
+https://d1abp075u76pbq.cloudfront.net/live/eds/CNBC/sa_dash_vmx/CNBC.mpd|Referer=https://www.visionplus.id
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/nLk6uxc.png?v=1.0.0.1" group-title="🌍 News" tvg-id="CNNInternational.id" tvg-name="CNN International", CNN International
 https://cdn08jtedge.indihometv.com/dassdvr/133/cnninternational_dash/manifest.mpd
