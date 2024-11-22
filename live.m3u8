@@ -31,7 +31,7 @@ https://cdn10jtedge.indihometv.com/atm/hlsv3/trans7/trans7.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/QwS47vl.png?v=1.0.0.1" group-title="tvN150N" tvg-id="TransTV.id" tvg-name="Trans TV", TransTV
-https://cdn10jtedge.indihometv.com/atm/hlsv3/transtv/transtv.m3u8
+https://raw.githubusercontent.com/warningfm/v3/refs/heads/cast/live/str/id/61061784f4a9271.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
