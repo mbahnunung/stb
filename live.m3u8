@@ -61,9 +61,10 @@ https://warningfm.github.io/v3/live/str/id/378a642ff00fed9.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/jqNYjGu.png?v=1.0.0.1" group-title="tvN150N" tvg-id="NET.id" tvg-name="NET TV", NET.
 https://warningfm.github.io/v3/live/str/id/6cdb3402d11f58d.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30384ee5424eab4afdff34d7a59e0ef9:5f3d2f2c194266ae9a28210f8976cbe0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/CazxFep.png?v=1.1.1.1" group-title="tvN150N" tvg-id="RajawaliTV.id" tvg-name="RTV", RTV
-https://warningfm.github.io/v3/live/str/id/590642f0a31efa4.m3u8
+https://d1abp075u76pbq.cloudfront.net/live/eds/RTV/sa_dash_vmx/RTV.mpd|Referer=https://www.visionplus.id
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/RdOrRX2.png?v=1.1.1.1" group-title="tvN150N" tvg-id="Saudi Quran HD.ua" tvg-name="Saudi Quran HD.ua", AlQuran Kareem
