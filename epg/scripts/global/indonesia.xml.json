@@ -31,28 +31,58 @@
 	},
 	{
 		"origin": "AXN - [Channel 154].id",
-		"channel_name": "AXN",
+		"channel_name": "AXN id",
 		"channel_id": "AXN.id"
 	},
 	{
 		"origin": "AXN HD - [Channel 438].id",
-		"channel_name": "AXN",
+		"channel_name": "AXN id",
 		"channel_id": "AXN.id"
 	},
 	{
 		"origin": "BBC Earth - [Channel 200].id",
-		"channel_name": "BBC Earth",
+		"channel_name": "BBC Earth (v+)",
 		"channel_id": "BBCEarth.id"
 	},
 	{
 		"origin": "BBC Earth HD - [Channel 461].id",
-		"channel_name": "BBC Earth",
+		"channel_name": "BBC Earth (v+)",
 		"channel_id": "BBCEarth.id"
 	},
 	{
 		"origin": "BBC World News - [Channel 332].id",
 		"channel_name": "BBC World News",
 		"channel_id": "BBCWorldNews.id"
+	},
+	{
+		"origin": "beIN Sports 1 - [Channel 309].id",
+		"channel_name": "beIN Sports 1",
+		"channel_id": "beINSports1.id"
+	},
+	{
+		"origin": "beIN Sports 1 HD - [Channel 417].id",
+		"channel_name": "beIN Sports 1",
+		"channel_id": "beINSports1.id"
+	},
+	{
+		"origin": "beIN Sports 2 - [Channel 310].id",
+		"channel_name": "beIN Sports 2",
+		"channel_id": "beINSports2.id"
+	},
+	{
+		"origin": "beIN Sports 2 HD - [Channel 418].id",
+		"channel_name": "beIN Sports 2",
+		"channel_id": "beINSports2.id"
+	},
+	{
+		"origin": "beIN Sports 3 - [Channel 311].id",
+		"channel_name": "beIN Sports 3",
+		"channel_id": "beINSports3.id"
+	},
+	{
+		"origin": "beIN Sports 3 HD - [Channel 419].id",
+		"channel_name": "beIN Sports 3",
+		"channel_id": "beINSports3.id"
 	},
 	{
 		"origin": "BTV - [Channel 103].id",
@@ -85,6 +115,11 @@
 		"channel_id": "CelestialMovies.id"
 	},
 	{
+		"origin": "Celebrities TV - [Channel 96].id",
+		"channel_name": "Celebrities TV",
+		"channel_id": "CelebritiesTV.id"
+	},
+	{
 		"origin": "CGTN - [Channel 353].id",
 		"channel_name": "CGTN",
 		"channel_id": "CGTN.id"
@@ -105,6 +140,11 @@
 		"channel_id": "Cinemachi.id"
 	},
 	{
+		"origin": "CINEMACHI HD - [Channel 401].id",
+		"channel_name": "Cinemachi",
+		"channel_id": "Cinemachi.id"
+	},
+	{
 		"origin": "CINEMACHI ACTION - [Channel 8].id",
 		"channel_name": "Cinemachi Action",
 		"channel_id": "CineachiAction.id"
@@ -113,11 +153,6 @@
 		"origin": "CINEMACHI ACTION HD - [Channel 402].id",
 		"channel_name": "Cinemachi Action",
 		"channel_id": "CineachiAction.id"
-	},
-	{
-		"origin": "CINEMACHI HD - [Channel 401].id",
-		"channel_name": "Cinemachi",
-		"channel_id": "Cinemachi.id"
 	},
 	{
 		"origin": "CINEMACHI KIDS - [Channel 9].id",
@@ -171,8 +206,8 @@
 	},
 	{
 		"origin": "DW English - [Channel 357].id",
-		"channel_name": "DW English",
-		"channel_id": "DWEnglish.id"
+		"channel_name": "DW (English)",
+		"channel_id": "DWEnglish.de"
 	},
 	{
 		"origin": "Entertainment - [Channel 86].id",
@@ -231,7 +266,7 @@
 	},
 	{
 		"origin": "History - [Channel 206].id",
-		"channel_name": "History",
+		"channel_name": "History (v+)",
 		"channel_id": "History.id"
 	},
 	{
@@ -285,13 +320,8 @@
 		"channel_id": "iNews.id"
 	},
 	{
-		"origin": "Celebrities TV - [Channel 96].id",
-		"channel_name": "Celebrities TV",
-		"channel_id": "CelebritiesTV.id"
-	},
-	{
 		"origin": "JAKTV - [Channel 113].id",
-		"channel_name": "JakTV",
+		"channel_name": "Jak TV",
 		"channel_id": "JakTV.id"
 	},
 	{
@@ -350,6 +380,21 @@
 		"channel_id": "MTV90s.id"
 	},
 	{
+		"origin": "Music TV HD - [Channel 444].id",
+		"channel_name": "Music TV",
+		"channel_id": "MusicTV.id"
+	},
+	{
+		"origin": "Music TV - [Channel 111].id",
+		"channel_name": "Music TV",
+		"channel_id": "MusicTV.id"
+	},
+	{
+		"origin": "Muslim TV - [Channel 92].id",
+		"channel_name": "Muslim TV",
+		"channel_id": "MuslimTV.id"
+	},
+	{
 		"origin": "NET TV - [Channel 116].id",
 		"channel_name": "Net TV",
 		"channel_id": "NET.id"
@@ -363,6 +408,16 @@
 		"origin": "Sindo News TV HD - [Channel 434].id",
 		"channel_name": "SindoNews TV",
 		"channel_id": "SindoNews.id"
+	},
+	{
+		"origin": "Soccer Channel - [Channel 101].id",
+		"channel_name": "Soccer Channel",
+		"channel_id": "SoccerChannel.id"
+	},
+	{
+		"origin": "Soccer Channel HD - [Channel 420].id",
+		"channel_name": "Soccer Channel",
+		"channel_id": "SoccerChannel.id"
 	},
 	{
 		"origin": "Sportstars - [Channel 102].id",
@@ -490,14 +545,14 @@
 		"channel_id": "NickJr.id"
 	},
 	{
-		"origin": "Nickelodeon - [Channel 49].id",
-		"channel_name": "Nickelodeon",
-		"channel_id": "Nickelodeon.id"
-	},
-	{
 		"origin": "Nickelodeon Jr - [Channel 37].id",
 		"channel_name": "Nick Jr.",
 		"channel_id": "NickJr.id"
+	},
+	{
+		"origin": "Nickelodeon - [Channel 49].id",
+		"channel_name": "Nickelodeon",
+		"channel_id": "Nickelodeon.id"
 	},
 	{
 		"origin": "FOOD TRAVEL - [Channel 95].id",
@@ -516,12 +571,12 @@
 	},
 	{
 		"origin": "PARAMOUNT - [Channel 163].id",
-		"channel_name": "ID: Paramount Network",
+		"channel_name": "Paramount Network",
 		"channel_id": "ParamountNetworkIndonesia.us.id"
 	},
 	{
 		"origin": "PARAMOUNT HD - [Channel 441].id",
-		"channel_name": "ID: Paramount Network",
+		"channel_name": "Paramount Network",
 		"channel_id": "ParamountNetworkIndonesia.us.id"
 	},
 	{
@@ -570,6 +625,11 @@
 		"channel_id": "SPOTV.id"
 	},
 	{
+		"origin": "SPOTV HD - [Channel 427].id",
+		"channel_name": "SPOTV",
+		"channel_id": "SPOTV.id"
+	},
+	{
 		"origin": "SPOTV 2 - [Channel 308].id",
 		"channel_name": "SPOTV 2",
 		"channel_id": "SPOTV2.id"
@@ -580,9 +640,19 @@
 		"channel_id": "SPOTV2.id"
 	},
 	{
-		"origin": "SPOTV HD - [Channel 427].id",
-		"channel_name": "ID: SPOTV",
-		"channel_id": "SPOTV.id"
+		"origin": "Sportstars - [Channel 102].id",
+		"channel_name": "Sportstars",
+		"channel_id": "Sportstars.id"
+	},
+	{
+		"origin": "Sportstars 2 - [Channel 98].id",
+		"channel_name": "Sportstars 2",
+		"channel_id": "Sportstars2.id"
+	},
+	{
+		"origin": "Sportstars 2 HD - [Channel 422].id",
+		"channel_name": "Sportstars 2",
+		"channel_id": "Sportstars2.id"
 	},
 	{
 		"origin": "Tawaf TV - [Channel 105].id",
@@ -652,6 +722,6 @@
 	{
 		"origin": "Zoomoo - [Channel 39].id",
 		"channel_name": "ZooMoo",
-		"channel_id": "ZooMoo.sg.id"
+		"channel_id": "ZooMoo.id"
 	}
 ]

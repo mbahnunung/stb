@@ -1,0 +1,562 @@
+[
+	{
+		"origin": "ABC.id",
+		"channel_name": "ABC Australia",
+		"channel_id": "ABCAustralia.id"
+	},
+	{
+		"origin": "Al Quran Al Kareem.id",
+		"channel_name": "AlQuran Kareem",
+		"channel_id": "AlQuranKareem.id"
+	},
+	{
+		"origin": "Aljazeera.id",
+		"channel_name": "Al Jazeera English",
+		"channel_id": "AlJazeeraEnglish.id"
+	},
+	{
+		"origin": "Anhui.id",
+		"channel_name": "Anhui",
+		"channel_id": "Anhui.id"
+	},
+	{
+		"origin": "Animax.id",
+		"channel_name": "Animax",
+		"channel_id": "AnimaxAsia.id"
+	},
+	{
+		"origin": "ANTV.id",
+		"channel_name": "ANTV",
+		"channel_id": "ANTV.id"
+	},
+	{
+		"origin": "Arirang.id",
+		"channel_name": "Arirang TV",
+		"channel_id": "ArirangTV.id"
+	},
+	{
+		"origin": "AXN.id",
+		"channel_name": "AXN id",
+		"channel_id": "AXN.id"
+	},
+	{
+		"origin": "Bali TV.id",
+		"channel_name": "Bali TV",
+		"channel_id": "BaliTV.id"
+	},
+	{
+		"origin": "Bandung TV.id",
+		"channel_name": "Bandung TV",
+		"channel_id": "BandungTV.id"
+	},
+	{
+		"origin": "BBC World news.id",
+		"channel_name": "BBC World News",
+		"channel_id": "BBCWorldNews.id"
+	},
+	{
+		"origin": "BTV.id",
+		"channel_name": "BTV",
+		"channel_id": "BTV.id"
+	},
+	{
+		"origin": "BBC Earth.id",
+		"channel_name": "BBC Earth (v+)",
+		"channel_id": "BBCEarth.id"
+	},
+	{
+		"origin": "Bloomberg.id",
+		"channel_name": "Bloomberg",
+		"channel_id": "Bloomberg.id"
+	},
+	{
+		"origin": "Celestial Movies.id",
+		"channel_name": "Celestial Movies",
+		"channel_id": "CelestialMovies.id"
+	},
+	{
+		"origin": "CGTN Documentary.id",
+		"channel_name": "CGTN Documentary",
+		"channel_id": "CGTNDocumentary.id"
+	},
+	{
+		"origin": "CGTN.id",
+		"channel_name": "CGTN",
+		"channel_id": "CGTN.id"
+	},
+	{
+		"origin": "Cbeebies.id",
+		"channel_name": "CBeebies HD",
+		"channel_id": "Cbeebies.id"
+	},
+	{
+		"origin": "Celebrities TV.id",
+		"channel_name": "Celebrities TV",
+		"channel_id": "CelebritiesTV.id"
+	},
+	{
+		"origin": "Celestial Movies.id",
+		"channel_name": "Celestial Movies",
+		"channel_id": "CelestialMovies.id"
+	},
+	{
+		"origin": "CCM.id",
+		"channel_name": "Celestial Classic Movies",
+		"channel_id": "CCM.id"
+	},
+	{
+		"origin": "CGTN Documentary.id",
+		"channel_name": "CGTN Documentary",
+		"channel_id": "CGTNDocumentary.id"
+	},
+	{
+		"origin": "CGTN.id",
+		"channel_name": "CGTN",
+		"channel_id": "CGTN.id"
+	},
+	{
+		"origin": "Channel News Asia.id",
+		"channel_name": "CNA",
+		"channel_id": "CNA.id"
+	},
+	{
+		"origin": "CINEMA WORLD.id",
+		"channel_name": "Cinema World",
+		"channel_id": "Cinemaworld.id"
+	},
+	{
+		"origin": "Cinemachi Action.id",
+		"channel_name": "Cinemachi Action",
+		"channel_id": "CinemachiAction.id"
+	},
+	{
+		"origin": "Cinemachi Kids.id",
+		"channel_name": "Cinemachi Kids",
+		"channel_id": "CinemachiKids.id"
+	},
+	{
+		"origin": "DAAI TV.id",
+		"channel_name": "DAAITV",
+		"channel_id": "DAAITV.id"
+	},
+	{
+		"origin": "DENS Food Channel.id",
+		"channel_name": "DENS Food Channel",
+		"channel_id": "DENSFoodChannel.id"
+	},
+	{
+		"origin": "DENS Showbizz Channel.id",
+		"channel_name": "DENS Showbizz Channel",
+		"channel_id": "DENSShowbizzChannel.id"
+	},
+	{
+		"origin": "DW.id",
+		"channel_name": "DW (English)",
+		"channel_id": "DWEnglish.de"
+	},
+	{
+		"origin": "Dream Works.id",
+		"channel_name": "Dreamworks HD",
+		"channel_id": "DreamWorks.id"
+	},
+	{
+		"origin": "EWTN.id",
+		"channel_name": "EWTN",
+		"channel_id": "EWTN.id"
+	},
+	{
+		"origin": "EURONEWS.id",
+		"channel_name": "EuroNews English",
+		"channel_id": "EuroNewsEnglish.id"
+	},
+	{
+		"origin": "Entertainment.id",
+		"channel_name": "Ent",
+		"channel_id": "Entertainment.id"
+	},
+	{
+		"origin": "Fight Sports.id",
+		"channel_name": "Fight Sports",
+		"channel_id": "FightSports.id"
+	},
+	{
+		"origin": "FMN.id",
+		"channel_name": "FMN",
+		"channel_id": "FMN.id"
+	},
+	{
+		"origin": "FOX News.id",
+		"channel_name": "FOX News Channel",
+		"channel_id": "FoxNewsChannel.id"
+	},
+	{
+		"origin": "France 24.id",
+		"channel_name": "France 24 English",
+		"channel_id": "France24English.fr.id"
+	},
+	{
+		"origin": "Garuda TV",
+		"channel_name": "Garuda TV",
+		"channel_id": "GarudaTV.id"
+	},
+	{
+		"origin": "GALAXY PREMIUM.id",
+		"channel_name": "Galaxy Premium",
+		"channel_id": "GalaxyPremium.id"
+	},
+	{
+		"origin": "GALAXY.id",
+		"channel_name": "Galaxy",
+		"channel_id": "Galaxy.id"
+	},
+	{
+		"origin": "GTV.id",
+		"channel_name": "GTV",
+		"channel_id": "GTV.id"
+	},
+	{
+		"origin": "GTV Malaysia.id",
+		"channel_name": "GTVᴴᴰ",
+		"channel_id": "GTV.my.id"
+	},
+	{
+		"origin": "Global Trekker.id",
+		"channel_name": "Global Trekker",
+		"channel_id": "GlobalTrekker.id"
+	},
+	{
+		"origin": "History.id",
+		"channel_name": "History (v+)",
+		"channel_id": "History.id"
+	},
+	{
+		"origin": "Hits Movies.id",
+		"channel_name": "Hits Movies",
+		"channel_id": "HitsMovies.id"
+	},
+	{
+		"origin": "Hits.id",
+		"channel_name": "Hits",
+		"channel_id": "Hits.id"
+	},
+	{
+		"origin": "IDX.id",
+		"channel_name": "IDX",
+		"channel_id": "IDX.id"
+	},
+	{
+		"origin": "IMC (Indonesia Movie Channel).id",
+		"channel_name": "IMC",
+		"channel_id": "IMC.id"
+	},
+	{
+		"origin": "iNews.id",
+		"channel_name": "iNews",
+		"channel_id": "iNews.id"
+	},
+	{
+		"origin": "Jiangsu TV.id",
+		"channel_name": "Jiangsu TV",
+		"channel_id": "JiangsuTV.id"
+	},
+	{
+		"origin": "JAK TV.id",
+		"channel_name": "Jak TV",
+		"channel_id": "JakTV.id"
+	},
+	{
+		"origin": "JTV.id",
+		"channel_name": "JTV",
+		"channel_id": "JTV.id"
+	},
+	{
+		"origin": "Kidz.id",
+		"channel_name": "Kidz",
+		"channel_id": "Kidz.id"
+	},
+	{
+		"origin": "Kids TV.id",
+		"channel_name": "Kids TV",
+		"channel_id": "KidsTV.id"
+	},
+	{
+		"origin": "Kix.id",
+		"channel_name": "Kix",
+		"channel_id": "Kix.id"
+	},
+	{
+		"origin": "Kompas TV.id",
+		"channel_name": "Kompas TV",
+		"channel_id": "KompasTV.id"
+	},
+	{
+		"origin": "Lifetime.id",
+		"channel_name": "Lifetime",
+		"channel_id": "Lifetime.id"
+	},
+	{
+		"origin": "Love Nature.id",
+		"channel_name": "Love Nature",
+		"channel_id": "LoveNature.id"
+	},
+	{
+		"origin": "MNCTV Malaysia.id",
+		"channel_name": "MNCTVᴴᴰ",
+		"channel_id": "MNCTV.my.id"
+	},
+	{
+		"origin": "MNCTV.id",
+		"channel_name": "MNCTV",
+		"channel_id": "MNCTV.id"
+	},
+	{
+		"origin": "Metro TV.id",
+		"channel_name": "Metro TV",
+		"channel_id": "MetroTV.id"
+	},
+	{
+		"origin": "SindoNews.id",
+		"channel_name": "SindoNews TV",
+		"channel_id": "SindoNews.id"
+	},
+	{
+		"origin": "Music TV.id",
+		"channel_name": "Music TV",
+		"channel_id": "MusicTV.id"
+	},
+	{
+		"origin": "Muslim TV.id",
+		"channel_name": "Muslim TV",
+		"channel_id": "MuslimTV.id"
+	},
+	{
+		"origin": "My Cinema Asia.id",
+		"channel_name": "My Cinema Asia",
+		"channel_id": "MyCinemaAsia.id"
+	},
+	{
+		"origin": "Net TV.id",
+		"channel_name": "NET.",
+		"channel_id": "NET.id"
+	},
+	{
+		"origin": "NHK World Premium.id",
+		"channel_name": "NHK World Premium",
+		"channel_id": "NHKWorldPremium.id"
+	},
+	{
+		"origin": "NHK.id",
+		"channel_name": "NHK World",
+		"channel_id": "NHKWorld.id"
+	},
+	{
+		"origin": "Nick Jr.id",
+		"channel_name": "Nick Jr.",
+		"channel_id": "NickJr.id"
+	},
+	{
+		"origin": "Nick.id",
+		"channel_name": "Nickelodeon",
+		"channel_id": "Nickelodeon.id"
+	},
+	{
+		"origin": "Okezone TV.id",
+		"channel_name": "Okezone TV",
+		"channel_id": "OkezoneTV.id"
+	},
+	{
+		"origin": "One.id",
+		"channel_name": "ONE",
+		"channel_id": "One.id"
+	},
+	{
+		"origin": "Outdoor Channel.id",
+		"channel_name": "Outdoor Channel",
+		"channel_id": "OutdoorChannel.id"
+	},
+	{
+		"origin": "OK TV.id",
+		"channel_name": "Food Travel",
+		"channel_id": "FoodTravel.id"
+	},
+	{
+		"origin": "My Cinema.id",
+		"channel_name": "My Cinema",
+		"channel_id": "MyCinema.id"
+	},
+	{
+		"origin": "My Family Channel.id",
+		"channel_name": "My Family Channel",
+		"channel_id": "MyFamilyChannel.id"
+	},
+	{
+		"origin": "My Kidz.id",
+		"channel_name": "My Kidz",
+		"channel_id": "MyKidz.id"
+	},
+	{
+		"origin": "RCTI Malaysia.id",
+		"channel_name": "RCTIᴴᴰ",
+		"channel_id": "RCTI.my.id"
+	},
+	{
+		"origin": "RCTI.id",
+		"channel_name": "RCTI",
+		"channel_id": "RCTI.id"
+	},
+	{
+		"origin": "RTV.id",
+		"channel_name": "RTV",
+		"channel_id": "RTV.id"
+	},
+	{
+		"origin": "Reformed 21.id",
+		"channel_name": "Reformed 21",
+		"channel_id": "Reformed21.id"
+	},
+	{
+		"origin": "Rock Action.id",
+		"channel_name": "Rock Action",
+		"channel_id": "RockAction.id"
+	},
+	{
+		"origin": "Rock Entertainment.id",
+		"channel_name": "Rock Entertainment",
+		"channel_id": "RockEntertainment.id"
+	},
+	{
+		"origin": "RT.id",
+		"channel_name": "Russia Today",
+		"channel_id": "RT.id"
+	},
+	{
+		"origin": "SCTV.id",
+		"channel_name": "SCTV",
+		"channel_id": "SCTV.id"
+	},
+	{
+		"origin": "SEA Today.id",
+		"channel_name": "SEA Today",
+		"channel_id": "SEAToday.id"
+	},
+	{
+		"origin": "SindoNews.id",
+		"channel_name": "SindoNews TV",
+		"channel_id": "SindoNews.id"
+	},
+	{
+		"origin": "Soccer Channel.id",
+		"channel_name": "Soccer Channel",
+		"channel_id": "SoccerChannel.id"
+	},
+	{
+		"origin": "SpoTV 1.id",
+		"channel_name": "SPOTV",
+		"channel_id": "SPOTV.id"
+	},
+	{
+		"origin": "SpoTV 2.id",
+		"channel_name": "SPOTV 2",
+		"channel_id": "SPOTV2.id"
+	},
+	{
+		"origin": "Sportstars.id",
+		"channel_name": "Sportstars",
+		"channel_id": "Sportstars.id"
+	},
+	{
+		"origin": "Sportstars 2.id",
+		"channel_name": "Sportstars 2",
+		"channel_id": "Sportstars2.id"
+	},
+	{
+		"origin": "Sportstars 3.id",
+		"channel_name": "Sportstars 3",
+		"channel_id": "Sportstars3.id"
+	},
+	{
+		"origin": "Sportstars 4.id",
+		"channel_name": "Sportstars 4",
+		"channel_id": "Sportstars4.id"
+	},
+	{
+		"origin": "Tawaf.id",
+		"channel_name": "Tawaf TV",
+		"channel_id": "Tawaf.id"
+	},
+	{
+		"origin": "Thrill.id",
+		"channel_name": "Thrill",
+		"channel_id": "Thrill.id"
+	},
+	{
+		"origin": "Trans 7.id",
+		"channel_name": "Trans 7",
+		"channel_id": "Trans7.id"
+	},
+	{
+		"origin": "Trans TV.id",
+		"channel_name": "Trans TV",
+		"channel_id": "TransTV.id"
+	},
+	{
+		"origin": "TRT World.id",
+		"channel_name": "TRT World",
+		"channel_id": "TRTWorld.tr.id"
+	},
+	{
+		"origin": "TVOne.id",
+		"channel_name": "tvOne",
+		"channel_id": "tvOne.id"
+	},
+	{
+		"origin": "TV5Monde.id",
+		"channel_name": "TV5 Monde",
+		"channel_id": "TV5Monde.id"
+	},
+	{
+		"origin": "TV 9.id",
+		"channel_name": "TV9 Nusantara",
+		"channel_id": "TV9Nusantara.id"
+	},
+	{
+		"origin": "TV MU.id",
+		"channel_name": "TVMU",
+		"channel_id": "TVMU.id"
+	},
+	{
+		"origin": "TVN Movies.id",
+		"channel_name": "TVN Movies",
+		"channel_id": "TVNMovies.id"
+	},
+	{
+		"origin": "TVN.id",
+		"channel_name": "TVN",
+		"channel_id": "TVN.id"
+	},
+	{
+		"origin": "TVRI.id",
+		"channel_name": "TVRI Nasional",
+		"channel_id": "TVRINasional.id"
+	},
+	{
+		"origin": "Vision Prime.id",
+		"channel_name": "Vision Prime",
+		"channel_id": "VisionPrime.id"
+	},
+	{
+		"origin": "Xing kong TV.id",
+		"channel_name": "Xing kong TV",
+		"channel_id": "XingkongTV.id"
+	},
+	{
+		"origin": "Zee Bioskop.id",
+		"channel_name": "Zee Bioskop",
+		"channel_id": "ZeeBioskop.id"
+	},
+	{
+		"origin": "Zoo Moo.id",
+		"channel_name": "ZooMoo",
+		"channel_id": "ZooMoo.id"
+	}
+]
