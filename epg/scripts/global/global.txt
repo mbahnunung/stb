@@ -19,9 +19,6 @@ https://www.bevy.be/bevyfiles/malaysiapremium2.xml
 singaporepremium.xml
 https://www.bevy.be/bevyfiles/singaporepremium.xml
 
-singaporepremium3.xml
-https://www.bevy.be/bevyfiles/singaporepremium3.xml
-
 AqFad2811epg.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
 
@@ -49,8 +46,8 @@ https://www.bevy.be/bevyfiles/hongkongpremium.xml
 india.xml
 https://www.bevy.be/bevyfiles/india.xml
 
-indiapremium1.xml
-https://www.bevy.be/bevyfiles/indiapremium1.xml
+india1.xml
+https://www.bevy.be/bevyfiles/india1.xml
 
 arabia.xml
 https://www.bevy.be/bevyfiles/arabia.xml
@@ -66,9 +63,6 @@ https://i.mjh.nz/SamsungTVPlus/all.xml
 
 spain.xml
 https://www.bevy.be/bevyfiles/spain.xml
-
-uaepremium2.xml.txt
-https://www.bevy.be/bevyfiles/uaepremium2.xml.txt
 
 uaepremium3.xml
 https://www.bevy.be/bevyfiles/uaepremium3.xml
