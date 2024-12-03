@@ -99,3 +99,6 @@ https://raw.githubusercontent.com/warningfm/v2/refs/heads/cloud/vidio.com.xml
 
 indihometv.com.xml
 https://raw.githubusercontent.com/warningfm/v2/refs/heads/cloud/indihometv.com.xml
+
+visionplus.id.xml
+https://raw.githubusercontent.com/warningfm/v2/refs/heads/cloud/visionplus.id.xml
