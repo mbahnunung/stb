@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://warningfm.github.io/x1/epg/guide.xml.gz" url-tvg="https://warningfm.github.io/x1/epg/guide.xml.gz" refresh="3600"
+#EXTM3U x-tvg-url="https://stb.mbahnunungonline.net/epg/guide.xml.gz" url-tvg="https://stb.mbahnunungonline.net/epg/guide.xml.gz" refresh="3600"
 
 #EXTM3U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
