@@ -1,0 +1,40 @@
+ABC Australia.id;ABC Australia.id
+AJWA TV.id;AJWA TV.id
+ANTV.id;ANTV.id
+Arirang.id;Arirang.id
+Bein 1.id;Bein 1.id
+Bein 2.id;Bein 2.id
+Bein 3.id;Bein 3.id
+BTV.id;BTV.id
+Champions TV 1.id;Champions TV 1.id
+Champions TV 2.id;Champions TV 2.id
+Champions TV 3.id;Champions TV 3.id
+Champions TV 5.id;Champions TV 5.id
+Champions TV 6.id;Champions TV 6.id
+DW English.id;DW English.id
+Horee.id;Horee.id
+Indosiar.id;Indosiar.id
+Jaktv.id;Jaktv.id
+JTV.id;JTV.id
+Kompas TV.id;Kompas TV.id
+Makkah TV.id;Makkah TV.id
+Mentari TV.id;Mentari TV.id
+Metro TV.id;Metro TV.id
+Moji.id;Moji.id
+NBA TV.id;NBA TV.id
+NET TV.id;NET TV.id
+News Asia.id;News Asia.id
+Nusantara TV.id;Nusantara TV.id
+Premier League TV.id;Premier League TV.id
+RANS Channel.id;RANS Channel.id
+Rock Action.id;Rock Action.id
+ROCK Entertainment.id;ROCK Entertainment.id
+RTV.id;RTV.id
+SCTV.id;SCTV.id
+SPOTV 2.id;SPOTV 2.id
+SPOTV.id;SPOTV.id
+TRANS TV.id;TRANS TV.id
+Trans7.id;Trans7.id
+TVN.id;TVN.id
+TVOne.id;TVOne.id
+TVRI.id;TVRI.id

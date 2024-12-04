@@ -1,0 +1,138 @@
+ABC Australia - [Channel 350].id;ABC Australia - [Channel 350].id
+Al Jazeera English - [Channel 331].id;Al Jazeera English - [Channel 331].id
+Al Quran Al Kareem - [Channel 93].id;Al Quran Al Kareem - [Channel 93].id
+Animax - [Channel 157].id;Animax - [Channel 157].id
+ANTV - [Channel 115].id;ANTV - [Channel 115].id
+Arirang - [Channel 351].id;Arirang - [Channel 351].id
+AXN - [Channel 154].id;AXN - [Channel 154].id
+AXN HD - [Channel 447].id;AXN HD - [Channel 447].id
+BBC Earth - [Channel 200].id;BBC Earth - [Channel 200].id
+BBC Earth HD - [Channel 461].id;BBC Earth HD - [Channel 461].id
+BBC World News - [Channel 332].id;BBC World News - [Channel 332].id
+beIN Sports 1 - [Channel 309].id;beIN Sports 1 - [Channel 309].id
+beIN Sports 1 HD - [Channel 417].id;beIN Sports 1 HD - [Channel 417].id
+beIN Sports 2 - [Channel 310].id;beIN Sports 2 - [Channel 310].id
+beIN Sports 2 HD - [Channel 418].id;beIN Sports 2 HD - [Channel 418].id
+beIN Sports 3 - [Channel 311].id;beIN Sports 3 - [Channel 311].id
+beIN Sports 3 HD - [Channel 419].id;beIN Sports 3 HD - [Channel 419].id
+beIN SPORTS 4 - [Channel 312].id;beIN SPORTS 4 - [Channel 312].id
+beIN SPORTS 5 - [Channel 313].id;beIN SPORTS 5 - [Channel 313].id
+Bloomberg - [Channel 338].id;Bloomberg - [Channel 338].id
+BTV - [Channel 103].id;BTV - [Channel 103].id
+CBeebies - [Channel 41].id;CBeebies - [Channel 41].id
+CCM - [Channel 22].id;CCM - [Channel 22].id
+Celebrities TV - [Channel 96].id;Celebrities TV - [Channel 96].id
+Celestial Movies - [Channel 20].id;Celestial Movies - [Channel 20].id
+CGTN - [Channel 353].id;CGTN - [Channel 353].id
+CGTN Documentary - [Channel 205].id;CGTN Documentary - [Channel 205].id
+Channel News Asia - [Channel 330].id;Channel News Asia - [Channel 330].id
+CINEMACHI - [Channel 7].id;CINEMACHI - [Channel 7].id
+CINEMACHI ACTION - [Channel 8].id;CINEMACHI ACTION - [Channel 8].id
+CINEMACHI ACTION HD - [Channel 402].id;CINEMACHI ACTION HD - [Channel 402].id
+CINEMACHI HD - [Channel 401].id;CINEMACHI HD - [Channel 401].id
+CINEMACHI KIDS - [Channel 9].id;CINEMACHI KIDS - [Channel 9].id
+CINEMACHI KIDS HD - [Channel 403].id;CINEMACHI KIDS HD - [Channel 403].id
+CINEMACHI MAX - [Channel 10].id;CINEMACHI MAX - [Channel 10].id
+CINEMACHI MAX HD - [Channel 404].id;CINEMACHI MAX HD - [Channel 404].id
+CINEMACHI XTRA - [Channel 6].id;CINEMACHI XTRA - [Channel 6].id
+CINEMACHI XTRA HD - [Channel 405].id;CINEMACHI XTRA HD - [Channel 405].id
+CNBC - [Channel 337].id;CNBC - [Channel 337].id
+Crime Investigation - [Channel 207].id;Crime Investigation - [Channel 207].id
+Dreamworks - [Channel 47].id;Dreamworks - [Channel 47].id
+Dreamworks HD - [Channel 473].id;Dreamworks HD - [Channel 473].id
+DW English - [Channel 357].id;DW English - [Channel 357].id
+Entertainment - [Channel 86].id;Entertainment - [Channel 86].id
+EURONEWS - [Channel 333].id;EURONEWS - [Channel 333].id
+Fight Sports - [Channel 304].id;Fight Sports - [Channel 304].id
+FMN - [Channel 150].id;FMN - [Channel 150].id
+FOOD TRAVEL - [Channel 95].id;FOOD TRAVEL - [Channel 95].id
+Food Travel HD - [Channel 459].id;Food Travel HD - [Channel 459].id
+FOX News - [Channel 335].id;FOX News - [Channel 335].id
+France 24 English - [Channel 352].id;France 24 English - [Channel 352].id
+Galaxy - [Channel 13].id;Galaxy - [Channel 13].id
+Galaxy Premium - [Channel 12].id;Galaxy Premium - [Channel 12].id
+Global Trekker - [Channel 201].id;Global Trekker - [Channel 201].id
+Global Trekker HD - [Channel 462].id;Global Trekker HD - [Channel 462].id
+GTV - [Channel 81].id;GTV - [Channel 81].id
+GTV HD - [Channel 431].id;GTV HD - [Channel 431].id
+Hanacaraka TV - [Channel 90].id;Hanacaraka TV - [Channel 90].id
+History - [Channel 206].id;History - [Channel 206].id
+HITS - [Channel 160].id;HITS - [Channel 160].id
+HITS MOVIES - [Channel 11].id;HITS MOVIES - [Channel 11].id
+HITS MOVIES HD - [Channel 409].id;HITS MOVIES HD - [Channel 409].id
+IDX - [Channel 100].id;IDX - [Channel 100].id
+IDX HD - [Channel 436].id;IDX HD - [Channel 436].id
+IMC - [Channel 14].id;IMC - [Channel 14].id
+Indosiar - [Channel 78].id;Indosiar - [Channel 78].id
+Indosiar HD - [Channel 438].id;Indosiar HD - [Channel 438].id
+iNews - [Channel 83].id;iNews - [Channel 83].id
+iNews HD - [Channel 433].id;iNews HD - [Channel 433].id
+JAKTV - [Channel 113].id;JAKTV - [Channel 113].id
+Kids TV - [Channel 46].id;Kids TV - [Channel 46].id
+Kids TV HD - [Channel 471].id;Kids TV HD - [Channel 471].id
+KIX - [Channel 161].id;KIX - [Channel 161].id
+Kompas TV - [Channel 106].id;Kompas TV - [Channel 106].id
+LIFE - [Channel 91].id;LIFE - [Channel 91].id
+Lifetime - [Channel 167].id;Lifetime - [Channel 167].id
+Love Nature - [Channel 204].id;Love Nature - [Channel 204].id
+Love Nature HD - [Channel 463].id;Love Nature HD - [Channel 463].id
+Metro TV - [Channel 107].id;Metro TV - [Channel 107].id
+MNCTV - [Channel 82].id;MNCTV - [Channel 82].id
+MNCTV HD - [Channel 432].id;MNCTV HD - [Channel 432].id
+Moonbug - [Channel 40].id;Moonbug - [Channel 40].id
+MTV 90s - [Channel 149].id;MTV 90s - [Channel 149].id
+MTV LIVE - [Channel 148].id;MTV LIVE - [Channel 148].id
+Music TV - [Channel 111].id;Music TV - [Channel 111].id
+Music TV HD - [Channel 444].id;Music TV HD - [Channel 444].id
+Muslim TV - [Channel 92].id;Muslim TV - [Channel 92].id
+My Cinema - [Channel 16].id;My Cinema - [Channel 16].id
+My Cinema Asia - [Channel 17].id;My Cinema Asia - [Channel 17].id
+My Family - [Channel 15].id;My Family - [Channel 15].id
+My Kidz - [Channel 50].id;My Kidz - [Channel 50].id
+NET TV - [Channel 116].id;NET TV - [Channel 116].id
+NHK World - [Channel 355].id;NHK World - [Channel 355].id
+NHK World Premium - [Channel 354].id;NHK World Premium - [Channel 354].id
+Nick Jr. HD - [Channel 472].id;Nick Jr. HD - [Channel 472].id
+Nickelodeon - [Channel 49].id;Nickelodeon - [Channel 49].id
+Nickelodeon Jr - [Channel 37].id;Nickelodeon Jr - [Channel 37].id
+ONE - [Channel 164].id;ONE - [Channel 164].id
+ONE HD - [Channel 445].id;ONE HD - [Channel 445].id
+Outdoor Channel - [Channel 202].id;Outdoor Channel - [Channel 202].id
+Outdoor channel HD - [Channel 460].id;Outdoor channel HD - [Channel 460].id
+RCTI - [Channel 80].id;RCTI - [Channel 80].id
+RCTI HD - [Channel 430].id;RCTI HD - [Channel 430].id
+Rock Action - [Channel 248].id;Rock Action - [Channel 248].id
+Rock Entertainment - [Channel 240].id;Rock Entertainment - [Channel 240].id
+SCTV - [Channel 89].id;SCTV - [Channel 89].id
+SCTV HD - [Channel 437].id;SCTV HD - [Channel 437].id
+SEA TODAY - [Channel 336].id;SEA TODAY - [Channel 336].id
+Sindo News TV - [Channel 84].id;Sindo News TV - [Channel 84].id
+Sindo News TV HD - [Channel 434].id;Sindo News TV HD - [Channel 434].id
+Soccer Channel - [Channel 101].id;Soccer Channel - [Channel 101].id
+Soccer Channel HD - [Channel 420].id;Soccer Channel HD - [Channel 420].id
+Sportstars - [Channel 102].id;Sportstars - [Channel 102].id
+Sportstars 2 - [Channel 98].id;Sportstars 2 - [Channel 98].id
+Sportstars 2 HD - [Channel 422].id;Sportstars 2 HD - [Channel 422].id
+Sportstars 3 - [Channel 99].id;Sportstars 3 - [Channel 99].id
+sportstars 3 HD - [Channel 423].id;sportstars 3 HD - [Channel 423].id
+Sportstars 4 - [Channel 88].id;Sportstars 4 - [Channel 88].id
+Sportstars 4 HD - [Channel 424].id;Sportstars 4 HD - [Channel 424].id
+Sportstars HD - [Channel 421].id;Sportstars HD - [Channel 421].id
+SPOTV - [Channel 307].id;SPOTV - [Channel 307].id
+SPOTV 2 - [Channel 308].id;SPOTV 2 - [Channel 308].id
+SPOTV 2 HD - [Channel 428].id;SPOTV 2 HD - [Channel 428].id
+SPOTV HD - [Channel 427].id;SPOTV HD - [Channel 427].id
+Tawaf TV - [Channel 105].id;Tawaf TV - [Channel 105].id
+Thrill - [Channel 19].id;Thrill - [Channel 19].id
+Trans 7 - [Channel 110].id;Trans 7 - [Channel 110].id
+Trans TV - [Channel 87].id;Trans TV - [Channel 87].id
+tvN - [Channel 158].id;tvN - [Channel 158].id
+tvN HD - [Channel 446].id;tvN HD - [Channel 446].id
+tvN Movies - [Channel 25].id;tvN Movies - [Channel 25].id
+tvN Movies HD - [Channel 415].id;tvN Movies HD - [Channel 415].id
+tvOne - [Channel 97].id;tvOne - [Channel 97].id
+TVRI - [Channel 118].id;TVRI - [Channel 118].id
+Vision Prime - [Channel 94].id;Vision Prime - [Channel 94].id
+Vision Prime HD - [Channel 1].id;Vision Prime HD - [Channel 1].id
+Zee Bioskop - [Channel 23].id;Zee Bioskop - [Channel 23].id
+Zoomoo - [Channel 39].id;Zoomoo - [Channel 39].id

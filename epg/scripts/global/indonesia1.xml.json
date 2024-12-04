@@ -1,0 +1,202 @@
+[
+	{
+		"origin": "ABC Australia.id",
+		"channel_name": "ABC Australia",
+		"channel_id": "ABCAustralia.id"
+	},
+	{
+		"origin": "AJWA TV.id",
+		"channel_name": "Ajwa TV",
+		"channel_id": "AjwaTV.id"
+	},
+	{
+		"origin": "Arirang.id",
+		"channel_name": "Arirang TV",
+		"channel_id": "ArirangTV.id"
+	},
+	{
+		"origin": "ANTV.id",
+		"channel_name": "ANTV",
+		"channel_id": "ANTV.id"
+	},
+	{
+		"origin": "Bein 1.id",
+		"channel_name": "beIN Sports 1",
+		"channel_id": "beinSports1.id"
+	},
+	{
+		"origin": "Bein 2.id",
+		"channel_name": "beIN Sports 2",
+		"channel_id": "beinSports2.id"
+	},
+	{
+		"origin": "Bein 3.id",
+		"channel_name": "beIN Sports 3",
+		"channel_id": "beinSports3.id"
+	},
+	{
+		"origin": "BTV.id",
+		"channel_name": "BTV",
+		"channel_id": "BTV.id"
+	},
+	{
+		"origin": "Champions TV 1.id",
+		"channel_name": "Champions TV 1",
+		"channel_id": "ChampionsTV1.id"
+	},
+	{
+		"origin": "Champions TV 2.id",
+		"channel_name": "Champions TV 2",
+		"channel_id": "ChampionsTV2.id"
+	},
+	{
+		"origin": "Champions TV 3.id",
+		"channel_name": "Champions TV 3",
+		"channel_id": "ChampionsTV3.id"
+	},
+	{
+		"origin": "Champions TV 5.id",
+		"channel_name": "Champions TV 5",
+		"channel_id": "ChampionsTV5.id"
+	},
+	{
+		"origin": "Champions TV 6.id",
+		"channel_name": "Champions TV 6",
+		"channel_id": "ChampionsTV6.id"
+	},
+	{
+		"origin": "DW English.id",
+		"channel_name": "DW (English)",
+		"channel_id": "DWEnglish.de"
+	},
+	{
+		"origin": "Horee.id",
+		"channel_name": "Horee",
+		"channel_id": "Horee.id"
+	},
+	{
+		"origin": "Indosiar.id",
+		"channel_name": "Indosiar",
+		"channel_id": "Indosiar.id"
+	},
+	{
+		"origin": "Jaktv.id",
+		"channel_name": "Jak TV",
+		"channel_id": "JakTV.id"
+	},
+	{
+		"origin": "JTV.id",
+		"channel_name": "JTV",
+		"channel_id": "JTV.id"
+	},
+	{
+		"origin": "Kompas TV.id",
+		"channel_name": "Kompas TV",
+		"channel_id": "KompasTV.id"
+	},
+	{
+		"origin": "Makkah TV.id",
+		"channel_name": "Makkah TV",
+		"channel_id": "MakkahTV.id"
+	},
+	{
+		"origin": "Mentari TV.id",
+		"channel_name": "Mentari TV",
+		"channel_id": "MentariTV.id"
+	},
+	{
+		"origin": "Metro TV.id",
+		"channel_name": "Metro TV",
+		"channel_id": "MetroTV.id"
+	},
+	{
+		"origin": "Moji.id",
+		"channel_name": "Moji",
+		"channel_id": "Moji.id"
+	},
+	{
+		"origin": "NET TV.id",
+		"channel_name": "NET.",
+		"channel_id": "NET.id"
+	},
+	{
+		"origin": "News Asia.id",
+		"channel_name": "CNA",
+		"channel_id": "CNA.id"
+	},
+	{
+		"origin": "NHK World Japan",
+		"channel_name": "NHK World Japan",
+		"channel_id": "NHKWorld.id"
+	},
+	{
+		"origin": "Nusantara TV.id",
+		"channel_name": "Nusantara TV",
+		"channel_id": "NusantaraTV.id"
+	},
+	{
+		"origin": "Premier League TV.id",
+		"channel_name": "Premier League TV",
+		"channel_id": "PremierLeagueTV.id"
+	},
+	{
+		"origin": "RANS Channel.id",
+		"channel_name": "RANS Channel",
+		"channel_id": "RansChannel.id"
+	},
+	{
+		"origin": "Rock Action.id",
+		"channel_name": "Rock Action",
+		"channel_id": "RockAction.id"
+	},
+	{
+		"origin": "RTV.id",
+		"channel_name": "RTV",
+		"channel_id": "RTV.id"
+	},
+	{
+		"origin": "SCTV.id",
+		"channel_name": "SCTV",
+		"channel_id": "SCTV.id"
+	},
+	{
+		"origin": "TRANS TV.id",
+		"channel_name": "Trans TV",
+		"channel_id": "TransTV.id"
+	},
+	{
+		"origin": "Trans7.id",
+		"channel_name": "Trans 7",
+		"channel_id": "Trans7.id"
+	},
+	{
+		"origin": "TVN.id",
+		"channel_name": "tvN",
+		"channel_id": "tvN.id"
+	},
+	{
+		"origin": "TVOne.id",
+		"channel_name": "tvOne",
+		"channel_id": "tvOne.id"
+	},
+	{
+		"origin": "TVRI.id",
+		"channel_name": "TVRI Nasional",
+		"channel_id": "TVRINasional.id"
+	},
+	{
+		"origin": "World Cup 1",
+		"channel_name": "Champions TV World Cup 1",
+		"channel_id": "ChampionsTVWorldCup1.id"
+	},
+	{
+		"origin": "World Cup 2",
+		"channel_name": "Champions TV World Cup 2",
+		"channel_id": "ChampionsTVWorldCup2.id"
+	},
+	{
+		"origin": "Zee Bioskop",
+		"channel_name": "Zee Bioskop",
+		"channel_id": "ZeeBioskop.id"
+	}
+]
