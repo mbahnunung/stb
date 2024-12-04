@@ -150,6 +150,11 @@
 		"channel_id": "RockAction.id"
 	},
 	{
+		"origin": "ROCK Entertainment.id",
+		"channel_name": "Rock Entertainment",
+		"channel_id": "RockEntertainment.id"
+	},
+	{
 		"origin": "RTV.id",
 		"channel_name": "RTV",
 		"channel_id": "RTV.id"
@@ -158,6 +163,16 @@
 		"origin": "SCTV.id",
 		"channel_name": "SCTV",
 		"channel_id": "SCTV.id"
+	},
+	{
+		"origin": "SPOTV 2.id",
+		"channel_name": "SPOTV 2",
+		"channel_id": "SPOTV2.id"
+	},
+	{
+		"origin": "SPOTV.id",
+		"channel_name": "SPOTV",
+		"channel_id": "SPOTV.id"
 	},
 	{
 		"origin": "TRANS TV.id",
@@ -183,16 +198,6 @@
 		"origin": "TVRI.id",
 		"channel_name": "TVRI Nasional",
 		"channel_id": "TVRINasional.id"
-	},
-	{
-		"origin": "World Cup 1",
-		"channel_name": "Champions TV World Cup 1",
-		"channel_id": "ChampionsTVWorldCup1.id"
-	},
-	{
-		"origin": "World Cup 2",
-		"channel_name": "Champions TV World Cup 2",
-		"channel_id": "ChampionsTVWorldCup2.id"
 	},
 	{
 		"origin": "Zee Bioskop",
