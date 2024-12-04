@@ -1,17 +1,17 @@
 aqfindonesia.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml
 
-indonesia.xml
-https://www.bevy.be/bevyfiles/indonesia.xml
+indonesia1.xml
+https://www.bevy.be/bevyfiles/indonesia1.xml
 
-indonesiapremium1.xml
-https://www.bevy.be/bevyfiles/indonesiapremium1.xml
+indonesia2.xml
+https://www.bevy.be/bevyfiles/indonesia2.xml
 
-indonesiapremium2.xml
-https://www.bevy.be/bevyfiles/indonesiapremium2.xml
+indonesia3.xml
+https://www.bevy.be/bevyfiles/indonesia3.xml
 
-indonesiapremium3.xml
-https://www.bevy.be/bevyfiles/indonesiapremium3.xml
+indonesia4.xml
+https://www.bevy.be/bevyfiles/indonesia4.xml
 
 malaysiapremium2.xml
 https://www.bevy.be/bevyfiles/malaysiapremium2.xml
