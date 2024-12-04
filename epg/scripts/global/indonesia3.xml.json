@@ -436,6 +436,26 @@
 		"channel_id": "SEAToday.id"
 	},
 	{
+		"origin": "Seru!.id",
+		"channel_name": "Seru!",
+		"channel_id": "Seru!.id"
+	},
+	{
+		"origin": "SPOTV 2.id",
+		"channel_name": "SPOTV 2",
+		"channel_id": "SPOTV2.id"
+	},
+	{
+		"origin": "SPOTV.id",
+		"channel_name": "SPOTV",
+		"channel_id": "SPOTV.id"
+	},
+	{
+		"origin": "SONE.id",
+		"channel_name": "ONE",
+		"channel_id": "One.id"
+	},
+	{
 		"origin": "Tawaf TV.id",
 		"channel_name": "Tawaf TV",
 		"channel_id": "TawafTV.id"
