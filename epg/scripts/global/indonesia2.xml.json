@@ -371,8 +371,8 @@
 	},
 	{
 		"origin": "NHK.id",
-		"channel_name": "NHK World",
-		"channel_id": "NHKWorld.id"
+		"channel_name": "NHK World Japan",
+		"channel_id": "NHKWorldJapan.jp.id"
 	},
 	{
 		"origin": "Nick Jr.id",

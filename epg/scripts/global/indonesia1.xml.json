@@ -125,11 +125,6 @@
 		"channel_id": "CNA.id"
 	},
 	{
-		"origin": "NHK World Japan",
-		"channel_name": "NHK World Japan",
-		"channel_id": "NHKWorld.id"
-	},
-	{
 		"origin": "Nusantara TV.id",
 		"channel_name": "Nusantara TV",
 		"channel_id": "NusantaraTV.id"

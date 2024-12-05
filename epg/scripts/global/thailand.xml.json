@@ -1,0 +1,117 @@
+[
+	{
+		"origin": "AniPlus.th",
+		"channel_name": "Aniplus",
+		"channel_id": "Aniplus.id"
+	},
+	{
+		"origin": "Asian Food Network.th",
+		"channel_name": "Asian Food Network",
+		"channel_id": "AsianFoodNetwork.sg.id"
+	},
+	{
+		"origin": "Arirang.th",
+		"channel_name": "Arirang TV",
+		"channel_id": "ArirangTV.id"
+	},
+	{
+		"origin": "Animal Planet.th",
+		"channel_name": "Animal Planet",
+		"channel_id": "AnimalPlanet.id"
+	},
+	{
+		"origin": "beIN SPORTS 1.th",
+		"channel_name": "beIN Sports 1",
+		"channel_id": "beinSports1.id"
+	},
+	{
+		"origin": "beIN SPORTS 2.th",
+		"channel_name": "beIN Sports 2",
+		"channel_id": "beinSports2.id"
+	},
+	{
+		"origin": "beIN SPORTS 3.th",
+		"channel_name": "beIN Sports 3",
+		"channel_id": "beinSports3.id"
+	},
+	{
+		"origin": "Cartoonito.th",
+		"channel_name": "Cartoonito (HD)",
+		"channel_id": "Cartoonito.sg"
+	},
+	{
+		"origin": "CCTV4.th",
+		"channel_name": "CCTV-4",
+		"channel_id": "CCTV4.id"
+	},
+  {
+		"origin": "Channel News Asia.th",
+		"channel_name": "CNA",
+		"channel_id": "CNA.id"
+	},
+  {
+		"origin": "Discovery Asia.th",
+		"channel_name": "Discovery Asia",
+		"channel_id": "DiscoveryAsia.id"
+	},
+	{
+		"origin": "Discovery.th",
+		"channel_name": "Discovery Channel",
+		"channel_id": "DiscoveryChannel.id"
+	},
+	{
+		"origin": "DW.th",
+		"channel_name": "DW (English)",
+		"channel_id": "DWEnglish.de"
+	},
+	{
+		"origin": "Food Network.th",
+		"channel_name": "Food Network",
+		"channel_id": "FoodNetwork.uk"
+	},
+	{
+		"origin": "France 24.th",
+		"channel_name": "France 24 English",
+		"channel_id": "France24English.fr.id"
+	},
+	{
+		"origin": "Global Trekker.th",
+		"channel_name": "Global Trekker",
+		"channel_id": "GlobalTrekker.id"
+	},
+	{
+		"origin": "HITS.th",
+		"channel_name": "HITS",
+		"channel_id": "HITS.id"
+	},
+	{
+		"origin": "HITS Movies.th",
+		"channel_name": "HITS Movies",
+		"channel_id": "HITSMovies.id"
+	},
+	{
+		"origin": "NHK.th",
+		"channel_name": "NHK World Japan",
+		"channel_id": "NHKWorldJapan.jp.id"
+	},
+	{
+		"origin": "ROCK Action.th",
+		"channel_name": "Rock Action",
+		"channel_id": "RockAction.id"
+	},
+	{
+		"origin": "ROCK ENTERTAINMENT.th",
+		"channel_name": "Rock Entertainment",
+		"channel_id": "RockEntertainment.id"
+	},
+	{
+		"origin": "TLC.th",
+		"channel_name": "TLC (id)",
+		"channel_id": "TLC.id"
+	},
+	{
+		"origin": "Warner TV.th",
+		"channel_name": "Warner TV",
+		"channel_id": "Warner.id"
+	},
+]
