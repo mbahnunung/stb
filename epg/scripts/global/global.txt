@@ -49,12 +49,6 @@ https://www.bevy.be/bevyfiles/india.xml
 india1.xml
 https://www.bevy.be/bevyfiles/india1.xml
 
-arabia.xml
-https://www.bevy.be/bevyfiles/arabia.xml
-
-arabiapremium2.xml
-https://www.bevy.be/bevyfiles/arabiapremium2.xml
-
 Singtelepg.xml
 https://i.mjh.nz/Singtel/epg.xml
 
@@ -67,17 +61,14 @@ https://www.bevy.be/bevyfiles/spain.xml
 uaepremium3.xml
 https://www.bevy.be/bevyfiles/uaepremium3.xml
 
-unitedstatespremium4.xml
-https://www.bevy.be/bevyfiles/unitedstatespremium4.xml
-
 unitedkingdom.xml
 https://www.bevy.be/bevyfiles/unitedkingdom.xml
 
-unitedstatespremium1.xml
-https://www.bevy.be/bevyfiles/unitedstatespremium1.xml
+unitedstates1.xml
+https://www.bevy.be/bevyfiles/unitedstates1.xml
 
-unitedstatespremium4.xml
-https://www.bevy.be/bevyfiles/unitedstatespremium4.xml
+unitedstates4.xml
+https://www.bevy.be/bevyfiles/unitedstates4.xml
 
 us.xml
 https://i.mjh.nz/PlutoTV/us.xml
