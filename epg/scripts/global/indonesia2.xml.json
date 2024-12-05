@@ -55,6 +55,31 @@
 		"channel_id": "BBCWorldNews.id"
 	},
 	{
+		"origin": "beIN SPORTS.id",
+		"channel_name": "beIN Sports 1",
+		"channel_id": "beinSports1.id"
+	},
+	{
+		"origin": "beIN SPORTS 2.id",
+		"channel_name": "beIN Sports 2",
+		"channel_id": "beinSports2.id"
+	},
+	{
+		"origin": "beIN SPORTS 3.id",
+		"channel_name": "beIN Sports 3",
+		"channel_id": "beinSports3.id"
+	},
+	{
+		"origin": "beIN SPORTS 4.id",
+		"channel_name": "beIN Sports 4",
+		"channel_id": "beinSports4.id"
+	},
+	{
+		"origin": "beIN SPORTS 5.id",
+		"channel_name": "beIN Sports 5",
+		"channel_id": "beinSports5.id"
+	},
+	{
 		"origin": "BTV.id",
 		"channel_name": "BTV",
 		"channel_id": "BTV.id"
@@ -70,6 +95,11 @@
 		"channel_id": "Bloomberg.id"
 	},
 	{
+		"origin": "Cbeebies.id",
+		"channel_name": "CBeebies HD",
+		"channel_id": "Cbeebies.id"
+	},
+	{
 		"origin": "Celestial Movies.id",
 		"channel_name": "Celestial Movies",
 		"channel_id": "CelestialMovies.id"
@@ -83,11 +113,6 @@
 		"origin": "CGTN.id",
 		"channel_name": "CGTN",
 		"channel_id": "CGTN.id"
-	},
-	{
-		"origin": "Cbeebies.id",
-		"channel_name": "CBeebies HD",
-		"channel_id": "Cbeebies.id"
 	},
 	{
 		"origin": "Celebrities TV.id",
@@ -120,9 +145,9 @@
 		"channel_id": "CNA.id"
 	},
 	{
-		"origin": "CINEMA WORLD.id",
-		"channel_name": "Cinema World",
-		"channel_id": "Cinemaworld.id"
+		"origin": "Cinemachi Max.id",
+		"channel_name": "Cinemachi Max",
+		"channel_id": "CinemachiMax.id"
 	},
 	{
 		"origin": "Cinemachi Action.id",
@@ -215,14 +240,14 @@
 		"channel_id": "GTV.id"
 	},
 	{
-		"origin": "GTV Malaysia.id",
-		"channel_name": "GTVᴴᴰ",
-		"channel_id": "GTV.my.id"
-	},
-	{
 		"origin": "Global Trekker.id",
 		"channel_name": "Global Trekker",
 		"channel_id": "GlobalTrekker.id"
+	},
+	{
+		"origin": "Hanacaraka TV.id",
+		"channel_name": "Hanacaraka TV",
+		"channel_id": "HanacarakaTV.id"
 	},
 	{
 		"origin": "History.id",
