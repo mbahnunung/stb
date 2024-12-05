@@ -791,7 +791,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd
 http://op-group1-swiftservesd-1.dens.tv/s/s22/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/BwijqtC.png?v=1.0.0.1" group-title="🌍 News" tvg-id="NHKWorld.id" tvg-name"NHK World Japan", NHK World Japan
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/BwijqtC.png?v=1.0.0.1" group-title="🌍 News" tvg-id="NHKWorldJapan.jp.id" tvg-name"NHK World Japan", NHK World Japan
 https://warningfm.github.io/v3/live/str/ns/ec695f65e6a2f4b.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
