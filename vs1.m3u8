@@ -809,7 +809,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/IDX/sa_dash_vmx/IDX.mpd|Referer=ht
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26cc3e3343858d3986322f16e10b5823:0ad735e707e1c79bc550efa49f2ea4bd
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/hF7S77p.png?v=1.0.0.1" group-title="🌍 News" tvg-id="SindoNews.id" tvg-name"SindoNews.id", Sindonews TV
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/hF7S77p.png?v=1.0.0.1" group-title="🌍 News" tvg-id="SindoNews.id" tvg-name"SindoNews TV", Sindonews TV
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd|Referer=https://www.visionplus.id
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
