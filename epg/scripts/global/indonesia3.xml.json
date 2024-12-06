@@ -396,27 +396,32 @@
 		"channel_id": "NusantaraTV.id"
 	},
 	{
-		"origin": "Prambors",
+		"origin": "Prambors.id",
 		"channel_name": "Prambors TV",
 		"channel_id": "PramborsTV.id"
 	},
 	{
-		"origin": "Rajawali TV",
+		"origin": "Rajawali TV.id",
 		"channel_name": "RTV",
 		"channel_id": "RTV.id"
 	},
 	{
-		"origin": "RCTI",
-		"channel_name": "RCTI",
-		"channel_id": "RCTI.id"
+		"origin": "Rock Action.id",
+		"channel_name": "Rock Action",
+		"channel_id": "RockAction.id"
 	},
 	{
-		"origin": "Rodja TV",
+		"origin": "Rock Entertainment.id",
+		"channel_name": "Rock Entertainment",
+		"channel_id": "RockEntertainment.id"
+	},
+	{
+		"origin": "Rodja TV.id",
 		"channel_name": "Rodja TV",
 		"channel_id": "RodjaTV.id"
 	},
 	{
-		"origin": "RRI NET",
+		"origin": "RRI NET.id",
 		"channel_name": "RRI NET",
 		"channel_id": "RRINet.id"
 	},
@@ -481,9 +486,9 @@
 		"channel_id": "TransTV.id"
 	},
 	{
-		"origin": "TRT World",
-		"channel_name": "TRT World",
-		"channel_id": "TRTWorld.tr.id"
+		"origin": "TVN Movies.id",
+		"channel_name": "TVN Movies",
+		"channel_id": "tvNMovies.id"
 	},
 	{
 		"origin": "TV One.id",
