@@ -19,6 +19,9 @@ https://www.bevy.be/bevyfiles/malaysiapremium2.xml
 singaporepremium.xml
 https://www.bevy.be/bevyfiles/singaporepremium.xml
 
+singapore3.xml
+https://www.bevy.be/bevyfiles/singapore3.xml
+
 AqFad2811epg.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
 
@@ -43,11 +46,11 @@ https://www.bevy.be/bevyfiles/china.xml
 hongkongpremium.xml
 https://www.bevy.be/bevyfiles/hongkongpremium.xml
 
-india.xml
-https://www.bevy.be/bevyfiles/india.xml
-
 india1.xml
 https://www.bevy.be/bevyfiles/india1.xml
+
+india4.xml
+https://www.bevy.be/bevyfiles/india4.xml
 
 Singtelepg.xml
 https://i.mjh.nz/Singtel/epg.xml
