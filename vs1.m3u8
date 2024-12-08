@@ -517,11 +517,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:0 tvg-logo="https://cdn4.mbahnunungonline.net/img/9XfDPx3.png?v=1.0.0.1" group-title="Knowledge" tvg-id="Discovery HD World.in" tvg-name="Discovery HD World.in", Discovery HD World
-https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/0d936f069c81e0b579c80e6d03497feb678ae03f/adb3ea162365d59.m3u8
+https://warningfm.github.io/v3/live/str/knl/adb3ea162365d59.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/fgO3tyz.png?v=1.0.0.1" group-title="Knowledge" tvg-id="INBC1500011RN" tvg-name="Discovery Science", Discovery Science
-https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/c2d8460d2c7c76c36e838768431da3cbaa4a3887/52a5a986362e674.m3u8
+https://warningfm.github.io/v3/live/str/knl/52a5a986362e674.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
