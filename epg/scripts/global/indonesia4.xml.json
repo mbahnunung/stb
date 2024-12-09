@@ -395,9 +395,44 @@
 		"channel_id": "MuslimTV.id"
 	},
 	{
+		"origin": "My Cinema - [Channel 16].id",
+		"channel_name": "My Cinema",
+		"channel_id": "MyCinema.id"
+	},
+	{
+		"origin": "My Family - [Channel 15].id",
+		"channel_name": "My Family Channel",
+		"channel_id": "MyFamilyChannel.id"
+	},
+	{
+		"origin": "My Kidz - [Channel 50].id",
+		"channel_name": "My Kidz",
+		"channel_id": "MyKidz.id"
+	},
+	{
 		"origin": "NET TV - [Channel 116].id",
 		"channel_name": "Net TV",
 		"channel_id": "NET.id"
+	},
+	{
+		"origin": "NHK World Premium - [Channel 354].id",
+		"channel_name": "NHK World Premium",
+		"channel_id": "NHKWorldPremium.id"
+	},
+	{
+		"origin": "NHK World - [Channel 355].id",
+		"channel_name": "NHK World Japan",
+		"channel_id": "NHKWorldJapan.jp.id"
+	},
+	{
+		"origin": "Nick Jr. HD - [Channel 472].id",
+		"channel_name": "Nick Jr.",
+		"channel_id": "NickJr.id"
+	},
+	{
+		"origin": "Nickelodeon - [Channel 49].id",
+		"channel_name": "Nickelodeon",
+		"channel_id": "Nickelodeon.id"
 	},
 	{
 		"origin": "Sindo News TV - [Channel 84].id",
