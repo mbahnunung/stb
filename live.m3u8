@@ -7,7 +7,7 @@ https://1a-rcti.rctiplus.id/rcti-sdi.mpd|Referer=https://www.rctiplus.com
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/kHUcKkK.png?v=1.0.0.1" group-title="tvN150N" tvg-id="SCTV.id" tvg-name="SCTV", SCTV
-https://warningfm.github.io/v3/live/str/id/2b8fc230e8f847a.m3u8
+http://khano.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847b.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/AWnnWow.png?v=1.1.1.1" group-title="tvN150N" tvg-id="MNCTV.id" tvg-name="MNC TV", MNCTV
