@@ -168,6 +168,10 @@ https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/
 
 ########################################################      Kids     ########################################################
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/p3cqAKM.png?v=1.0.0.1" group-title="Kids" group-logo="https://i.imgur.com/BxvUXcn.png?v=1.0.0.1" tvg-id="Biznet Kids", B Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/6JSc2Ds.png?v=1.1.1.1" group-title="Kids" group-logo="https://i.imgur.com/BxvUXcn.png?v=1.0.0.1" tvg-id="Cartoonito.sg" tvg-name="Cartoonito (HD)", Cartoonito (HD)
 https://warningfm.github.io/v3/live/str/Kids/86555c60e79d125.m3u8
 
@@ -191,9 +195,26 @@ https://cdn09jtedge.indihometv.com/joss/130/duniaanak/index.m3u8
 https://d1abp075u76pbq.cloudfront.net/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd|Referer=https://www.visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/3pc3BRz.png?v=1.0.0.1" group-title="Kids" group-logo="https://i.imgur.com/BxvUXcn.png?v=1.0.0.1" tvg-id="FunPlanet.id" tvg-name="Fun Planet", FunPlanet
+https://cdn08jtedge.indihometv.com/dassdvr/134/indikids/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=686f7265653030303030303030303030:fe3d39b39bd26f0ee274f60c397bf61a
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/SNzeDbZ.png?v=1.0.0.1" group-title="Kids" group-logo="https://i.imgur.com/BxvUXcn.png?v=1.0.0.1" tvg-id="Horee.id" tvg-name="Horee", Horee
 https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17340c4223a4674b1b7da8d8d9e11174:11a73aad2c75ddf338840b08fb915993
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/uwhVKtr.png?v=1.0.0.1" group-title="Kids" group-logo="https://i.imgur.com/BxvUXcn.png?v=1.0.0.1" tvg-id="KidsTV.id" tvg-name="Kids TV", KidsTV
+https://d1abp075u76pbq.cloudfront.net/live/eds/Kids-HD/sa_dash_vmx/Kids-HD.mpd|Referer=https://www.visionplus.id
+
+#EXTINF:0 tvg-logo="https://cdn4.mbahnunungonline.net/img/DOpFSTU.png?v=1.0.0.1" group-title="Kids" group-logo="https://i.imgur.com/BxvUXcn.png?v=1.0.0.1" tvg-id="MoonbugKids.us" tvg-name="Moonbug Kids", Moonbug
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/zWQ65C4.png?v=1.0.0.1" group-title="Kids" group-logo="https://i.imgur.com/BxvUXcn.png?v=1.0.0.1" tvg-id="MyKidz.id" tvg-name="My Kidz", MyKidz
+https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/Kids/d906ad24c354b91.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f71ca09f57ea09e27ee63d7d1f0d0e31:8a07ef45b4a18973ef12f8da482dcec0
@@ -206,30 +227,9 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD
 https://d1abp075u76pbq.cloudfront.net/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd|Referer=https://www.visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=17340c4223a4674b1b7da8d8d9e11174:11a73aad2c75ddf338840b08fb915993
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/uwhVKtr.png?v=1.0.0.1" group-title="Kids" group-logo="https://i.imgur.com/BxvUXcn.png?v=1.0.0.1" tvg-id="KidsTV.id" tvg-name="Kids TV", KidsTV
-https://d1abp075u76pbq.cloudfront.net/live/eds/Kids-HD/sa_dash_vmx/Kids-HD.mpd|Referer=https://www.visionplus.id
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/zWQ65C4.png?v=1.0.0.1" group-title="Kids" group-logo="https://i.imgur.com/BxvUXcn.png?v=1.0.0.1" tvg-id="MyKidz.id" tvg-name="My Kidz", MyKidz
-https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/Kids/d906ad24c354b91.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5ff6154f28d6950063f9f5b4db7be009:93cac38fd15124acce5b658896df0a25
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/bMwkQEd.png?v=1.0.0.1" group-title="Kids" group-logo="https://i.imgur.com/BxvUXcn.png?v=1.0.0.1" tvg-id="ZooMoo.sg" tvg-name="Zoomoo", Zoomoo
 https://d1abp075u76pbq.cloudfront.net/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd|Referer=https://www.visionplus.id
-
-#EXTINF:0 tvg-logo="https://cdn4.mbahnunungonline.net/img/DOpFSTU.png?v=1.0.0.1" group-title="Kids" group-logo="https://i.imgur.com/BxvUXcn.png?v=1.0.0.1" tvg-id="MoonbugKids.us" tvg-name="Moonbug Kids", Moonbug
-https://moonbug-rokuus.amagi.tv/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/3pc3BRz.png?v=1.0.0.1" group-title="Kids" group-logo="https://i.imgur.com/BxvUXcn.png?v=1.0.0.1" tvg-id="FunPlanet.id" tvg-name="Fun Planet", FunPlanet
-https://cdn08jtedge.indihometv.com/dassdvr/134/indikids/manifest.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/p3cqAKM.png?v=1.0.0.1" group-title="Kids" group-logo="https://i.imgur.com/BxvUXcn.png?v=1.0.0.1" tvg-id="Biznet Kids", B Kids
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7bd1932fa7de4cbab16db022d58b8d3e:395876eaa793b48c0837e304ae279de6
