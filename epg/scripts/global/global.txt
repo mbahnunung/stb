@@ -102,3 +102,6 @@ https://raw.githubusercontent.com/warningfm/v2/refs/heads/cloud/indihometv.com.x
 
 visionplus.id.xml
 https://raw.githubusercontent.com/warningfm/v2/refs/heads/cloud/visionplus.id.xml
+
+firstmedia.xml
+https://raw.githubusercontent.com/warningfm/v2/refs/heads/cloud/firstmedia.xml
