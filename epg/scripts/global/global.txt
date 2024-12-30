@@ -2,25 +2,25 @@ aqfindonesia.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml
 
 indonesia1.xml
-https://www.bevy.be/bevyfiles/indonesia1.xml
+https://www.open-epg.com/files/indonesia1.xml
 
 indonesia2.xml
-https://www.bevy.be/bevyfiles/indonesia2.xml
+https://www.open-epg.com/files/indonesia2.xml
 
 indonesia3.xml
-https://www.bevy.be/bevyfiles/indonesia3.xml
+https://www.open-epg.com/files/indonesia3.xml
 
 indonesia4.xml
-https://www.bevy.be/bevyfiles/indonesia4.xml
+https://www.open-epg.com/files/indonesia4.xml
 
 malaysiapremium2.xml
-https://www.bevy.be/bevyfiles/malaysiapremium2.xml
+https://www.open-epg.com/files/singaporepremium2.xml
 
 singaporepremium.xml
-https://www.bevy.be/bevyfiles/singaporepremium.xml
+https://www.open-epg.com/files/singaporepremium.xml
 
 singapore3.xml
-https://www.bevy.be/bevyfiles/singapore3.xml
+https://www.open-epg.com/files/singapore3.xml
 
 AqFad2811epg.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
@@ -41,16 +41,16 @@ i.mjh.nz.xml
 https://i.mjh.nz/all/epg.xml
 
 china.xml
-https://www.bevy.be/bevyfiles/china.xml
+https://www.open-epg.com/files/china.xml
 
 hongkongpremium.xml
-https://www.bevy.be/bevyfiles/hongkongpremium.xml
+https://www.open-epg.com/files/hongkongpremium.xml
 
 india1.xml
-https://www.bevy.be/bevyfiles/india1.xml
+https://www.open-epg.com/files/india1.xml
 
 india4.xml
-https://www.bevy.be/bevyfiles/india4.xml
+https://www.open-epg.com/files/india4.xml
 
 Singtelepg.xml
 https://i.mjh.nz/Singtel/epg.xml
@@ -59,40 +59,40 @@ SamsungTVPlusall.xml
 https://i.mjh.nz/SamsungTVPlus/all.xml
 
 mexico2.xml
-https://www.bevy.be/bevyfiles/mexico2.xml
+https://www.open-epg.com/files/mexico2.xml
 
 spain.xml
-https://www.bevy.be/bevyfiles/spain.xml
+https://www.open-epg.com/files/spain.xml
 
 uaepremium2.xml
-https://www.bevy.be/bevyfiles/uaepremium2.xml
+https://www.open-epg.com/files/uaepremium2.xml
 
 uaepremium3.xml
-https://www.bevy.be/bevyfiles/uaepremium3.xml
+https://www.open-epg.com/files/uaepremium3.xml
 
 unitedkingdom.xml
-https://www.bevy.be/bevyfiles/unitedkingdom.xml
+https://www.open-epg.com/files/unitedkingdom.xml
 
 unitedstates1.xml
-https://www.bevy.be/bevyfiles/unitedstates1.xml
+https://www.open-epg.com/files/unitedstates1.xml
 
 unitedstates4.xml
-https://www.bevy.be/bevyfiles/unitedstates4.xml
+https://www.open-epg.com/files/unitedstates4.xml
 
 us.xml
 https://i.mjh.nz/PlutoTV/us.xml
 
 czech1.xml
-https://www.bevy.be/bevyfiles/czech1.xml
+https://www.open-epg.com/files/czech1.xml
 
 turkey.xml
-https://www.bevy.be/bevyfiles/turkey.xml
+https://www.open-epg.com/files/turkey.xml
 
 turkeypremium1.xml
-https://www.bevy.be/bevyfiles/turkeypremium1.xml
+https://www.open-epg.com/files/turkeypremium1.xml
 
 thailand.xml
-https://www.bevy.be/bevyfiles/thailand.xml
+https://www.open-epg.com/files/thailand.xml
 
 vidio.com.xml
 https://raw.githubusercontent.com/warningfm/v2/refs/heads/cloud/vidio.com.xml
