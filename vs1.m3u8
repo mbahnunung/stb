@@ -983,7 +983,7 @@ https://59ec5453559f0.streamlock.net/jennylive/smil:WEB3131/playlist.m3u8
 ########################################################     Radio     ########################################################
 
 #EXTINF:-1 tvg-logo="https://cdn.bintangtenggarafm.com/img/sxFQM0Z.png?v=1.0.0.1" group-title="📻 Radio", Radio Bintang Tenggara
-http://live.bintangtenggara.net:3310/radio
+https://asv.alhastream.com:3310/rbtfm
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A5XtE1G.png?v=1.0.0.1" group-title="📻 Radio", Radio GBS FM
 https://s7.alhastream.com/radio/8090/radio?1609467814144
