@@ -119,13 +119,17 @@ https://warningfm.github.io/v3/live/str/id/6183ec225226ccf.m3u8
 
 ########################################################     Local     ########################################################
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96528db3a2fc4bf3a415f2c5c274b79c:3d77cf2d7ef8385d4c5fc876b742610a
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/bKLoSVx.png?v=1.1.1.1" group-title="Local" tvg-id="JTV.id" tvg-name="JTV", JTV
-https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/id/226fe77699e03c6.m3u8
+https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mpd/JTV.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fee85fded8ea4591b643468412bee3be:7e364f3ffd09c7b51c8d81430819177f
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/NVODNmw.png?v=1.0.0.1" group-title="Local" tvg-id="JakTV.id" tvg-name="Jak TV", JakTV
-https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/id/a6e7e966ea54cd3.m3u8
+https://atemeshield1-voe.sysln.id/live/eds/JAKTV/mpd/JAKTV.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/U9zYPHc.png?v=1.1.1.1" group-title="Local" tvg-id="DAAITV.id" tvg-name="DAAI TV", DAAITV
