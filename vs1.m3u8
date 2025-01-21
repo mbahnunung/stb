@@ -695,8 +695,11 @@ https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/rCLnw5V.png?v=1.0.0.1" group-title="Movies" tvg-id="mjh-ahm-FAST" tvg-name="Action Hollywood Movies", Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b4e2xGk.png" group-title="Movies" channel-id="mjh-discovery-ptms" tvg-id="mjh-discovery-ptms" , MovieSphere
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/b4e2xGk.png?v=1.0.0.1" group-title="Movies" channel-id="mjh-discovery-ptms" tvg-id="mjh-discovery-ptms" , MovieSphere
 https://i.mjh.nz/.r/discovery-ptms.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/dfLNSn3.png?v=1.1.1.1" group-title="Movies" tvg-id="FX Movie Channel.us" tvg-name="FX Movie Channel.us", FX
+http://fl2.moveonjoy.com/FX/index.m3u8
 
 ########################################################    Bioskop Indonesia     ########################################################
 
