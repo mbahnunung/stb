@@ -13,8 +13,8 @@ https://www.open-epg.com/files/indonesia3.xml
 indonesia4.xml
 https://www.open-epg.com/files/indonesia4.xml
 
-singaporepremium.xml
-https://www.open-epg.com/files/singaporepremium.xml
+singapore1.xml
+https://www.open-epg.com/files/singapore1.xml
 
 singaporepremium2.xml
 https://www.open-epg.com/files/singaporepremium2.xml
@@ -22,8 +22,8 @@ https://www.open-epg.com/files/singaporepremium2.xml
 singapore3.xml
 https://www.open-epg.com/files/singapore3.xml
 
-malaysiapremium2.xml
-https://www.open-epg.com/files/malaysiapremium2.xml
+malaysia2.xml
+https://www.open-epg.com/files/malaysia2.xml
 
 AqFad2811epg.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
@@ -73,8 +73,11 @@ https://www.open-epg.com/files/uaepremium2.xml
 uaepremium3.xml
 https://www.open-epg.com/files/uaepremium3.xml
 
-unitedkingdom.xml
-https://www.open-epg.com/files/unitedkingdom.xml
+unitedkingdom1.xml
+https://www.open-epg.com/files/unitedkingdom1.xml
+
+unitedkingdom2.xml
+https://www.open-epg.com/files/unitedkingdom2.xml
 
 unitedstates1.xml
 https://www.open-epg.com/files/unitedstates1.xml
