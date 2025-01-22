@@ -1131,25 +1131,25 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d2
 
 ########################################################    First Media   ########################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g4Hv2nh.png" group-title="First Media",Indosiar
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g4Hv2nh.png" group-title="First Media" tvg-id="Indosiar.id" tvg-name="Indosiar", Indosiar
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rvstMFG.png" group-title="First Media",SCTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rvstMFG.png" group-title="First Media" tvg-id="SCTV.id" tvg-name="SCTV", SCTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Koxi4M1.png" group-title="First Media", MOJI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Koxi4M1.png" group-title="First Media" tvg-id="Moji.id" tvg-name="Moji", Moji
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
 https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Uj0horo.png" group-title="First Media",ANTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uj0horo.png" group-title="First Media" tvg-id="ANTV.id" tvg-name="ANTV", antv
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4899559135b490d98a892c1d6a45e20:6b5feff6a7242dc4b4345bedb84c2181
