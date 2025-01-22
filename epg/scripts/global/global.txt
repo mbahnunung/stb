@@ -88,14 +88,14 @@ https://www.open-epg.com/files/unitedstates4.xml
 us.xml
 https://i.mjh.nz/PlutoTV/us.xml
 
-czech1.xml
-https://www.open-epg.com/files/czech1.xml
+czech2.xml
+https://www.open-epg.com/files/czech2.xml
 
-turkey.xml
-https://www.open-epg.com/files/turkey.xml
+turkey1.xml
+https://www.open-epg.com/files/turkey1.xml
 
-turkeypremium1.xml
-https://www.open-epg.com/files/turkeypremium1.xml
+turkey2.xml
+https://www.open-epg.com/files/turkey2.xml
 
 thailand.xml
 https://www.open-epg.com/files/thailand.xml
