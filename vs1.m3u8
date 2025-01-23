@@ -1094,6 +1094,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sWeXuef.png?v=1.1.1.1" group-title="INDIHOME" group-logo="https://warningfm.github.io/v3/img/U5JFSGW.png?v=1.0.0.1" ch-number="7" tvg-id="Trans7.id" tvg-name="Trans 7", Trans7
 https://warningfm.github.io/v3/live/str/id/cdd283c9d3d43b5.m3u8
 
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/AySErC1.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/U5JFSGW.png?v=1.0.0.1" ch-number="8" tvg-id="TransTV.id" tvg-name="Trans TV", TransTV
+https://warningfm.github.io/v3/live/str/id/61061784f4a9271.m3u8
+
 ########################################################    Transvision   ########################################################
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
