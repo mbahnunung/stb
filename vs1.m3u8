@@ -1184,24 +1184,24 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
 #EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_hgtv_ver1.png",HGTV
 https://cdn08jtedge.indihometv.com/dassdvr/133/hgtv/manifest.mpd
 
-########################################################    VISION+   ########################################################
+########################################################    RCTI+   ########################################################
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-4vn2eAluQ8E/YaHV_r0OksI/AAAAAAAABbg/LvE4G9XqvFYw6RhmfbSMCK0cdlU4Ls9iwCLcBGAsYHQ/s0/rA0rUsj.png?v=1.1.1.1" group-title="VISION+" group-logo="https://warningfm.github.io/v3/img/U5JFSGW.png" tvg-id="RCTI.id" tvg-name="RCTI", RCTI
-https://d1abp075u76pbq.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|Referer=https://www.visionplus.id
+#EXTINF:-1 group-title="RCTI+" group-logo="https://i.imgur.com/hQChToD.png?v=1.0.0.1" tvg-id="RCTI.id" tvg-logo="https://i.imgur.com/gsh3JQg.png",RCTI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-qovVcapetqw/YaHWqQxM-PI/AAAAAAAABbo/Oo0aERE3uqMBKQnm1UVH5TH4hQGMsFHgwCLcBGAsYHQ/s0/AWnnWow.png?v=1.1.1.1" group-title="VISION+" group-logo="https://warningfm.github.io/v3/img/U5JFSGW.png" tvg-id="MNCTV.id" tvg-name="MNCTV", MNCTV
-https://d1abp075u76pbq.cloudfront.net/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd|Referer=https://www.visionplus.id
+#EXTINF:-1 group-title="RCTI+" group-logo="https://i.imgur.com/hQChToD.png?v=1.0.0.1" tvg-id="MNCTV.id" tvg-logo="https://i.imgur.com/KU9R3ZR.png",MNCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-GR57XA8olF8/YMOFfPvSOCI/AAAAAAAABEA/bOl3WXT_UR4IBjao-dPtkBXKz8wO3UivACLcBGAsYHQ/s0/45Vmwv5.png?v=1.1.1.1" group-title="VISION+" group-logo="https://warningfm.github.io/v3/img/U5JFSGW.png" tvg-id="GTV.id" tvg-name="GTV", GTV
-https://d1abp075u76pbq.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd|Referer=https://www.visionplus.id
+#EXTINF:-1 group-title="RCTI+" group-logo="https://i.imgur.com/hQChToD.png?v=1.0.0.1" tvg-id="GTV.id" tvg-logo="https://i.imgur.com/5LCTihb.png",GTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DgVXdILk_2U/YMOFgRvUd8I/AAAAAAAABEQ/tlWQu2OAmxwnyVFbaa1KFXsseg5Ie5OnACLcBGAsYHQ/s0/EknqlDs.png?v=1.0.0.1" group-title="VISION+" group-logo="https://warningfm.github.io/v3/img/U5JFSGW.png" tvg-id="iNews.id" tvg-name="iNews", iNews
-https://d1abp075u76pbq.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd|Referer=https://www.visionplus.id
+#EXTINF:-1 group-title="RCTI+" group-logo="https://i.imgur.com/hQChToD.png?v=1.0.0.1" tvg-id="iNews.id" tvg-logo="https://i.imgur.com/PRrzyHd.png",iNews
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://inews-cutv.rctiplus.id/inews-sdi.m3u8
