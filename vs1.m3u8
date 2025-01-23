@@ -1083,12 +1083,12 @@ https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://images.indihometv.com/logo_galaxypremium_big.png", GALAXY PREMIUM
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://cdn4.mbahnunungonline.net/img/YI7WVHx.png?v=1.0.0.1" tvg-id="GalaxyPremium.id" tvg-name="Galaxy Premium", Galaxy Premium
 https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://images.indihometv.com/logo_galaxy_big.png", GALAXY
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://cdn4.mbahnunungonline.net/img/sGJh5Jl.png?v=1.0.0.1" tvg-id="Galaxy.id" tvg-name="Galaxy", Galaxy
 https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sWeXuef.png?v=1.1.1.1" group-title="INDIHOME" group-logo="https://warningfm.github.io/v3/img/U5JFSGW.png?v=1.0.0.1" ch-number="7" tvg-id="Trans7.id" tvg-name="Trans 7", Trans7
