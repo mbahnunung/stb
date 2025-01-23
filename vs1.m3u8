@@ -253,7 +253,7 @@ https://m7rovideolive.solocoo.tv/blueskylivedash/blueboomerang/Manifest.mpd
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/VU2ZQbG.png?v=1.0.0.1" group-title="Entertainment" tvg-id="5340" tvg-name="ANIPLUS HD", Aniplus
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/VU2ZQbG.png?v=1.0.0.1" group-title="Entertainment" tvg-id="Aniplus.id" tvg-name="Aniplus", Aniplus
 https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/int/0c913970f4e013e.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
