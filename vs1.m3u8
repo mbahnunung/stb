@@ -807,7 +807,7 @@ https://warningfm.github.io/v3/live/str/ns/b213b64047f564c.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9acec565e4d5e994523b3b18e0a7521e:a16eb03e31229b194ec4b45c3cb80b46
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/fNQSndi.png?v=1.0.0.1" group-title="🌍 News" tvg-id="EuroNewsEnglish.id" tvg-name="EuroNews English", EuroNews English
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/fNQSndi.png?v=1.0.0.1" group-title="🌍 News" tvg-id="Euronews.id" tvg-name="Euronews", Euronews
 https://d1abp075u76pbq.cloudfront.net/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd|Referer=https://www.visionplus.id
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
