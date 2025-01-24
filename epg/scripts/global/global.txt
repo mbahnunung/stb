@@ -61,11 +61,20 @@ https://i.mjh.nz/Singtel/epg.xml
 SamsungTVPlusall.xml
 https://i.mjh.nz/SamsungTVPlus/all.xml
 
+hgtv_goepg.xml
+https://i.mjh.nz/hgtv_go/epg.xml
+
 mexico2.xml
 https://www.open-epg.com/files/mexico2.xml
 
 spain.xml
 https://www.open-epg.com/files/spain.xml
+
+saudiarabia1.xml
+https://www.open-epg.com/files/saudiarabia1.xml
+
+saudiarabia3.xml
+https://www.open-epg.com/files/saudiarabia3.xml
 
 uaepremium2.xml
 https://www.open-epg.com/files/uaepremium2.xml
@@ -111,3 +120,6 @@ https://raw.githubusercontent.com/warningfm/v2/refs/heads/cloud/visionplus.id.xm
 
 firstmedia.xml
 https://raw.githubusercontent.com/warningfm/v2/refs/heads/cloud/firstmedia.xml
+
+cubmu.xml
+https://raw.githubusercontent.com/warningfm/v2/refs/heads/cloud/cubmu.xml

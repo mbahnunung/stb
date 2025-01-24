@@ -35,6 +35,11 @@
 		"channel_id": "beinSports3.id"
 	},
 	{
+		"origin": "Cartoon Network.th",
+		"channel_name": "Cartoon Network",
+		"channel_id": "CartoonNetwork.id"
+	},
+	{
 		"origin": "Cartoonito.th",
 		"channel_name": "Cartoonito (HD)",
 		"channel_id": "Cartoonito.sg"
@@ -107,7 +112,7 @@
 	{
 		"origin": "TLC.th",
 		"channel_name": "TLC (id)",
-		"channel_id": "TLC.id"
+		"channel_id": "TLCSoutheastAsia.sg"
 	},
 	{
 		"origin": "Warner TV.th",
