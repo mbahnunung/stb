@@ -16,8 +16,8 @@ https://www.open-epg.com/files/indonesia4.xml
 singapore1.xml
 https://www.open-epg.com/files/singapore1.xml
 
-singaporepremium2.xml
-https://www.open-epg.com/files/singaporepremium2.xml
+singapore2.xml
+https://www.open-epg.com/files/singapore2.xml
 
 singapore3.xml
 https://www.open-epg.com/files/singapore3.xml
@@ -46,8 +46,8 @@ https://i.mjh.nz/all/epg.xml
 china.xml
 https://www.open-epg.com/files/china.xml
 
-hongkongpremium.xml
-https://www.open-epg.com/files/hongkongpremium.xml
+hongkong1.xml
+https://www.open-epg.com/files/hongkong1.xml
 
 india1.xml
 https://www.open-epg.com/files/india1.xml
