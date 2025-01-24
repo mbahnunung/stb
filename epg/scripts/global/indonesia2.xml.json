@@ -191,8 +191,8 @@
 	},
 	{
 		"origin": "EURONEWS.id",
-		"channel_name": "EuroNews English",
-		"channel_id": "EuroNewsEnglish.id"
+		"channel_name": "Euronews",
+		"channel_id": "Euronews.id"
 	},
 	{
 		"origin": "Entertainment.id",
@@ -321,7 +321,7 @@
 	},
 	{
 		"origin": "Love Nature.id",
-		"channel_name": "Love Nature",
+		"channel_name": "Love Nature (v+)",
 		"channel_id": "LoveNature.id"
 	},
 	{

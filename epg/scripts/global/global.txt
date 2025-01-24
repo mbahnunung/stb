@@ -64,6 +64,9 @@ https://i.mjh.nz/SamsungTVPlus/all.xml
 hgtv_goepg.xml
 https://i.mjh.nz/hgtv_go/epg.xml
 
+france1.xml
+https://www.open-epg.com/files/france1.xml
+
 mexico2.xml
 https://www.open-epg.com/files/mexico2.xml
 

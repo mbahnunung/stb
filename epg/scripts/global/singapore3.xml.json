@@ -256,7 +256,7 @@
 	{
 		"origin": "CNN HD.sg",
 		"channel_name": "CNN International",
-		"channel_id": "CNNInternationalAsiaPacific.hk.sg"
+		"channel_id": "CNNInternational.id"
 	},
 	{
 		"origin": "Colors.sg",
@@ -346,7 +346,7 @@
 	{
 		"origin": "FashionTV HD.sg",
 		"channel_name": "FashionTV HD",
-		"channel_id": "FashionTV.id"
+		"channel_id": "FashionTVAsia.fr"
 	},
 	{
 		"origin": "FIGHT SPORTS HD.sg",
