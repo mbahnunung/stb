@@ -240,11 +240,6 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/Nickelodeon/sa_dash_vmx/Nickelode
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/bMwkQEd.png?v=1.0.0.1" group-title="Kids" group-logo="https://i.imgur.com/BxvUXcn.png?v=1.0.0.1" tvg-id="ZooMoo.sg" tvg-name="Zoomoo", Zoomoo
 https://d1abp075u76pbq.cloudfront.net/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd|Referer=https://www.visionplus.id
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7bd1932fa7de4cbab16db022d58b8d3e:395876eaa793b48c0837e304ae279de6
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H8QSTW8.png?v=1.0.0.1" group-title="Kids" group-logo="https://i.imgur.com/BxvUXcn.png?v=1.0.0.1" tvg-id="" tvg-name="Cartoonito", CARTOONITO 🇬🇧 🇷🇴 
-https://m7rovideolive.solocoo.tv/blueskylivedash/blueboomerang/Manifest.mpd
-
 ######################################################## Entertainment ########################################################
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
