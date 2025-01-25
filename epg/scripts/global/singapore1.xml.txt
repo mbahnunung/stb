@@ -16,7 +16,7 @@ AXN (HD).sg;AXN (HD).sg
 BBC Earth (HD).sg;BBC Earth (HD).sg
 BBC Lifestyle (HD).sg;BBC Lifestyle (HD).sg
 BBC News.sg;BBC News.sg
-beIN SPORTS (HD).sg;beIN SPORTS (HD).sg
+beIN SPORTS 1 (HD).sg;beIN SPORTS 1 (HD).sg
 beIN SPORTS 2 (HD).sg;beIN SPORTS 2 (HD).sg
 beIN SPORTS 3 (HD).sg;beIN SPORTS 3 (HD).sg
 beIN SPORTS 4 (HD).sg;beIN SPORTS 4 (HD).sg
@@ -45,6 +45,8 @@ CNBC Asia HD.sg;CNBC Asia HD.sg
 CNN International (HD).sg;CNN International (HD).sg
 Colors Tamil HD.sg;Colors Tamil HD.sg
 Colors.sg;Colors.sg
+Cricbuzz (HD).sg;Cricbuzz (HD).sg
+Cricbuzz 2 (HD).sg;Cricbuzz 2 (HD).sg
 Cricket Plus.sg;Cricket Plus.sg
 Crime + Investigationâ„¢ (HD).sg;Crime + Investigationâ„¢ (HD).sg
 CTI Asia (HD).sg;CTI Asia (HD).sg
@@ -86,8 +88,6 @@ KBS World (HD).sg;KBS World (HD).sg
 KTV HD.sg;KTV HD.sg
 Lifetime (HD).sg;Lifetime (HD).sg
 maa movies.sg;maa movies.sg
-mio Cricket (HD).sg;mio Cricket (HD).sg
-mio Cricket Plus (HD).sg;mio Cricket Plus (HD).sg
 mio Sports (HD).sg;mio Sports (HD).sg
 mio Sports 2 (HD).sg;mio Sports 2 (HD).sg
 mio Sports 3 (HD).sg;mio Sports 3 (HD).sg
@@ -122,7 +122,6 @@ STAR Plus.sg;STAR Plus.sg
 Sun Music.sg;Sun Music.sg
 Sun TV.sg;Sun TV.sg
 Suria (HD).sg;Suria (HD).sg
-TechStorm (HD).sg;TechStorm (HD).sg
 The Filipino Channel.sg;The Filipino Channel.sg
 Times Now.sg;Times Now.sg
 TLC (HD).sg;TLC (HD).sg

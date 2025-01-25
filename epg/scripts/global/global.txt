@@ -122,7 +122,7 @@ visionplus.id.xml
 https://raw.githubusercontent.com/warningfm/v2/refs/heads/cloud/visionplus.id.xml
 
 firstmedia.xml
-https://raw.githubusercontent.com/warningfm/v2/refs/heads/cloud/firstmedia.xml
+https://s7.mbahnunungonline.net/firstmedia.xml
 
 cubmu.xml
-https://raw.githubusercontent.com/warningfm/v2/refs/heads/cloud/cubmu.xml
+https://s7.mbahnunungonline.net/cubmu.xml
