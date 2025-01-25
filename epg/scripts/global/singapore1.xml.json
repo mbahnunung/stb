@@ -106,27 +106,27 @@
 	{
 		"origin": "beIN SPORTS 2 (HD).sg",
 		"channel_name": "beIN Sports 2",
-		"channel_id": "beINSports2.qa.sg"
+		"channel_id": "beINSports2.id"
 	},
 	{
 		"origin": "beIN SPORTS 3 (HD).sg",
 		"channel_name": "beIN Sports 3",
-		"channel_id": "beINSports3.qa.sg"
+		"channel_id": "beINSports3.id"
 	},
 	{
 		"origin": "beIN SPORTS 4 (HD).sg",
 		"channel_name": "beIN Sports 4",
-		"channel_id": "beINSports4.qa.sg"
+		"channel_id": "beINSports4.id"
 	},
 	{
 		"origin": "beIN SPORTS 5 (HD).sg",
 		"channel_name": "beIN Sports 5",
-		"channel_id": "beINSports5.qa.sg"
+		"channel_id": "beINSports5.id"
 	},
 	{
 		"origin": "beIN SPORTS (HD).sg",
 		"channel_name": "beIN Sports 1",
-		"channel_id": "beINSports1.qa.sg"
+		"channel_id": "beINSports1.id"
 	},
 	{
 		"origin": "beIN SPORTS RUGBY HD.sg",
@@ -295,12 +295,12 @@
 	},
 	{
 		"origin": "Discovery Channel (HD).sg",
-		"channel_name": "Discovery Channel",
+		"channel_name": "Discovery Channel HD",
 		"channel_id": "DiscoveryChannel.sg"
 	},
 	{
 		"origin": "Dragon TV Intl.sg",
-		"channel_name": "Shanghai Dragon TV",
+		"channel_name": "Dragon TV",
 		"channel_id": "ShanghaiDragonTV.cn.sg"
 	},
 	{
@@ -339,16 +339,6 @@
 		"channel_id": "EuroSportUK.uk.sg"
 	},
 	{
-		"origin": "Euronews HD",
-		"channel_name": "EuroNews English",
-		"channel_id": "EuroNewsEnglish.fr.sg"
-	},
-	{
-		"origin": "FashionTV HD",
-		"channel_name": "Fashion TV",
-		"channel_id": "FashionTV.fr.sg"
-	},
-	{
 		"origin": "Fight Sports (HD).sg",
 		"channel_name": "Fight Sports",
 		"channel_id": "FightSports.us.sg"
@@ -356,7 +346,7 @@
 	{
 		"origin": "Food Network (HD).sg",
 		"channel_name": "Food Network",
-		"channel_id": "FoodNetwork.us.sg"
+		"channel_id": "FoodNetwork.uk"
 	},
 	{
 		"origin": "FOX News Channel.sg",
