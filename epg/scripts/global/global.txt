@@ -13,6 +13,9 @@ https://www.open-epg.com/files/indonesia3.xml
 indonesia4.xml
 https://www.open-epg.com/files/indonesia4.xml
 
+philippines3.xml
+https://www.open-epg.com/files/philippines3.xml
+
 singapore1.xml
 https://www.open-epg.com/files/singapore1.xml
 

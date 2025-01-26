@@ -1,0 +1,287 @@
+[
+	{
+		"origin": "A2Z.ph",
+		"channel_name": "A2Z",
+		"channel_id": "A2Z.ph"
+	},
+	{
+		"origin": "ASIAN FOOD NETWORK HD.ph",
+		"channel_name": "Asian Food Network",
+		"channel_id": "AsianFoodNetwork.sg.id"
+	},
+	{
+		"origin": "ANIMAL PLANET.ph",
+		"channel_name": "Animal Planet",
+		"channel_id": "AnimalPlanet.id"
+	},
+	{
+		"origin": "ANIMAL PLANET HD.ph",
+		"channel_name": "Animal Planet",
+		"channel_id": "AnimalPlanet.id"
+	},
+	{
+		"origin": "ANIMAX.ph",
+		"channel_name": "Animax",
+		"channel_id": "Animax.id"
+	},
+	{
+		"origin": "AXN HD.ph",
+		"channel_name": "AXN id",
+		"channel_id": "AXN.id"
+	},
+	{
+		"origin": "AXN.ph",
+		"channel_name": "AXN id",
+		"channel_id": "AXN.id"
+	},
+	{
+		"origin": "BLOOMBERG.ph",
+		"channel_name": "Bloomberg",
+		"channel_id": "Bloomberg.id"
+	},
+	{
+		"origin": "CARTOON NETWORK HD.ph",
+		"channel_name": "Cartoon Network",
+		"channel_id": "CartoonNetwork.id"
+	},
+	{
+		"origin": "CARTOON NETWORK.ph",
+		"channel_name": "Cartoon Network",
+		"channel_id": "CartoonNetwork.id"
+	},
+	{
+		"origin": "CARTOONITO.ph",
+		"channel_name": "Cartoonito (HD)",
+		"channel_id": "Cartoonito.sg"
+	},
+	{
+		"origin": "CELESTIAL CLASSIC MOVIES.ph",
+		"channel_name": "Celestial Movies",
+		"channel_id": "CelestialMovies.id"
+	},
+	{
+		"origin": "CGTN Documentary.id",
+		"channel_name": "CGTN Documentary",
+		"channel_id": "CGTNDocumentary.id"
+	},
+	{
+		"origin": "Chinese Drama.id",
+		"channel_name": "Chinese Drama",
+		"channel_id": "ChineseDrama.id"
+	},
+	{
+		"origin": "CINEMA WORLD HD.ph",
+		"channel_name": "CinemaWorld",
+		"channel_id": "Cinemaworld.id"
+	},
+	{
+		"origin": "Citra Dangdut.id",
+		"channel_name": "Citra Dangdut",
+		"channel_id": "CitraDangdut.id"
+	},
+	{
+		"origin": "Citra Drama.id",
+		"channel_name": "Citra Drama",
+		"channel_id": "CitraDrama.id"
+	},
+	{
+		"origin": "CNBC Asia.id",
+		"channel_name": "CNBC Asia",
+		"channel_id": "CNBCAsia.id"
+	},
+	{
+		"origin": "CNBC Indonesia.id",
+		"channel_name": "CNBC Indonesia",
+		"channel_id": "CNBCIndonesia.id"
+	},
+	{
+		"origin": "CNN.ph",
+		"channel_name": "CNN International",
+		"channel_id": "CNNInternational.id"
+	},
+	{
+		"origin": "CNN HD.ph",
+		"channel_name": "CNN International",
+		"channel_id": "CNNInternational.id"
+	},
+	{
+		"origin": "CRIME and INVESTIGATION HD.ph",
+		"channel_name": "Crime Investigation",
+		"channel_id": "CrimePlusInvestigation.id"
+	},
+	{
+		"origin": "DEUTSCHEWELLE.ph",
+		"channel_name": "DW (English)",
+		"channel_id": "DWEnglish.de"
+	},
+	{
+		"origin": "DISCOVERY ASIA.ph",
+		"channel_name": "Discovery Asia",
+		"channel_id": "DiscoveryAsia.id"
+	},
+	{
+		"origin": "DISCOVERY CHANNEL HD.ph",
+		"channel_name": "Discovery Channel HD",
+		"channel_id": "DiscoveryChannel.id"
+	},
+	{
+		"origin": "EURONEWS.ph",
+		"channel_name": "EuroNews English",
+		"channel_id": "EuroNewsEnglish.id"
+	},
+	{
+		"origin": "EUROSPORT HD.ph",
+		"channel_name": "Eurosport",
+		"channel_id": "Eurosport.id"
+	},
+	{
+		"origin": "FOOD NETWORK HD.ph",
+		"channel_name": "Food Network",
+		"channel_id": "FoodNetwork.uk"
+	},
+	{
+		"origin": "FOOD NETWORK.ph",
+		"channel_name": "Food Network",
+		"channel_id": "FoodNetwork.uk"
+	},
+	{
+		"origin": "HGTV.ph",
+		"channel_name": "HGTV HD",
+		"channel_id": "HGTV.id"
+	},
+	{
+		"origin": "HGTV HD.ph",
+		"channel_name": "HGTV HD",
+		"channel_id": "HGTV.id"
+	},
+	{
+		"origin": "HISTORY HD.ph",
+		"channel_name": "History",
+		"channel_id": "History.id"
+	},
+	{
+		"origin": "KBS WORLD.ph",
+		"channel_name": "KBS World",
+		"channel_id": "KBSWorld.id"
+	},
+	{
+		"origin": "KIX HD.ph",
+		"channel_name": "KIX",
+		"channel_id": "KIX.id"
+	},
+	{
+		"origin": "LIFETIME HD.ph",
+		"channel_name": "Lifetime",
+		"channel_id": "Lifetime.id"
+	},
+	{
+		"origin": "LIFETIME.ph",
+		"channel_name": "Lifetime",
+		"channel_id": "Lifetime.id"
+	},
+	{
+		"origin": "LOVE NATURE HD.ph",
+		"channel_name": "Love Nature (v+)",
+		"channel_id": "LoveNature.id"
+	},
+	{
+		"origin": "ROCK ACTION HD.ph",
+		"channel_name": "Rock Action",
+		"channel_id": "RockAction.id"
+	},
+	{
+		"origin": "ROCK ENTERTAINMENT HD.ph",
+		"channel_name": "Rock Entertainment",
+		"channel_id": "RockEntertainment.id"
+	},
+	{
+		"origin": "Rodja TV.id",
+		"channel_name": "Rodja TV",
+		"channel_id": "RodjaTV.id"
+	},
+	{
+		"origin": "RRI NET.id",
+		"channel_name": "RRI NET",
+		"channel_id": "RRINet.id"
+	},
+	{
+		"origin": "SINDO News TV.id",
+		"channel_name": "SindoNews TV",
+		"channel_id": "SindoNews.id"
+	},
+	{
+		"origin": "SCTV.id",
+		"channel_name": "SCTV",
+		"channel_id": "SCTV.id"
+	},
+	{
+		"origin": "SEA Today.id",
+		"channel_name": "SEA Today",
+		"channel_id": "SEAToday.id"
+	},
+	{
+		"origin": "Seru!.id",
+		"channel_name": "Seru!",
+		"channel_id": "Seru!.id"
+	},
+	{
+		"origin": "SPOTV 2 HD.ph",
+		"channel_name": "SPOTV 2",
+		"channel_id": "SPOTV2.id"
+	},
+	{
+		"origin": "SPOTV HD.ph",
+		"channel_name": "SPOTV",
+		"channel_id": "SPOTV.id"
+	},
+	{
+		"origin": "SPOTV.ph",
+		"channel_name": "SPOTV",
+		"channel_id": "SPOTV.id"
+	},
+	{
+		"origin": "Tawaf TV.id",
+		"channel_name": "Tawaf TV",
+		"channel_id": "TawafTV.id"
+	},
+	{
+		"origin": "THRILL.ph",
+		"channel_name": "Thrill",
+		"channel_id": "Thrill.id"
+	},
+	{
+		"origin": "TLC HD.ph",
+		"channel_name": "TLC (id)",
+		"channel_id": "TLCSoutheastAsia.sg"
+	},
+	{
+		"origin": "TLC.ph",
+		"channel_name": "TLC (id)",
+		"channel_id": "TLCSoutheastAsia.sg"
+	},
+	{
+		"origin": "TRAVEL CHANNEL HD.ph",
+		"channel_name": "Travel Channel",
+		"channel_id": "TravelChannel.id"
+	},
+	{
+		"origin": "TVBS ASIA.ph",
+		"channel_name": "TVBS Asia",
+		"channel_id": "TVBSAsia.id"
+	},
+	{
+		"origin": "TVBS NEWS.ph",
+		"channel_name": "TVBS News",
+		"channel_id": "TVBSNews.id"
+	},
+	{
+		"origin": "TV 5 MONDE.ph",
+		"channel_name": "TV5 Monde",
+		"channel_id": "TV5Monde.id"
+	},
+	{
+		"origin": "ZOO MOO.ph",
+		"channel_name": "Zoomoo",
+		"channel_id": "ZooMoo.sg"
+	}
+]
