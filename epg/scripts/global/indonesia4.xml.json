@@ -261,7 +261,7 @@
 	},
 	{
 		"origin": "GTV HD - [Channel 431].id",
-		"channel_name": "GTV",
+		"channel_name": "GTV HD",
 		"channel_id": "GTV.id"
 	},
 	{
@@ -411,7 +411,7 @@
 	},
 	{
 		"origin": "NET TV - [Channel 116].id",
-		"channel_name": "Net TV",
+		"channel_name": "NET.",
 		"channel_id": "NET.id"
 	},
 	{
@@ -541,7 +541,7 @@
 	},
 	{
 		"origin": "Love Nature - [Channel 204].id",
-		"channel_name": "Love Nature",
+		"channel_name": "Love Nature (v+)",
 		"channel_id": "LoveNature.id"
 	},
 	{

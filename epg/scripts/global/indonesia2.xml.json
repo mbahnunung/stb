@@ -220,11 +220,6 @@
 		"channel_id": "France24English.fr.id"
 	},
 	{
-		"origin": "Garuda TV",
-		"channel_name": "Garuda TV",
-		"channel_id": "GarudaTV.id"
-	},
-	{
 		"origin": "GALAXY PREMIUM.id",
 		"channel_name": "Galaxy Premium",
 		"channel_id": "GalaxyPremium.id"
