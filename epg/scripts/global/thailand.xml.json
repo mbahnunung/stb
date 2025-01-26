@@ -61,7 +61,7 @@
 	},
 	{
 		"origin": "Discovery.th",
-		"channel_name": "Discovery Channel",
+		"channel_name": "Discovery Channel HD",
 		"channel_id": "DiscoveryChannel.id"
 	},
 	{
@@ -119,4 +119,10 @@
 		"channel_name": "Warner TV",
 		"channel_id": "Warner.id"
 	},
+        {
+		"origin": "White Channel.th",
+		"channel_name": "White Channel",
+		"channel_id": "WhiteChannel.th"
+	}
 ]
+
