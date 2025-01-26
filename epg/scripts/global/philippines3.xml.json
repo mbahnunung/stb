@@ -195,36 +195,6 @@
 		"channel_id": "RockEntertainment.id"
 	},
 	{
-		"origin": "Rodja TV.id",
-		"channel_name": "Rodja TV",
-		"channel_id": "RodjaTV.id"
-	},
-	{
-		"origin": "RRI NET.id",
-		"channel_name": "RRI NET",
-		"channel_id": "RRINet.id"
-	},
-	{
-		"origin": "SINDO News TV.id",
-		"channel_name": "SindoNews TV",
-		"channel_id": "SindoNews.id"
-	},
-	{
-		"origin": "SCTV.id",
-		"channel_name": "SCTV",
-		"channel_id": "SCTV.id"
-	},
-	{
-		"origin": "SEA Today.id",
-		"channel_name": "SEA Today",
-		"channel_id": "SEAToday.id"
-	},
-	{
-		"origin": "Seru!.id",
-		"channel_name": "Seru!",
-		"channel_id": "Seru!.id"
-	},
-	{
 		"origin": "SPOTV 2 HD.ph",
 		"channel_name": "SPOTV 2",
 		"channel_id": "SPOTV2.id"
