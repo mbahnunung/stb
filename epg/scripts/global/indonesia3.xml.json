@@ -39,6 +39,11 @@
 		"channel_name": "Aniplus",
 		"channel_id": "Aniplus.id"
 	},
+        {
+		"origin": "Animax.id",
+		"channel_name": "Animax id",
+		"channel_id": "AnimaxAsia.id"
+	},
 	{
 		"origin": "ANTV.id",
 		"channel_name": "ANTV",
