@@ -1,18 +1,13 @@
 [
 	{
-		"origin": "8TV",
-		"channel_name": "MY: 8TV",
-		"channel_id": "8TV.my"
+		"origin": "ASTRO AWANI.my",
+		"channel_name": "Astro Awani",
+		"channel_id": "AstroAwani.my"
 	},
 	{
 		"origin": "Al Jazeera",
 		"channel_name": "MY: Al-Jazeera English",
 		"channel_id": "AlJazeeraEnglish.qa.my"
-	},
-	{
-		"origin": "Animax",
-		"channel_name": "MY: Animax",
-		"channel_id": "AnimaxAsia.sg.my"
 	},
 	{
 		"origin": "AXN HD.my",
@@ -30,11 +25,6 @@
 		"channel_id": "BBCLifestyleAsia.uk"
 	},
 	{
-		"origin": "BBC News",
-		"channel_name": "MY: BBC World News",
-		"channel_id": "BBCWorldNewsAsiaPacific.uk.my"
-	},
-	{
 		"origin": "beIN SPORTS.my",
 		"channel_name": "beIN Sports 1",
 		"channel_id": "beINSports1.id"
@@ -50,29 +40,9 @@
 		"channel_id": "beINSports3.id"
 	},
 	{
-		"origin": "beIN SPORTS 4",
-		"channel_name": "MY: beIN Sports 4",
-		"channel_id": "beINSports4.qa.my"
-	},
-	{
-		"origin": "Bernama TV",
-		"channel_name": "MY: Bernama TV",
-		"channel_id": "BernamaTV.my"
-	},
-	{
-		"origin": "Boomerang HD",
-		"channel_name": "MY: Boomerang",
-		"channel_id": "BoomerangSoutheastAsia.us.my"
-	},
-	{
 		"origin": "CBeebies.my",
 		"channel_name": "CBeebies HD",
 		"channel_id": "Cbeebies.id"
-	},
-	{
-		"origin": "CCM",
-		"channel_name": "MY: Celestial Classic Movies",
-		"channel_id": "CCM.hk.my"
 	},
 	{
 		"origin": "CCTV4 HD.my",
@@ -85,7 +55,7 @@
 		"channel_id": "CelestialMoviesMalaysia.hk.my"
 	},
 	{
-		"origin": "CCTV4 HD.my",
+		"origin": "CGTN HD.my",
 		"channel_name": "CGTN",
 		"channel_id": "CGTN.id"
 	},
@@ -100,39 +70,9 @@
 		"channel_id": "CNA.id"
 	},
 	{
-		"origin": "Colors Cineplex",
-		"channel_name": "MY: Colors Cineplex",
-		"channel_id": "ColorsCineplex.in.my"
-	},
-	{
-		"origin": "Colors Tamil HD",
-		"channel_name": "MY: Colors Tamil",
-		"channel_id": "ColorsTamil.in.my"
-	},
-	{
-		"origin": "DEGUP",
-		"channel_name": "MY: DEGUP",
-		"channel_id": "Degup.my"
-	},
-	{
-		"origin": "DidikTV KPM",
-		"channel_name": "MY: Didik TV KPM (TV7)",
-		"channel_id": "NTV7.my"
-	},
-	{
 		"origin": "Dreamworks.my",
 		"channel_name": "Dreamworks HD",
 		"channel_id": "DreamWorks.id"
-	},
-	{
-		"origin": "Dunia Sinema HD",
-		"channel_name": "MY: Dunia Sinema",
-		"channel_id": "DuniaSinema.my"
-	},
-	{
-		"origin": "DW",
-		"channel_name": "MY: DW English",
-		"channel_id": "DWEnglish.de.my"
 	},
 	{
 		"origin": "EUROSPORT.my",
@@ -140,17 +80,12 @@
 		"channel_id": "Eurosport.id"
 	},
 	{
-		"origin": "France 24",
-		"channel_name": "MY: France 24 English",
-		"channel_id": "France24English.fr.my"
-	},
-	{
 		"origin": "HITS NOW.my",
 		"channel_name": "HITS Now",
 		"channel_id": "HITSNow.id"
 	},
 	{
-		"origin": "HITS",
+		"origin": "HITS HD.my",
 		"channel_name": "HITS",
 		"channel_id": "HITS.id"
 	},
@@ -160,24 +95,14 @@
 		"channel_id": "HITSMovies.id"
 	},
 	{
-		"origin": "Inspirasi",
-		"channel_name": "MY: Inspirasi",
-		"channel_id": "Inspirasi.my"
-	},
-	{
 		"origin": "KPLUS.my",
 		"channel_name": "Kplus",
 		"channel_id": "KPlus.sg"
 	},
 	{
 		"origin": "Love Nature HD.my",
-		"channel_name": "Love Nature",
+		"channel_name": "Love Nature (v+)",
 		"channel_id": "LoveNature.id"
-	},
-	{
-		"origin": "Luxe.TV HD",
-		"channel_name": "MY: Luxe.TV",
-		"channel_id": "LuxeTVHD.my"
 	},
 	{
 		"origin": "Moonbug.my",
@@ -185,79 +110,9 @@
 		"channel_id": "Moonbug.us"
 	},
 	{
-		"origin": "MTV Live",
-		"channel_name": "MY: MTV Live",
-		"channel_id": "MTVLive.uk.my"
-	},
-	{
-		"origin": "NHK WORLD-JAPAN",
-		"channel_name": "MY: NHK World Japan",
-		"channel_id": "NHKWorldJapan.jp.my"
-	},
-	{
-		"origin": "Nick Jr.",
-		"channel_name": "MY: Nick Jr.",
-		"channel_id": "NickJrAsia.sg.my"
-	},
-	{
-		"origin": "Now Jelli HD",
-		"channel_name": "MY: Now Jelli",
-		"channel_id": "NowJelli.cn.my"
-	},
-	{
 		"origin": "ONE HD.my",
 		"channel_name": "ONE",
 		"channel_id": "OneTVAsia.sg"
-	},
-	{
-		"origin": "Paramount Network",
-		"channel_name": "MY: Paramount Network",
-		"channel_id": "ParamountNetworkMalaysia.us.my"
-	},
-	{
-		"origin": "Parlimen Malaysia",
-		"channel_name": "MY: Parlimen Malaysia",
-		"channel_id": "ParlimenMalaysia.my"
-	},
-	{
-		"origin": "Pesona HD",
-		"channel_name": "MY: Pesona",
-		"channel_id": "Pesona.my"
-	},
-	{
-		"origin": "ROCK Action",
-		"channel_name": "MY: Rock Action",
-		"channel_id": "RockAction.sg.my"
-	},
-	{
-		"origin": "ROCK Entertainment",
-		"channel_name": "MY: Rock Entertainment",
-		"channel_id": "RockEntertainment.sg.my"
-	},
-	{
-		"origin": "Salam HD",
-		"channel_name": "MY: Salam",
-		"channel_id": "Salam.my"
-	},
-	{
-		"origin": "Sensasi",
-		"channel_name": "MY: Sensasi",
-		"channel_id": "Sensasi.my"
-	},
-	{
-		"origin": "SETI",
-		"channel_name": "MY: SET International",
-		"channel_id": "SETI.tw.my"
-	},
-	{
-		"origin": "SIAR",
-		"channel_name": "MY: SIAR",
-		"channel_id": "SIAR.my"
-	},
-	{
-		"origin": "Sony YAY!",
-		"channel_name": "MY: Sony YAY!",
-		"channel_id": "SonyYAY.in.my"
 	},
 	{
 		"origin": "SPOTV.my",
@@ -270,16 +125,6 @@
 		"channel_id": "SPOTV2.id"
 	},
 	{
-		"origin": "Travel Channel HD",
-		"channel_name": "MY: Travel Channel",
-		"channel_id": "TravelChannelAsia.us.my"
-	},
-	{
-		"origin": "TV AlHijrah HD",
-		"channel_name": "MY: TV Al-Hijrah",
-		"channel_id": "TVAlHijrah.my"
-	},
-	{
 		"origin": "TV 1.my",
 		"channel_name": "TV1",
 		"channel_id": "TV1.my"
@@ -288,16 +133,6 @@
 		"origin": "TV 2.my",
 		"channel_name": "TV2",
 		"channel_id": "TV2.my"
-	},
-	{
-		"origin": "TV3",
-		"channel_name": "MY: TV3",
-		"channel_id": "TV3.my"
-	},
-	{
-		"origin": "TV9",
-		"channel_name": "MY: TV9",
-		"channel_id": "TV9.my"
 	},
 	{
 		"origin": "tvN.my",
@@ -310,18 +145,8 @@
 		"channel_id": "tvNMovies.id"
 	},
 	{
-		"origin": "unifi Sports 1",
-		"channel_name": "MY: unifi Sports",
-		"channel_id": "unifiSports.my"
-	},
-	{
-		"origin": "Warner TV HD",
-		"channel_name": "MY: Warner TV",
-		"channel_id": "WarnerTVAsia.us.my"
-	},
-	{
-		"origin": "Wion",
-		"channel_name": "MY: Wion",
-		"channel_id": "Wion.in.my"
+		"origin": "W-Sport.my",
+		"channel_name": "W-Sport",
+		"channel_id": "W-Sport.my"
 	}
 ]
