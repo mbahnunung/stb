@@ -450,6 +450,11 @@
 		"channel_name": "Seru!",
 		"channel_id": "Seru!.id"
 	},
+        {
+		"origin": "Shenzen.id",
+		"channel_name": "Shenzen TV",
+		"channel_id": "Shenzen.id"
+	},
 	{
 		"origin": "SPOTV 2.id",
 		"channel_name": "SPOTV 2",
@@ -519,6 +524,11 @@
 		"origin": "Warner.id",
 		"channel_name": "Warner TV",
 		"channel_id": "Warner.id"
+	},
+        {
+		"origin": "Zhejiang.id",
+		"channel_name": "Zhejiang TV",
+		"channel_id": "Zhejiang.id"
 	},
 	{
 		"origin": "ZBioskop.id",
