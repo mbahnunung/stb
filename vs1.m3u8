@@ -489,7 +489,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/eohcpWr.png?v=1.0.0.1" group-title="Knowledge" tvg-id="CGTNDocumentary.cn" tvg-name="CGTN-Documentary", CGTN Documentary
-https://warningfm.github.io/v3/live/str/knl/cgtndocumentary.m3u8
+https://warningfm.github.io/v3/live/str/knl/0d3dbf8c78f1fb7.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/RmqVp5E.png?v=1.0.0.1" group-title="Knowledge" tvg-id="Curiosity.id" tvg-name="Curiosity Channel", Curiosity
 https://warningfm.github.io/v3/live/str/knl/curiosity.m3u8
