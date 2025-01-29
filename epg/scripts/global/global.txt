@@ -13,6 +13,9 @@ https://www.open-epg.com/files/indonesia3.xml
 indonesia4.xml
 https://www.open-epg.com/files/indonesia4.xml
 
+philippines2.xml
+https://www.open-epg.com/files/philippines2.xml
+
 philippines3.xml
 https://www.open-epg.com/files/philippines3.xml
 
@@ -116,16 +119,22 @@ thailand.xml
 https://www.open-epg.com/files/thailand.xml
 
 vidio.com.xml
-https://raw.githubusercontent.com/warningfm/v2/refs/heads/cloud/vidio.com.xml
+https://xmltv.tvkaista.net/guides/vidio.com.xml
 
 indihometv.com.xml
-https://raw.githubusercontent.com/warningfm/v2/refs/heads/cloud/indihometv.com.xml
+https://xmltv.tvkaista.net/guides/indihometv.com.xml
 
 visionplus.id.xml
-https://raw.githubusercontent.com/warningfm/v2/refs/heads/cloud/visionplus.id.xml
+https://xmltv.tvkaista.net/guides/visionplus.id.xml
 
-firstmedia.xml
-https://s7.mbahnunungonline.net/firstmedia.xml
+firstmedia.com.xml
+https://xmltv.tvkaista.net/guides/firstmedia.com.xml
 
-cubmu.xml
-https://s7.mbahnunungonline.net/cubmu.xml
+cubmu.com.xml
+https://xmltv.tvkaista.net/guides/cubmu.com.xml
+
+dens.tv.xml
+https://xmltv.tvkaista.net/guides/dens.tv.xml
+
+mncvision.id.xml
+https://xmltv.tvkaista.net/guides/mncvision.id.xml
