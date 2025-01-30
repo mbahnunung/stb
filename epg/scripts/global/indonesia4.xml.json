@@ -541,7 +541,12 @@
 	},
 	{
 		"origin": "Love Nature - [Channel 204].id",
-		"channel_name": "Love Nature (v+)",
+		"channel_name": "Love Nature Asia",
+		"channel_id": "LoveNature.id"
+	},
+        {
+		"origin": "Love Nature HD - [Channel 463].id",
+		"channel_name": "Love Nature Asia",
 		"channel_id": "LoveNature.id"
 	},
 	{
@@ -553,11 +558,6 @@
 		"origin": "Outdoor channel HD - [Channel 460].id",
 		"channel_name": "Outdoor Channel",
 		"channel_id": "OutdoorChannel.id"
-	},
-	{
-		"origin": "Love Nature HD - [Channel 463].id",
-		"channel_name": "Love Nature (v+)",
-		"channel_id": "LoveNature.id"
 	},
 	{
 		"origin": "NET TV - [Channel 116].id",
