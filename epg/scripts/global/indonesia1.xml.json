@@ -76,7 +76,7 @@
 	},
 	{
 		"origin": "Indosiar.id",
-		"channel_name": "Indosiar HD",
+		"channel_name": "Indosiar",
 		"channel_id": "Indosiar.id"
 	},
 	{
@@ -127,7 +127,7 @@
 	{
 		"origin": "Nusantara TV.id",
 		"channel_name": "Nusantara TV",
-		"channel_id": "NusantaraTV.id"
+		"channel_id": "NTV.id"
 	},
 	{
 		"origin": "Premier League TV.id",
@@ -192,7 +192,7 @@
 	{
 		"origin": "TVRI.id",
 		"channel_name": "TVRI Nasional",
-		"channel_id": "TVRINasional.id"
+		"channel_id": "TVRI.id"
 	},
 	{
 		"origin": "Zee Bioskop",
