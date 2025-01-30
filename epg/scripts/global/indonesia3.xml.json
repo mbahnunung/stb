@@ -41,7 +41,7 @@
 	},
         {
 		"origin": "Animax.id",
-		"channel_name": "Animax id",
+		"channel_name": "Animax HD",
 		"channel_id": "AnimaxAsia.id"
 	},
 	{
@@ -339,10 +339,20 @@
 		"channel_name": "Love Nature Asia",
 		"channel_id": "LoveNature.id"
 	},
+        {
+		"origin": "Mentari TV.id",
+		"channel_name": "Mentari TV",
+		"channel_id": "MentariTV.id"
+	},
 	{
 		"origin": "Metro TV.id",
 		"channel_name": "Metro TV",
 		"channel_id": "MetroTV.id"
+	},
+        {
+		"origin": "MOJI.id",
+		"channel_name": "MOJI HD",
+		"channel_id": "Moji.id"
 	},
 	{
 		"origin": "Maxstream.id",
