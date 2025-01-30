@@ -242,7 +242,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd|Ref
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/AlBNy79.png?v=1.0.0.1" group-title="Entertainment" group-logo="" tvg-id="AnimaxAsia.id" tvg-name="Animax id", Animax HD
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/AlBNy79.png?v=1.0.0.1" group-title="Entertainment" group-logo="" tvg-id="AnimaxAsia.id" tvg-name="Animax HD", Animax HD
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -255,11 +255,11 @@ https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=abac9e0bf2b448f8871145829c68a7fd:eebd1a86367df6c2c4aad70b7a6165a9
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/le4o5Zy.png?v=1.0.0.1" group-title="Entertainment" tvg-id="TLCSoutheastAsia.sg" tvg-name="TLC Southeast Asia" tvg-country="id" tvg-language="id", TLC (id)
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/le4o5Zy.png?v=1.0.0.1" group-title="Entertainment" tvg-id="TLCSoutheastAsia.sg" tvg-name="TLC Southeast Asia" tvg-country="id" tvg-language="id", TLC Asia
 https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mpd/TLCHD.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 11) ExoPlayerLib/2.11.4
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/2RySrJl.png?v=1.0.0.1" group-title="Entertainment" tvg-id="CCTV4.id" tvg-name="CCTV-4", CCTV4
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/2RySrJl.png?v=1.0.0.1" group-title="Entertainment" tvg-id="CCTV4.id" tvg-name="CCTV-4", CCTV-4
 https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/int/b0e5bb72ae995c6.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
