@@ -56,7 +56,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD
 https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-im1wyciwT3A/YRa4drCVz6I/AAAAAAAABTE/qy8luMe5yTowjdCdsuu-m4WVuYlZ226TACLcBGAsYHQ/s0/eLjHSKm.png?v=1.1.1.1" group-title="tvN150N" tvg-id="NusantaraTV.id" tvg-name="Nusantara TV", NusantaraTV
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-im1wyciwT3A/YRa4drCVz6I/AAAAAAAABTE/qy8luMe5yTowjdCdsuu-m4WVuYlZ226TACLcBGAsYHQ/s0/eLjHSKm.png?v=1.1.1.1" group-title="tvN150N" tvg-id="NTV.id" tvg-name="Nusantara TV HD", NusantaraTV HD
 https://warningfm.github.io/v3/live/str/id/378a642ff00fed9.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
@@ -70,7 +70,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/RTV/sa_dash_vmx/RTV.mpd|Referer=h
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=67fe3ac3ca111c9bdd6e8480091dc13c:7d05fb1ff7705c1e452ff7e1b841a1b8
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/RdOrRX2.png?v=1.1.1.1" group-title="tvN150N" tvg-id="Saudi Quran HD.ua" tvg-name="Saudi Quran HD.ua", AlQuran Kareem
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/RdOrRX2.png?v=1.1.1.1" group-title="tvN150N" tvg-id="AlQuranKareem.id" tvg-name="AlQuran Kareem", AlQuran Kareem
 https://d1abp075u76pbq.cloudfront.net/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
@@ -78,7 +78,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQur
 https://warningfm.github.io/v3/live/str/id/ae5f9d6bcd610b6.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-tSKKlTw9GZ8/YMOFiEszsTI/AAAAAAAABEw/GhUUhvNY_nkU8rYzgmRCkoCwu0SWzm82gCLcBGAsYHQ/s0/XBtbPBF.png?v=1.0.0.1" group-title="tvN150N" tvg-id="TVRINasional.id" tvg-name="TVRI", TVRI Nasional
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-tSKKlTw9GZ8/YMOFiEszsTI/AAAAAAAABEw/GhUUhvNY_nkU8rYzgmRCkoCwu0SWzm82gCLcBGAsYHQ/s0/XBtbPBF.png?v=1.0.0.1" group-title="tvN150N" tvg-id="TVRI.id" tvg-name="TVRI NasionalI HD", TVRI Nasional HD
 https://warningfm.github.io/v3/live/str/id/3f58825fe229a9f.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
