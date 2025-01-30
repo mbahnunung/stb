@@ -36,7 +36,7 @@
 	},
 	{
 		"origin": "AXN.id",
-		"channel_name": "AXN id",
+		"channel_name": "AXN Asia",
 		"channel_id": "AXN.id"
 	},
 	{
@@ -86,7 +86,7 @@
 	},
 	{
 		"origin": "BBC Earth.id",
-		"channel_name": "BBC Earth (v+)",
+		"channel_name": "BBC Earth Asia",
 		"channel_id": "BBCEarth.id"
 	},
 	{
@@ -426,7 +426,7 @@
 	},
 	{
 		"origin": "RTV.id",
-		"channel_name": "RTV",
+		"channel_name": "RTV (dn)",
 		"channel_id": "RTV.id"
 	},
 	{

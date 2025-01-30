@@ -31,22 +31,22 @@
 	},
 	{
 		"origin": "AXN - [Channel 154].id",
-		"channel_name": "AXN id",
+		"channel_name": "AXN Asia",
 		"channel_id": "AXN.id"
 	},
 	{
 		"origin": "AXN HD - [Channel 438].id",
-		"channel_name": "AXN id",
+		"channel_name": "AXN Asia",
 		"channel_id": "AXN.id"
 	},
 	{
 		"origin": "BBC Earth - [Channel 200].id",
-		"channel_name": "BBC Earth (v+)",
+		"channel_name": "BBC Earth Asia",
 		"channel_id": "BBCEarth.id"
 	},
 	{
 		"origin": "BBC Earth HD - [Channel 461].id",
-		"channel_name": "BBC Earth (v+)",
+		"channel_name": "BBC Earth Asia",
 		"channel_id": "BBCEarth.id"
 	},
 	{
@@ -521,18 +521,18 @@
 	},
 	{
 		"origin": "My Cinema - [Channel 16].id",
-		"channel_name": "My Cinema",
-		"channel_id": "MyCinema.id"
+		"channel_name": "My Cinema (v+)",
+		"channel_id": "MyCinema.idn"
 	},
 	{
 		"origin": "My Cinema Asia - [Channel 17].id",
-		"channel_name": "My Cinema Asia",
-		"channel_id": "MyCinemaAsia.id"
+		"channel_name": "My Cinema Asia (v+)",
+		"channel_id": "MyCinemaAsia.idn"
 	},
 	{
 		"origin": "My Family - [Channel 15].id",
-		"channel_name": "Family",
-		"channel_id": "MyFamily.id"
+		"channel_name": "My Family Channel (v+)",
+		"channel_id": "MyFamilyChannel.idn"
 	},
 	{
 		"origin": "My Kidz - [Channel 50].id",

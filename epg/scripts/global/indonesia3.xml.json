@@ -266,7 +266,7 @@
 	},
 	{
 		"origin": "IDTV.id",
-		"channel_name": "IDTV",
+		"channel_name": "Berita Satu",
 		"channel_id": "IDTV.id"
 	},
 	{
@@ -407,7 +407,7 @@
 	},
 	{
 		"origin": "Rajawali TV.id",
-		"channel_name": "RTV",
+		"channel_name": "RTV (dn)",
 		"channel_id": "RTV.id"
 	},
 	{

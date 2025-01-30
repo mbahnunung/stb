@@ -5,18 +5,18 @@
 		"channel_id": "AstroAwani.my"
 	},
 	{
-		"origin": "Al Jazeera",
-		"channel_name": "MY: Al-Jazeera English",
-		"channel_id": "AlJazeeraEnglish.qa.my"
+		"origin": "Al Jazeera English HD.my",
+		"channel_name": "Al-Jazeera English",
+		"channel_id": "AlJazeeraEnglish.id"
 	},
 	{
 		"origin": "AXN HD.my",
-		"channel_name": "AXN id",
+		"channel_name": "AXN Asia",
 		"channel_id": "AXN.id"
 	},
 	{
 		"origin": "BBC Earth.my",
-		"channel_name": "BBC Earth (v+)",
+		"channel_name": "BBC Earth Asia",
 		"channel_id": "BBCEarth.id"
 	},
 	{
@@ -50,19 +50,9 @@
 		"channel_id": "CCTV4.id"
 	},
 	{
-		"origin": "Celestial Movies",
-		"channel_name": "MY: Celestial Movies",
-		"channel_id": "CelestialMoviesMalaysia.hk.my"
-	},
-	{
 		"origin": "CGTN HD.my",
 		"channel_name": "CGTN",
 		"channel_id": "CGTN.id"
-	},
-	{
-		"origin": "CinemaWorld HD",
-		"channel_name": "MY: Cinema World",
-		"channel_id": "CinemaWorld.my"
 	},
 	{
 		"origin": "CNA HD.my",

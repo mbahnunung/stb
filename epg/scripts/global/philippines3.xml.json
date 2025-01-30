@@ -26,12 +26,12 @@
 	},
 	{
 		"origin": "AXN HD.ph",
-		"channel_name": "AXN id",
+		"channel_name": "AXN Asia",
 		"channel_id": "AXN.id"
 	},
 	{
 		"origin": "AXN.ph",
-		"channel_name": "AXN id",
+		"channel_name": "AXN Asia",
 		"channel_id": "AXN.id"
 	},
 	{
@@ -73,26 +73,6 @@
 		"origin": "CINEMA WORLD HD.ph",
 		"channel_name": "CinemaWorld",
 		"channel_id": "Cinemaworld.id"
-	},
-	{
-		"origin": "Citra Dangdut.id",
-		"channel_name": "Citra Dangdut",
-		"channel_id": "CitraDangdut.id"
-	},
-	{
-		"origin": "Citra Drama.id",
-		"channel_name": "Citra Drama",
-		"channel_id": "CitraDrama.id"
-	},
-	{
-		"origin": "CNBC Asia.id",
-		"channel_name": "CNBC Asia",
-		"channel_id": "CNBCAsia.id"
-	},
-	{
-		"origin": "CNBC Indonesia.id",
-		"channel_name": "CNBC Indonesia",
-		"channel_id": "CNBCIndonesia.id"
 	},
 	{
 		"origin": "CNN.ph",
@@ -210,23 +190,13 @@
 		"channel_id": "SPOTV.id"
 	},
 	{
-		"origin": "Tawaf TV.id",
-		"channel_name": "Tawaf TV",
-		"channel_id": "TawafTV.id"
-	},
-	{
-		"origin": "THRILL.ph",
-		"channel_name": "Thrill",
-		"channel_id": "Thrill.id"
-	},
-	{
 		"origin": "TLC HD.ph",
-		"channel_name": "TLC (id)",
+		"channel_name": "TLC Asia",
 		"channel_id": "TLCSoutheastAsia.sg"
 	},
 	{
 		"origin": "TLC.ph",
-		"channel_name": "TLC (id)",
+		"channel_name": "TLC Asia",
 		"channel_id": "TLCSoutheastAsia.sg"
 	},
 	{
