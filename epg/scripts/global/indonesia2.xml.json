@@ -351,8 +351,8 @@
 	},
 	{
 		"origin": "My Cinema Asia.id",
-		"channel_name": "My Cinema Asia",
-		"channel_id": "MyCinemaAsia.id"
+		"channel_name": "My Cinema Asia (v+)",
+		"channel_id": "MyCinemaAsia.idn"
 	},
 	{
 		"origin": "Net TV.id",
@@ -401,13 +401,13 @@
 	},
 	{
 		"origin": "My Cinema.id",
-		"channel_name": "My Cinema",
-		"channel_id": "MyCinema.id"
+		"channel_name": "My Cinema (v+)",
+		"channel_id": "MyCinema.idn"
 	},
 	{
 		"origin": "My Family Channel.id",
-		"channel_name": "My Family Channel",
-		"channel_id": "MyFamilyChannel.id"
+		"channel_name": "My Family Channel (v+)",
+		"channel_id": "MyFamilyChannel.idn"
 	},
 	{
 		"origin": "My Kidz.id",
