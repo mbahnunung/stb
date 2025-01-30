@@ -1,0 +1,217 @@
+[
+	{
+		"origin": "ABCAustralia.au",
+		"channel_name": "ABC Australia",
+		"channel_id": "ABCAustralia.id"
+	},
+	{
+		"origin": "AJWA TV.id",
+		"channel_name": "Ajwa TV",
+		"channel_id": "AjwaTV.id"
+	},
+	{
+		"origin": "ArirangWorld.kr",
+		"channel_name": "Arirang TV",
+		"channel_id": "ArirangTV.id"
+	},
+	{
+		"origin": "ANTV.id",
+		"channel_name": "ANTV",
+		"channel_id": "ANTV.id"
+	},
+	{
+		"origin": "beINSports1.id",
+		"channel_name": "beIN Sports 1",
+		"channel_id": "beinSports1.id"
+	},
+	{
+		"origin": "17875",
+		"channel_name": "beIN Sports 2",
+		"channel_id": "beinSports2.id"
+	},
+	{
+		"origin": "beINSports3.id",
+		"channel_name": "beIN Sports 3",
+		"channel_id": "beinSports3.id"
+	},
+	{
+		"origin": "BTV.id",
+		"channel_name": "BTV",
+		"channel_id": "BTV.id"
+	},
+	{
+		"origin": "ChampionsTV1.id",
+		"channel_name": "Champions TV 1",
+		"channel_id": "ChampionsTV1.id"
+	},
+	{
+		"origin": "ChampionsTV2.id",
+		"channel_name": "Champions TV 2",
+		"channel_id": "ChampionsTV2.id"
+	},
+	{
+		"origin": "ChampionsTV3.id",
+		"channel_name": "Champions TV 3",
+		"channel_id": "ChampionsTV3.id"
+	},
+	{
+		"origin": "ChampionsTV5.id",
+		"channel_name": "Champions TV 5",
+		"channel_id": "ChampionsTV5.id"
+	},
+	{
+		"origin": "ChampionsTV6.id",
+		"channel_name": "Champions TV 6",
+		"channel_id": "ChampionsTV6.id"
+	},
+	{
+		"origin": "DWEnglish.de",
+		"channel_name": "DW (English)",
+		"channel_id": "DWEnglish.de"
+	},
+        {
+		"origin": "ElshintaTV.id",
+		"channel_name": "ElshintaTV",
+		"channel_id": "ElshintaTV,my.id"
+	},
+	{
+		"origin": "Horee.id",
+		"channel_name": "Horee",
+		"channel_id": "Horee.id"
+	},
+	{
+		"origin": "Indosiar.id",
+		"channel_name": "Indosiar",
+		"channel_id": "Indosiar.id"
+	},
+	{
+		"origin": "Jaktv.id",
+		"channel_name": "Jak TV",
+		"channel_id": "JakTV.id"
+	},
+        {
+		"origin": "JPMTV.id",
+		"channel_name": "JawaPosTV",
+		"channel_id": "JPMTV.id"
+	},
+	{
+		"origin": "JTV.id",
+		"channel_name": "JTV",
+		"channel_id": "JTV.id"
+	},
+	{
+		"origin": "KompasTV.id",
+		"channel_name": "Kompas TV",
+		"channel_id": "KompasTV.id"
+	},
+	{
+		"origin": "Makkah TV.id",
+		"channel_name": "Makkah TV",
+		"channel_id": "MakkahTV.id"
+	},
+	{
+		"origin": "Mentari TV.id",
+		"channel_name": "Mentari TV",
+		"channel_id": "MentariTV.id"
+	},
+	{
+		"origin": "MetroTV.id",
+		"channel_name": "Metro TV",
+		"channel_id": "MetroTV.id"
+	},
+	{
+		"origin": "Moji.id",
+		"channel_name": "MOJI HD",
+		"channel_id": "Moji.id"
+	},
+        {
+		"origin": "NBATV.us",
+		"channel_name": "NBA TV",
+		"channel_id": "NBATV.id"
+	},
+	{
+		"origin": "NET.id",
+		"channel_name": "NET.",
+		"channel_id": "NET.id"
+	},
+	{
+		"origin": "News Asia.id",
+		"channel_name": "CNA",
+		"channel_id": "CNA.id"
+	},
+	{
+		"origin": "NusantaraTV.id",
+		"channel_name": "NusantaraTV",
+		"channel_id": "NTV.id"
+	},
+        {
+		"origin": "Rajawali TV.id",
+		"channel_name": "RTVᴴᴰ",
+		"channel_id": "RTV.id"
+	},
+	{
+		"origin": "Premier League TV.id",
+		"channel_name": "Premier League TV",
+		"channel_id": "PremierLeagueTV.id"
+	},
+	{
+		"origin": "RANS Channel.id",
+		"channel_name": "RANS Channel",
+		"channel_id": "RansChannel.id"
+	},
+	{
+		"origin": "ROCKExtreme.sg",
+		"channel_name": "Rock Action",
+		"channel_id": "RockAction.id"
+	},
+	{
+		"origin": "ROCKEntertainment.sg",
+		"channel_name": "Rock Entertainment",
+		"channel_id": "RockEntertainment.id"
+	},
+	{
+		"origin": "SCTV.id",
+		"channel_name": "SCTV",
+		"channel_id": "SCTV.id"
+	},
+	{
+		"origin": "SPOTV2.id",
+		"channel_name": "SPOTV 2",
+		"channel_id": "SPOTV2.id"
+	},
+	{
+		"origin": "SPOTV.id",
+		"channel_name": "SPOTV",
+		"channel_id": "SPOTV.id"
+	},
+	{
+		"origin": "TransTV.id",
+		"channel_name": "Trans TV",
+		"channel_id": "TransTV.id"
+	},
+	{
+		"origin": "Trans7.id",
+		"channel_name": "Trans 7",
+		"channel_id": "Trans7.id"
+	},
+	{
+		"origin": "tvNAsia.hk",
+		"channel_name": "tvN",
+		"channel_id": "tvN.id"
+	},
+	{
+		"origin": "TVOne.id",
+		"channel_name": "tvOne",
+		"channel_id": "tvOne.id"
+	},
+	{
+		"origin": "TVRINasional.id",
+		"channel_name": "TVRI Nasional HD",
+		"channel_id": "TVRI.id"
+	},
+	{
+		"origin": "Zee Bioskop",
+		"channel_name": "Zee Bioskop",
+		"channel_id": "ZeeBioskop.id"
+	}
+]
