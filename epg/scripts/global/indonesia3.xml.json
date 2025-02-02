@@ -61,7 +61,7 @@
 	},
 	{
 		"origin": "AXN.id",
-		"channel_name": "AXN id",
+		"channel_name": "AXN Asia",
 		"channel_id": "AXN.id"
 	},
 	{
@@ -266,8 +266,8 @@
 	},
 	{
 		"origin": "IDTV.id",
-		"channel_name": "Berita Satu",
-		"channel_id": "IDTV.id"
+		"channel_name": "Berita Satu HD",
+		"channel_id": "IDTV.ind"
 	},
 	{
 		"origin": "IDX.id",
@@ -281,8 +281,8 @@
 	},
 	{
 		"origin": "Indosiar.id",
-		"channel_name": "Indosiar",
-		"channel_id": "Indosiar.id"
+		"channel_name": "Indosiar HD",
+		"channel_id": "Indosiar.ind"
 	},
 	{
 		"origin": "iNews.id",
@@ -346,8 +346,8 @@
 	},
 	{
 		"origin": "Metro TV.id",
-		"channel_name": "Metro TV",
-		"channel_id": "MetroTV.id"
+		"channel_name": "Metro TV HD",
+		"channel_id": "MetroTV.ind"
 	},
         {
 		"origin": "MOJI.id",
@@ -407,7 +407,7 @@
 	},
 	{
 		"origin": "Nusantara TV.id",
-		"channel_name": "Nusantara TVᴴᴰ",
+		"channel_name": "NusantaraTV",
 		"channel_id": "NTV.id"
 	},
 	{
@@ -417,7 +417,7 @@
 	},
 	{
 		"origin": "Rajawali TV.id",
-		"channel_name": "RTVᴴᴰ",
+		"channel_name": "RTV",
 		"channel_id": "RTV.id"
 	},
 	{
@@ -447,8 +447,8 @@
 	},
 	{
 		"origin": "SCTV.id",
-		"channel_name": "SCTV",
-		"channel_id": "SCTV.id"
+		"channel_name": "SCTV HD",
+		"channel_id": "SCTV.ind"
 	},
 	{
 		"origin": "SEA Today.id",
@@ -522,7 +522,7 @@
 	},
 	{
 		"origin": "TVRI.id",
-		"channel_name": "TVRI Nasional HD",
+		"channel_name": "TVRI Nasional",
 		"channel_id": "TVRI.id"
 	},
 	{

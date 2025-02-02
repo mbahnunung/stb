@@ -16,8 +16,8 @@
 	},
 	{
 		"origin": "ANTV.id",
-		"channel_name": "ANTV",
-		"channel_id": "ANTV.id"
+		"channel_name": "ANTV ᴴᴰ",
+		"channel_id": "ANTV.ind"
 	},
 	{
 		"origin": "Bein 1.id",
@@ -76,8 +76,8 @@
 	},
 	{
 		"origin": "Indosiar.id",
-		"channel_name": "Indosiar",
-		"channel_id": "Indosiar.id"
+		"channel_name": "Indosiar HD",
+		"channel_id": "Indosiar.ind"
 	},
 	{
 		"origin": "Jaktv.id",
@@ -106,8 +106,8 @@
 	},
 	{
 		"origin": "Metro TV.id",
-		"channel_name": "Metro TV",
-		"channel_id": "MetroTV.id"
+		"channel_name": "Metro TV HD",
+		"channel_id": "MetroTV.ind"
 	},
 	{
 		"origin": "Moji.id",
@@ -126,7 +126,7 @@
 	},
 	{
 		"origin": "Nusantara TV.id",
-		"channel_name": "Nusantara TVᴴᴰ",
+		"channel_name": "NusantaraTV",
 		"channel_id": "NTV.id"
 	},
 	{
@@ -151,13 +151,13 @@
 	},
 	{
 		"origin": "RTV.id",
-		"channel_name": "RTVᴴᴰ",
-		"channel_id": "RTV.id"
+		"channel_name": "RTV ᴴᴰ",
+		"channel_id": "RTV.ind"
 	},
 	{
 		"origin": "SCTV.id",
-		"channel_name": "SCTV",
-		"channel_id": "SCTV.id"
+		"channel_name": "SCTV HD",
+		"channel_id": "SCTV.ind"
 	},
 	{
 		"origin": "SPOTV 2.id",
@@ -176,8 +176,8 @@
 	},
 	{
 		"origin": "Trans7.id",
-		"channel_name": "Trans 7",
-		"channel_id": "Trans7.id"
+		"channel_name": "Trans 7 ᴴᴰ",
+		"channel_id": "Trans7.ind"
 	},
 	{
 		"origin": "TVN.id",
@@ -186,17 +186,12 @@
 	},
 	{
 		"origin": "TVOne.id",
-		"channel_name": "tvOne",
-		"channel_id": "tvOne.id"
+		"channel_name": "tvOne HD",
+		"channel_id": "tvOne.ind"
 	},
 	{
 		"origin": "TVRI.id",
 		"channel_name": "TVRI Nasional HD",
-		"channel_id": "TVRI.id"
-	},
-	{
-		"origin": "Zee Bioskop",
-		"channel_name": "Zee Bioskop",
-		"channel_id": "ZeeBioskop.id"
+		"channel_id": "TVRI.ind"
 	}
 ]

@@ -1,6 +1,3 @@
-aqfindonesia.xml
-https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml
-
 indonesia1.xml
 https://www.open-epg.com/files/indonesia1.xml
 
@@ -31,6 +28,9 @@ https://www.open-epg.com/files/singapore3.xml
 malaysia2.xml
 https://www.open-epg.com/files/malaysia2.xml
 
+aqfindonesia.xml
+https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml
+
 AqFad2811epg.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
 
@@ -39,6 +39,9 @@ https://xmltv.tvkaista.net/guides/starhubtvplus.com.xml
 
 rtmklik.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml
+
+astro_epg.xml
+https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml
 
 unifi_epg.xml
 https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml

@@ -16,7 +16,7 @@
 	},
 	{
 		"origin": "Animax - [Channel 157].id",
-		"channel_name": "Animax id ",
+		"channel_name": "Animax HD ",
 		"channel_id": "AnimaxAsia.id"
 	},
 	{
@@ -496,7 +496,7 @@
 	},
 	{
 		"origin": "MNCTV HD - [Channel 432].id",
-		"channel_name": "MNCTV",
+		"channel_name": "MNCTV HG",
 		"channel_id": "MNCTV.id"
 	},
 	{
@@ -621,7 +621,7 @@
 	},
 	{
 		"origin": "RCTI HD - [Channel 430].id",
-		"channel_name": "RCTI",
+		"channel_name": "RCTI HD",
 		"channel_id": "RCTI.id"
 	},
 	{
@@ -736,7 +736,7 @@
 	},
 	{
 		"origin": "TVRI - [Channel 118].id",
-		"channel_name": "TVRI Nasional HD",
+		"channel_name": "TVRI Nasional",
 		"channel_id": "TVRI.id"
 	},
 	{
