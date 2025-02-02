@@ -511,7 +511,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd|u
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62fae935e91c4e8d9e835a294ea81909:328cfed51cba1bfa41f1bda219ceeff8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NFu6IF2.png?v=1.0.0.1" group-title="Knowledge" tvg-id="DMAX.uk" tvg-name="DMAX.uk", DMAX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NFu6IF2.png?v=1.0.0.1" group-title="Knowledge" tvg-id="716.astro" tvg-name="DMAX HD", DMAX HD
 https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 11) ExoPlayerLib/2.11.4
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
