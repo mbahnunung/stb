@@ -7,7 +7,7 @@
 https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|Referer=https://www.visionplus.id
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/HwXQJXW.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="2" tvg-id="SCTV.id" tvg-name="SCTV", SCTV
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/HwXQJXW.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="2" tvg-id="SCTV.ind" tvg-name="SCTV HD", SCTV HD
 http://khano.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847a.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -16,11 +16,11 @@ http://khano.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847a.m3u8
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd|Referer=https://www.visionplus.id
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sdrwEQf.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="4" tvg-id="ANTV.id" tvg-name="ANTV", antv
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sdrwEQf.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="4" tvg-id="ANTV.ind" tvg-name="ANTV ᴴᴰ", ANTV ᴴᴰ
 http://khano.nng.cloudns.us/live/m3u8/id/b630a001384603f.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/GsUKABT.png?v=1.1.1.1" group-title="🇮🇩 Nasional" ch-number="5" tvg-id="Indosiar.id" tvg-name="Indosiar", Indosiar
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/GsUKABT.png?v=1.1.1.1" group-title="🇮🇩 Nasional" ch-number="5" tvg-id="Indosiar.ind" tvg-name="Indosiar HD", Indosiar HD
 http://khano.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
@@ -29,7 +29,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/6183ec225226ccb.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sWeXuef.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/U5JFSGW.png?v=1.0.0.1" ch-number="7" tvg-id="Trans7.ind" tvg-name="Trans 7 HD", Trans 7 HD
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sWeXuef.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/U5JFSGW.png?v=1.0.0.1" ch-number="7" tvg-id="Trans7.ind" tvg-name="Trans 7 ᴴᴰ", Trans 7 ᴴᴰ
 #https://d1abp075u76pbq.cloudfront.net/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd|Referer=https://www.visionplus.id
 https://warningfm.github.io/v3/live/str/id/cdd283c9d3d43b5.m3u8
 
