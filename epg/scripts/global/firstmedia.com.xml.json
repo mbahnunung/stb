@@ -121,7 +121,7 @@
 	},
 	{
 		"origin": "CNA.sg",
-		"channel_name": "CNA",
+		"channel_name": "CNA HG",
 		"channel_id": "CNA.id"
 	},
 	{
@@ -141,7 +141,7 @@
 	},
 	{
 		"origin": "DiscoveryChannel.id",
-		"channel_name": "Discovery Channel HD",
+		"channel_name": "Discovery Channel",
 		"channel_id": "DiscoveryChannel.id"
 	},
 	{
@@ -181,7 +181,7 @@
 	},
 	{
 		"origin": "HGTV.id",
-		"channel_name": "HGTV HD",
+		"channel_name": "HGTV Asia",
 		"channel_id": "HGTV.id"
 	},
 	{
@@ -212,7 +212,12 @@
 	{
 		"origin": "IDTV.id",
 		"channel_name": "Berita Satu HD",
-		"channel_id": "IDTV.my.id"
+		"channel_id": "IDTV.ind"
+	},
+        {
+		"origin": "IMC.id",
+		"channel_name": "IMC",
+		"channel_id": "IMC.id"
 	},
 	{
 		"origin": "Indosiar.id",
@@ -240,42 +245,12 @@
 		"channel_id": "KBSWorld.id"
 	},
 	{
-		"origin": "Kix.id",
-		"channel_name": "KIX",
-		"channel_id": "KIX.id"
-	},
-	{
 		"origin": "KompasTV.id",
 		"channel_name": "Kompas TV",
 		"channel_id": "KompasTV.id"
 	},
 	{
-		"origin": "Kplus.id",
-		"channel_name": "Kplus",
-		"channel_id": "KPlus.sg"
-	},
-	{
-		"origin": "Lifetime.id",
-		"channel_name": "Lifetime",
-		"channel_id": "Lifetime.id"
-	},
-	{
-		"origin": "Lingua.id",
-		"channel_name": "Lingua",
-		"channel_id": "Lingua.id"
-	},
-	{
-		"origin": "Love Nature.id",
-		"channel_name": "Love Nature Asia",
-		"channel_id": "LoveNature.id"
-	},
-        {
-		"origin": "Mentari TV.id",
-		"channel_name": "Mentari TV",
-		"channel_id": "MentariTV.id"
-	},
-	{
-		"origin": "MetroTV.id",
+		"origin": "Metro TV.id",
 		"channel_name": "Metro TV",
 		"channel_id": "MetroTV.id"
 	},
@@ -305,19 +280,9 @@
 		"channel_id": "RockAction.id"
 	},
 	{
-		"origin": "Rock Entertainment.id",
-		"channel_name": "Rock Entertainment",
-		"channel_id": "RockEntertainment.id"
-	},
-	{
-		"origin": "Rodja TV.id",
-		"channel_name": "Rodja TV",
-		"channel_id": "RodjaTV.id"
-	},
-	{
-		"origin": "RRI NET.id",
-		"channel_name": "RRI NET",
-		"channel_id": "RRINet.id"
+		"origin": "ONE.sg",
+		"channel_name": "ONE",
+		"channel_id": "ONE.sg"
 	},
 	{
 		"origin": "SindoNewsTV.id",
@@ -330,44 +295,34 @@
 		"channel_id": "SCTV.my.id"
 	},
 	{
-		"origin": "SEA Today.id",
-		"channel_name": "SEA Today",
-		"channel_id": "SEAToday.id"
-	},
-	{
-		"origin": "Seru!.id",
-		"channel_name": "Seru!",
-		"channel_id": "Seru!.id"
-	},
-        {
 		"origin": "Shenzen.id",
 		"channel_name": "Shenzen TV",
 		"channel_id": "Shenzen.id"
 	},
 	{
 		"origin": "SPOTV 2.id",
-		"channel_name": "SPOTV 2",
+		"channel_name": "SPOTV 2 HG",
 		"channel_id": "SPOTV2.id"
 	},
 	{
 		"origin": "SPOTV.id",
-		"channel_name": "SPOTV",
+		"channel_name": "SPOTV HG",
 		"channel_id": "SPOTV.id"
 	},
 	{
-		"origin": "SONE.id",
-		"channel_name": "ONE",
-		"channel_id": "One.id"
+		"origin": "StarGold.in",
+		"channel_name": "Star Gold",
+		"channel_id": "StarGold.in"
 	},
 	{
-		"origin": "Tawaf TV.id",
-		"channel_name": "Tawaf TV",
+		"origin": "",
+		"channel_name": "",
 		"channel_id": "TawafTV.id"
 	},
 	{
-		"origin": "Thrill.id",
-		"channel_name": "Thrill",
-		"channel_id": "Thrill.id"
+		"origin": "",
+		"channel_name": "",
+		"channel_id": ""
 	},
 	{
 		"origin": "TLCSoutheastAsia.sg",
@@ -375,19 +330,19 @@
 		"channel_id": "TLCSoutheastAsia.sg"
 	},
 	{
-		"origin": "Trans7.id",
-		"channel_name": "Trans 7",
-		"channel_id": "Trans7.id"
+		"origin": "TV5MondeAsia.fr",
+		"channel_name": "TV5 Monde",
+		"channel_id": "TV5MondeAsia.fr"
 	},
 	{
-		"origin": "TransTV.id",
-		"channel_name": "Trans TV",
-		"channel_id": "TransTV.id"
+		"origin": "TVBSAsia.tw",
+		"channel_name": "TVBS Asia",
+		"channel_id": "TVBSAsia.tw"
 	},
 	{
-		"origin": "TVN Movies.id",
-		"channel_name": "TVN Movies",
-		"channel_id": "tvNMovies.id"
+		"origin": "TVBSNews.tw",
+		"channel_name": "TVBS News",
+		"channel_id": "TVBSNews.tw"
 	},
 	{
 		"origin": "tvOne.id",
@@ -396,13 +351,13 @@
 	},
 	{
 		"origin": "TV9Nusantara.id",
-		"channel_name": "TV9 Nusantara",
-		"channel_id": "TV9Nusantara.id"
+		"channel_name": "TV9 Nu",
+		"channel_id": "TV9Nu.id"
 	},
 	{
 		"origin": "TVRINasional.id",
-		"channel_name": "TVRI Nasional HD",
-		"channel_id": "TVRI.id"
+		"channel_name": "TVRI Nasional",
+		"channel_id": "TVRINasional.id"
 	},
 	{
 		"origin": "TRTWorld.tr",

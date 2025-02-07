@@ -17,21 +17,21 @@
 	{
 		"origin": "ANTV.id",
 		"channel_name": "ANTV ᴴᴰ",
-		"channel_id": "ANTV.ind"
+		"channel_id": "ANTV.my.id"
 	},
 	{
 		"origin": "Bein 1.id",
-		"channel_name": "beIN Sports 1",
+		"channel_name": "beIN Sports 1 HD",
 		"channel_id": "beinSports1.id"
 	},
 	{
 		"origin": "Bein 2.id",
-		"channel_name": "beIN Sports 2",
+		"channel_name": "beIN Sports 2 HD",
 		"channel_id": "beinSports2.id"
 	},
 	{
 		"origin": "Bein 3.id",
-		"channel_name": "beIN Sports 3",
+		"channel_name": "beIN Sports 3 HD",
 		"channel_id": "beinSports3.id"
 	},
 	{
@@ -77,7 +77,7 @@
 	{
 		"origin": "Indosiar.id",
 		"channel_name": "Indosiar HD",
-		"channel_id": "Indosiar.ind"
+		"channel_id": "Indosiar.my.id"
 	},
 	{
 		"origin": "Jaktv.id",
@@ -107,7 +107,7 @@
 	{
 		"origin": "Metro TV.id",
 		"channel_name": "Metro TV HD",
-		"channel_id": "MetroTV.ind"
+		"channel_id": "MetroTV.my.id"
 	},
 	{
 		"origin": "Moji.id",
@@ -121,7 +121,7 @@
 	},
 	{
 		"origin": "News Asia.id",
-		"channel_name": "CNA",
+		"channel_name": "CNA HD",
 		"channel_id": "CNA.id"
 	},
 	{
@@ -141,32 +141,32 @@
 	},
 	{
 		"origin": "Rock Action.id",
-		"channel_name": "Rock Action",
+		"channel_name": "Rock Action HD",
 		"channel_id": "RockAction.id"
 	},
 	{
 		"origin": "ROCK Entertainment.id",
-		"channel_name": "Rock Entertainment",
+		"channel_name": "Rock Entertainment HD",
 		"channel_id": "RockEntertainment.id"
 	},
 	{
 		"origin": "RTV.id",
-		"channel_name": "RTV ᴴᴰ",
-		"channel_id": "RTV.ind"
+		"channel_name": "RTV",
+		"channel_id": "RTV.id"
 	},
 	{
 		"origin": "SCTV.id",
 		"channel_name": "SCTV HD",
-		"channel_id": "SCTV.ind"
+		"channel_id": "SCTV.my.id"
 	},
 	{
 		"origin": "SPOTV 2.id",
-		"channel_name": "SPOTV 2",
+		"channel_name": "SPOTV 2 HD",
 		"channel_id": "SPOTV2.id"
 	},
 	{
 		"origin": "SPOTV.id",
-		"channel_name": "SPOTV",
+		"channel_name": "SPOTV HD",
 		"channel_id": "SPOTV.id"
 	},
 	{
@@ -176,22 +176,22 @@
 	},
 	{
 		"origin": "Trans7.id",
-		"channel_name": "Trans 7 ᴴᴰ",
-		"channel_id": "Trans7.ind"
+		"channel_name": "Trans7 ᴴᴰ",
+		"channel_id": "Trans7.my.id"
 	},
 	{
 		"origin": "TVN.id",
-		"channel_name": "tvN",
+		"channel_name": "tvN HD",
 		"channel_id": "tvN.id"
 	},
 	{
 		"origin": "TVOne.id",
 		"channel_name": "tvOne HD",
-		"channel_id": "tvOne.ind"
+		"channel_id": "tvOne.my.id"
 	},
 	{
 		"origin": "TVRI.id",
-		"channel_name": "TVRI Nasional HD",
-		"channel_id": "TVRI.ind"
+		"channel_name": "TVRI Nasional",
+		"channel_id": "TVRI.my.id"
 	}
 ]

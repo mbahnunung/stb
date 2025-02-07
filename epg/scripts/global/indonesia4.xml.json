@@ -27,7 +27,7 @@
 	{
 		"origin": "Arirang - [Channel 351].id",
 		"channel_name": "Arirang TV",
-		"channel_id": "ArirangTV.id"
+		"channel_id": "ArirangTV.kr"
 	},
 	{
 		"origin": "AXN - [Channel 154].id",
@@ -56,32 +56,32 @@
 	},
 	{
 		"origin": "beIN Sports 1 - [Channel 309].id",
-		"channel_name": "beIN Sports 1",
+		"channel_name": "beIN Sports 1 HD",
 		"channel_id": "beINSports1.id"
 	},
 	{
 		"origin": "beIN Sports 1 HD - [Channel 417].id",
-		"channel_name": "beIN Sports 1",
+		"channel_name": "beIN Sports 1 HD",
 		"channel_id": "beINSports1.id"
 	},
 	{
 		"origin": "beIN Sports 2 - [Channel 310].id",
-		"channel_name": "beIN Sports 2",
+		"channel_name": "beIN Sports 2 HD",
 		"channel_id": "beINSports2.id"
 	},
 	{
 		"origin": "beIN Sports 2 HD - [Channel 418].id",
-		"channel_name": "beIN Sports 2",
+		"channel_name": "beIN Sports 2 HD",
 		"channel_id": "beINSports2.id"
 	},
 	{
 		"origin": "beIN Sports 3 - [Channel 311].id",
-		"channel_name": "beIN Sports 3",
+		"channel_name": "beIN Sports 3 HD",
 		"channel_id": "beINSports3.id"
 	},
 	{
 		"origin": "beIN Sports 3 HD - [Channel 419].id",
-		"channel_name": "beIN Sports 3",
+		"channel_name": "beIN Sports 3 HD",
 		"channel_id": "beINSports3.id"
 	},
 	{
@@ -131,7 +131,7 @@
 	},
 	{
 		"origin": "Channel News Asia - [Channel 330].id",
-		"channel_name": "CNA",
+		"channel_name": "CNA HD",
 		"channel_id": "CNA.id"
 	},
 	{
@@ -186,7 +186,7 @@
 	},
 	{
 		"origin": "CNBC - [Channel 337].id",
-		"channel_name": "CNBC Asia",
+		"channel_name": "CNBC Asia HD",
 		"channel_id": "CNBCAsia.id"
 	},
 	{
@@ -222,7 +222,12 @@
 	{
 		"origin": "Fight Sports - [Channel 304].id",
 		"channel_name": "Fight Sports",
-		"channel_id": "FightSports.id"
+		"channel_id": "FightSports.us"
+	},
+        {
+		"origin": "FOOD TRAVEL - [Channel 95].id",
+		"channel_name": "Food Travel",
+		"channel_id": "FoodTravel.id"
 	},
 	{
 		"origin": "FMN - [Channel 150].id",
@@ -344,10 +349,15 @@
 		"channel_name": "Life",
 		"channel_id": "Life.id"
 	},
-	{
-		"origin": "Okezone TV - [Channel 90].id",
-		"channel_name": "Okezone",
-		"channel_id": "Okezone.id"
+        {
+		"origin": "Love Nature - [Channel 204].id",
+		"channel_name": "Love Nature Asia",
+		"channel_id": "LoveNature.id"
+	},
+        {
+		"origin": "Love Nature HD - [Channel 463].id",
+		"channel_name": "Love Nature Asia",
+		"channel_id": "LoveNature.id"
 	},
 	{
 		"origin": "Lifetime - [Channel 167].id",
@@ -370,19 +380,24 @@
 		"channel_id": "MiaoMi.hk.id"
 	},
 	{
-		"origin": "MTV LIVE - [Channel 148].id",
-		"channel_name": "MTV Live",
-		"channel_id": "MTVLive.id"
+		"origin": "MNCTV - [Channel 82].id",
+		"channel_name": "MNCTV",
+		"channel_id": "MNCTV.id"
 	},
 	{
-		"origin": "MTV 90s - [Channel 149].id",
-		"channel_name": "MTV 90s",
+		"origin": "MNCTV HD - [Channel 432].id",
+		"channel_name": "MNCTV",
+		"channel_id": "MNCTV.id"
+	},
+	{
+		"origin": "MTV 90's - [Channel 149].id",
+		"channel_name": "MTV '90s",
 		"channel_id": "MTV90s.id"
 	},
 	{
-		"origin": "Music TV HD - [Channel 444].id",
-		"channel_name": "Music TV",
-		"channel_id": "MusicTV.id"
+		"origin": "MTV LIVE - [Channel 148].id",
+		"channel_name": "MTV Live",
+		"channel_id": "MTVLive.id"
 	},
 	{
 		"origin": "Music TV - [Channel 111].id",
@@ -400,6 +415,11 @@
 		"channel_id": "MyCinema.idn"
 	},
 	{
+		"origin": "My Cinema Asia - [Channel 17].id",
+		"channel_name": "My Cinema Asia (v+)",
+		"channel_id": "MyCinemaAsia.idn"
+	},
+	{
 		"origin": "My Family - [Channel 15].id",
 		"channel_name": "My Family Channel (v+)",
 		"channel_id": "MyFamilyChannel.idn"
@@ -407,17 +427,12 @@
 	{
 		"origin": "My Kidz - [Channel 50].id",
 		"channel_name": "My Kidz",
-		"channel_id": "MyKidz.id"
+		"channel_id": "MyKids.id"
 	},
 	{
 		"origin": "NET TV - [Channel 116].id",
 		"channel_name": "NET.",
-		"channel_id": "NET.id"
-	},
-	{
-		"origin": "NHK World Premium - [Channel 354].id",
-		"channel_name": "NHK World Premium",
-		"channel_id": "NHKWorldPremium.id"
+		"channel_id": "Net.id"
 	},
 	{
 		"origin": "NHK World - [Channel 355].id",
@@ -425,14 +440,89 @@
 		"channel_id": "NHKWorldJapan.jp.id"
 	},
 	{
+		"origin": "NHK World Premium - [Channel 354].id",
+		"channel_name": "NHK World Premium",
+		"channel_id": "NHKWorldPremium.jp.id"
+	},
+	{
 		"origin": "Nick Jr. HD - [Channel 472].id",
 		"channel_name": "Nick Jr.",
 		"channel_id": "NickJr.id"
 	},
 	{
+		"origin": "Nickelodeon Jr - [Channel 37].id",
+		"channel_name": "Nick Jr.",
+		"channel_id": "NickJr.id"
+	},
+	{
 		"origin": "Nickelodeon - [Channel 49].id",
-		"channel_name": "Nickelodeon",
+		"channel_name": "Nickelodeon HD",
 		"channel_id": "Nickelodeon.id"
+	},
+        {
+		"origin": "Okezone TV - [Channel 90].id",
+		"channel_name": "Okezone",
+		"channel_id": "Okezone.id"
+	},
+        {
+		"origin": "Outdoor Channel - [Channel 202].id",
+		"channel_name": "Outdoor Channel HD",
+		"channel_id": "OutdoorChannel.id"
+	},
+	{
+		"origin": "Outdoor channel HD - [Channel 460].id",
+		"channel_name": "Outdoor Channel HD",
+		"channel_id": "OutdoorChannel.id"
+	},
+        {
+		"origin": "ONE - [Channel 164].id",
+		"channel_name": "ONE HD",
+		"channel_id": "One.id"
+	},
+	{
+		"origin": "ONE HD - [Channel 445].id",
+		"channel_name": "ONE HD",
+		"channel_id": "One.id"
+	},
+	{
+		"origin": "PARAMOUNT - [Channel 163].id",
+		"channel_name": "Paramount Network",
+		"channel_id": "ParamountNetworkIndonesia.us.id"
+	},
+	{
+		"origin": "PARAMOUNT HD - [Channel 441].id",
+		"channel_name": "Paramount Network",
+		"channel_id": "ParamountNetworkIndonesia.us.id"
+	},
+	{
+		"origin": "RCTI - [Channel 80].id",
+		"channel_name": "RCTI",
+		"channel_id": "RCTI.id"
+	},
+	{
+		"origin": "RCTI HD - [Channel 430].id",
+		"channel_name": "RCTI",
+		"channel_id": "RCTI.id"
+	},
+	{
+		"origin": "Rock Action - [Channel 248].id",
+		"channel_name": "Rock Action",
+		"channel_id": "RockAction.id"
+	},
+	{
+		"origin": "Rock Entertainment - [Channel 240].id",
+		"channel_name": "Rock Entertainment",
+		"channel_id": "RockEntertainment.id"
+	},
+        {
+		"origin": "SCTV - [Channel 89].id",
+		"channel_name": "SCTV",
+		"channel_id": "SCTV.id"
+	},
+	{
+		"origin": "SEA TODAY - [Channel 336].id",
+		"channel_name": "SEA Today",
+		"channel_id": "SEAToday.id"
 	},
 	{
 		"origin": "Sindo News TV - [Channel 84].id",
@@ -490,204 +580,24 @@
 		"channel_id": "SportStars.id"
 	},
 	{
-		"origin": "MNCTV - [Channel 82].id",
-		"channel_name": "MNCTV",
-		"channel_id": "MNCTV.id"
-	},
-	{
-		"origin": "MNCTV HD - [Channel 432].id",
-		"channel_name": "MNCTV HG",
-		"channel_id": "MNCTV.id"
-	},
-	{
-		"origin": "MTV 90's - [Channel 149].id",
-		"channel_name": "MTV '90s",
-		"channel_id": "MTV90s.id"
-	},
-	{
-		"origin": "MTV LIVE - [Channel 148].id",
-		"channel_name": "MTV Live",
-		"channel_id": "MTVLive.id"
-	},
-	{
-		"origin": "Music TV - [Channel 111].id",
-		"channel_name": "Music TV",
-		"channel_id": "MusicTV.id"
-	},
-	{
-		"origin": "Muslim TV - [Channel 92].id",
-		"channel_name": "Muslim TV",
-		"channel_id": "MuslimTV.id"
-	},
-	{
-		"origin": "My Cinema - [Channel 16].id",
-		"channel_name": "My Cinema (v+)",
-		"channel_id": "MyCinema.idn"
-	},
-	{
-		"origin": "My Cinema Asia - [Channel 17].id",
-		"channel_name": "My Cinema Asia (v+)",
-		"channel_id": "MyCinemaAsia.idn"
-	},
-	{
-		"origin": "My Family - [Channel 15].id",
-		"channel_name": "My Family Channel (v+)",
-		"channel_id": "MyFamilyChannel.idn"
-	},
-	{
-		"origin": "My Kidz - [Channel 50].id",
-		"channel_name": "My Kidz",
-		"channel_id": "MyKids.id"
-	},
-	{
-		"origin": "Love Nature - [Channel 204].id",
-		"channel_name": "Love Nature Asia",
-		"channel_id": "LoveNature.id"
-	},
-        {
-		"origin": "Love Nature HD - [Channel 463].id",
-		"channel_name": "Love Nature Asia",
-		"channel_id": "LoveNature.id"
-	},
-	{
-		"origin": "Outdoor Channel - [Channel 202].id",
-		"channel_name": "Outdoor Channel",
-		"channel_id": "OutdoorChannel.id"
-	},
-	{
-		"origin": "Outdoor channel HD - [Channel 460].id",
-		"channel_name": "Outdoor Channel",
-		"channel_id": "OutdoorChannel.id"
-	},
-	{
-		"origin": "NET TV - [Channel 116].id",
-		"channel_name": "NET.",
-		"channel_id": "Net.id"
-	},
-	{
-		"origin": "NHK World - [Channel 355].id",
-		"channel_name": "NHK World Japan",
-		"channel_id": "NHKWorldJapan.jp.id"
-	},
-	{
-		"origin": "NHK World Premium - [Channel 354].id",
-		"channel_name": "NHK World Premium",
-		"channel_id": "NHKWorldPremium.jp.id"
-	},
-	{
-		"origin": "Nick Jr. HD - [Channel 472].id",
-		"channel_name": "Nick Jr.",
-		"channel_id": "NickJr.id"
-	},
-	{
-		"origin": "Nickelodeon Jr - [Channel 37].id",
-		"channel_name": "Nick Jr.",
-		"channel_id": "NickJr.id"
-	},
-	{
-		"origin": "Nickelodeon - [Channel 49].id",
-		"channel_name": "Nickelodeon",
-		"channel_id": "Nickelodeon.id"
-	},
-	{
-		"origin": "FOOD TRAVEL - [Channel 95].id",
-		"channel_name": "Food Travel",
-		"channel_id": "FoodTravel.id"
-	},
-	{
-		"origin": "ONE - [Channel 164].id",
-		"channel_name": "ONE",
-		"channel_id": "One.id"
-	},
-	{
-		"origin": "ONE HD - [Channel 445].id",
-		"channel_name": "ONE",
-		"channel_id": "One.id"
-	},
-	{
-		"origin": "PARAMOUNT - [Channel 163].id",
-		"channel_name": "Paramount Network",
-		"channel_id": "ParamountNetworkIndonesia.us.id"
-	},
-	{
-		"origin": "PARAMOUNT HD - [Channel 441].id",
-		"channel_name": "Paramount Network",
-		"channel_id": "ParamountNetworkIndonesia.us.id"
-	},
-	{
-		"origin": "RCTI - [Channel 80].id",
-		"channel_name": "RCTI",
-		"channel_id": "RCTI.id"
-	},
-	{
-		"origin": "RCTI HD - [Channel 430].id",
-		"channel_name": "RCTI HD",
-		"channel_id": "RCTI.id"
-	},
-	{
-		"origin": "Rock Action - [Channel 248].id",
-		"channel_name": "Rock Action",
-		"channel_id": "RockAction.id"
-	},
-	{
-		"origin": "Rock Entertainment - [Channel 240].id",
-		"channel_name": "Rock Entertainment",
-		"channel_id": "RockEntertainment.id"
-	},
-	{
-		"origin": "SCTV - [Channel 89].id",
-		"channel_name": "SCTV",
-		"channel_id": "SCTV.id"
-	},
-	{
-		"origin": "SEA TODAY - [Channel 336].id",
-		"channel_name": "SEA Today",
-		"channel_id": "SEAToday.id"
-	},
-	{
-		"origin": "Soccer Channel - [Channel 101].id",
-		"channel_name": "Soccer Channel",
-		"channel_id": "SoccerChannel.id"
-	},
-	{
-		"origin": "Soccer Channel HD - [Channel 420].id",
-		"channel_name": "Soccer Channel",
-		"channel_id": "SoccerChannel.id"
-	},
-	{
 		"origin": "SPOTV - [Channel 307].id",
-		"channel_name": "SPOTV",
+		"channel_name": "SPOTV HD",
 		"channel_id": "SPOTV.id"
 	},
 	{
 		"origin": "SPOTV HD - [Channel 427].id",
-		"channel_name": "SPOTV",
+		"channel_name": "SPOTV" HD,
 		"channel_id": "SPOTV.id"
 	},
 	{
 		"origin": "SPOTV 2 - [Channel 308].id",
-		"channel_name": "SPOTV 2",
+		"channel_name": "SPOTV 2 HD",
 		"channel_id": "SPOTV2.id"
 	},
 	{
 		"origin": "SPOTV 2 HD - [Channel 428].id",
-		"channel_name": "SPOTV 2",
+		"channel_name": "SPOTV 2 HD",
 		"channel_id": "SPOTV2.id"
-	},
-	{
-		"origin": "Sportstars - [Channel 102].id",
-		"channel_name": "Sportstars",
-		"channel_id": "Sportstars.id"
-	},
-	{
-		"origin": "Sportstars 2 - [Channel 98].id",
-		"channel_name": "Sportstars 2",
-		"channel_id": "Sportstars2.id"
-	},
-	{
-		"origin": "Sportstars 2 HD - [Channel 422].id",
-		"channel_name": "Sportstars 2",
-		"channel_id": "Sportstars2.id"
 	},
 	{
 		"origin": "Tawaf TV - [Channel 105].id",
@@ -711,12 +621,12 @@
 	},
 	{
 		"origin": "tvN - [Channel 158].id",
-		"channel_name": "tvN",
+		"channel_name": "tvN HD",
 		"channel_id": "tvN.id"
 	},
 	{
 		"origin": "tvN HD - [Channel 446].id",
-		"channel_name": "tvN",
+		"channel_name": "tvN HD",
 		"channel_id": "tvN.id"
 	},
 	{
@@ -737,7 +647,7 @@
 	{
 		"origin": "TVRI - [Channel 118].id",
 		"channel_name": "TVRI Nasional",
-		"channel_id": "TVRI.id"
+		"channel_id": "TVRI.my.id"
 	},
 	{
 		"origin": "Vision Prime - [Channel 94].id",

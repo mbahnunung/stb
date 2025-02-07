@@ -5,33 +5,28 @@
 		"channel_id": "ABCAustralia.id"
 	},
 	{
-		"origin": "AJWA TV.id",
-		"channel_name": "Ajwa TV",
-		"channel_id": "AjwaTV.id"
-	},
-	{
 		"origin": "ArirangWorld.kr",
 		"channel_name": "Arirang TV",
 		"channel_id": "ArirangTV.id"
 	},
 	{
 		"origin": "ANTV.id",
-		"channel_name": "ANTV",
-		"channel_id": "ANTV.id"
+		"channel_name": "ANTV ᴴᴰ",
+		"channel_id": "ANTV.ind"
 	},
 	{
 		"origin": "beINSports1.id",
-		"channel_name": "beIN Sports 1",
+		"channel_name": "beIN Sports 1 HD",
 		"channel_id": "beinSports1.id"
 	},
 	{
 		"origin": "17875",
-		"channel_name": "beIN Sports 2",
+		"channel_name": "beIN Sports 2 HR",
 		"channel_id": "beinSports2.id"
 	},
 	{
 		"origin": "beINSports3.id",
-		"channel_name": "beIN Sports 3",
+		"channel_name": "beIN Sports 3 HD",
 		"channel_id": "beinSports3.id"
 	},
 	{
@@ -72,7 +67,7 @@
         {
 		"origin": "ElshintaTV.id",
 		"channel_name": "ElshintaTV",
-		"channel_id": "ElshintaTV,my.id"
+		"channel_id": "ElshintaTV.my.id"
 	},
 	{
 		"origin": "Horee.id",
@@ -81,8 +76,8 @@
 	},
 	{
 		"origin": "Indosiar.id",
-		"channel_name": "Indosiar",
-		"channel_id": "Indosiar.id"
+		"channel_name": "Indosiar HD",
+		"channel_id": "Indosiar.my.id"
 	},
 	{
 		"origin": "Jaktv.id",
@@ -116,8 +111,8 @@
 	},
 	{
 		"origin": "MetroTV.id",
-		"channel_name": "Metro TV",
-		"channel_id": "MetroTV.id"
+		"channel_name": "Metro TV HD",
+		"channel_id": "MetroTV.my.id"
 	},
 	{
 		"origin": "Moji.id",
@@ -136,7 +131,7 @@
 	},
 	{
 		"origin": "News Asia.id",
-		"channel_name": "CNA",
+		"channel_name": "CNA HD",
 		"channel_id": "CNA.id"
 	},
 	{
@@ -146,7 +141,7 @@
 	},
         {
 		"origin": "Rajawali TV.id",
-		"channel_name": "RTVᴴᴰ",
+		"channel_name": "RTV",
 		"channel_id": "RTV.id"
 	},
 	{
@@ -171,17 +166,17 @@
 	},
 	{
 		"origin": "SCTV.id",
-		"channel_name": "SCTV",
-		"channel_id": "SCTV.id"
+		"channel_name": "SCTV HD",
+		"channel_id": "SCTV.my.id"
 	},
 	{
 		"origin": "SPOTV2.id",
-		"channel_name": "SPOTV 2",
+		"channel_name": "SPOTV 2 HD",
 		"channel_id": "SPOTV2.id"
 	},
 	{
 		"origin": "SPOTV.id",
-		"channel_name": "SPOTV",
+		"channel_name": "SPOTV HD",
 		"channel_id": "SPOTV.id"
 	},
 	{
@@ -191,23 +186,23 @@
 	},
 	{
 		"origin": "Trans7.id",
-		"channel_name": "Trans 7",
-		"channel_id": "Trans7.id"
+		"channel_name": "Trans7 ᴴᴰ",
+		"channel_id": "Trans7.ind"
 	},
 	{
 		"origin": "tvNAsia.hk",
-		"channel_name": "tvN",
+		"channel_name": "tvN HD",
 		"channel_id": "tvN.id"
 	},
 	{
 		"origin": "TVOne.id",
-		"channel_name": "tvOne",
-		"channel_id": "tvOne.id"
+		"channel_name": "tvOne HD",
+		"channel_id": "tvOne.my.id"
 	},
 	{
 		"origin": "TVRINasional.id",
-		"channel_name": "TVRI Nasional HD",
-		"channel_id": "TVRI.id"
+		"channel_name": "TVRI Nasional",
+		"channel_id": "TVRI.my.id"
 	},
 	{
 		"origin": "Zee Bioskop",
