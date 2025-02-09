@@ -24,7 +24,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/b630a001384603f.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Qdzsb1v.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="6" tvg-id="MetroTV.my.id" tvg-name="Metro TV HD", Metro TV HD
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Qdzsb1v.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="6" tvg-id="MetroTV.my.id" tvg-name="Metro TV ᴴᴰ", Metro TV ᴴᴰ
 http://khano.nng.cloudns.us/live/m3u8/id/6183ec225226ccb.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -44,7 +44,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.m
 https://d1abp075u76pbq.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd|Referer=https://www.visionplus.id
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/CTqyhF2.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="10" tvg-id="tvOne.my.id" tvg-name="TVOne HD", TVOne HD
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/CTqyhF2.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="10" tvg-id="tvOne.my.id" tvg-name="TVOne", TVOne ᴴᴰ
 https://warningfm.github.io/v3/live/str/id/0976f879a0c4548.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
@@ -69,7 +69,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-H
 https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/id/3f58825fe229a8f.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/tQ6itG9.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="16" tvg-id="NTV.id" tvg-name="Nusantara TVᴴᴰ", NusantaraTV
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/tQ6itG9.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="16" tvg-id="NTV.id" tvg-name="Nusantara TV", NusantaraTV
 https://warningfm.github.io/v3/live/str/id/378a642ff00fed9.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/h6qDBhV.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="17" tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia", CNN Indonesia
@@ -80,12 +80,12 @@ https://warningfm.github.io/v3/live/str/id/d12f0b99ed1f070.m3u8
 https://warningfm.github.io/v3/live/str/id/3f58825fe229a8h.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/KARJyvj.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="19" tvg-id="BTV.id" tvg-name="BTV", BTV
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/KARJyvj.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="19" tvg-id="BTV.id" tvg-name="BTV ᴴᴰ", BTV ᴴᴰ
 https://warningfm.github.io/v3/live/str/id/270f72deeb5843h.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/LAgKhuf.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="20" tvg-id="Moji.id" tvg-name="Moji HD", MOJI HD
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/LAgKhuf.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="20" tvg-id="Moji.id" tvg-name="Moji", MOJI
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/QPHtJR3.png?v=1.1.1.1" group-title="🇮🇩 Nasional" ch-number="21" tvg-id="CNBCIndonesia.id" tvg-name="CNBC Indonesia", CNBC Indonesia
@@ -179,10 +179,10 @@ https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/p3cqAKM.png?v=1.0.0.1" group-title="Kids" group-logo="https://i.imgur.com/BxvUXcn.png?v=1.0.0.1" tvg-id="Biznet Kids", B Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/6JSc2Ds.png?v=1.1.1.1" group-title="Kids" group-logo="https://i.imgur.com/BxvUXcn.png?v=1.0.0.1" tvg-id="Cartoonito.sg" tvg-name="Cartoonito (HD)", Cartoonito (HD)
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/6JSc2Ds.png?v=1.1.1.1" group-title="Kids" group-logo="https://i.imgur.com/BxvUXcn.png?v=1.0.0.1" tvg-id="Cartoonito.sg" tvg-name="Cartoonito ᴴᴰ", Cartoonito ᴴᴰ
 https://warningfm.github.io/v3/live/str/Kids/86555c60e79d125.m3u8
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/OrEXAse.png?v=1.0.0.1" group-title="Kids" group-logo="https://i.imgur.com/BxvUXcn.png?v=1.0.0.1" tvg-id="Cartoon Network.th" tvg-name="Cartoon Network.th", Cartoon Network (HD)
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/OrEXAse.png?v=1.0.0.1" group-title="Kids" group-logo="https://i.imgur.com/BxvUXcn.png?v=1.0.0.1" tvg-id="CartoonNetwork.id" tvg-name="Cartoon Network", Cartoon Network
 https://warningfm.github.io/v3/live/str/Kids/20e3acedb66331e.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
