@@ -519,20 +519,30 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/Globaltrekker/sa_dash_vmx/Globalt
 
 ########################################################     samsung-tvplus     ########################################################
 
-#EXTINF:-1 tvg-id="USBA3400003IP" tvg-chno="1404" tvg-logo="https://i.imgur.com/2tBjtic.png" group-title="Science & Nature", Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 channel-id="US2200001IY-us" tvg-id="US2200001IY" tvg-chno="3878" tvg-name="Curiosity Animales" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/cast/img/47fKI1D.png" group-title="Science & Nature", Curiosity Animales
+https://jmp2.uk/sam-US2200001IY.m3u8
 
-#EXTINF:-1 tvg-id="USBA3000043LH" tvg-chno="1400" tvg-logo="https://i.imgur.com/CzxXnsG.png" group-title="Science & Nature", Samsung Wild Life
-https://d1vp12yk4i8ou5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/WildLife2-prod/playlist.m3u8
-
-#EXTINF:-1 tvg-id="INWILD" tvg-chno="" tvg-logo="https://i.imgur.com/8z87JrE.png" group-title="Science & Nature", INWILD
-https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
-
-#EXTINF:-1  tvg-id="USBA3800005NI" tvg-logo="https://i.imgur.com/IYYgQr3.png" group-title="Science & Nature" channel-id="SamsungTVPlus-USBA3800005NI" tvg-name="Clarity 4K" tvg-chno="3520",Clarity 4K
+#EXTINF:-1  tvg-id="USBA3800005NI" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/cast/img/IYYgQr3.png" group-title="Science & Nature" channel-id="SamsungTVPlus-USBA3800005NI" tvg-name="Clarity 4K" tvg-chno="3520",Clarity 4K
 https://d34llq02ebsd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xm86ab912xr1m/Clarity_4K.m3u8
 
-#EXTINF:-1 group-title="Science & Nature" tvg-logo="https://i.imgur.com/9Btm8V1.png", WildEarth
+#EXTINF:-1 tvg-id="USBA3400003IP" tvg-chno="1404" tvg-name="Love Nature 4K" tvg-logo="https://i.imgur.com/Y3qMrJT.png" group-title="Science & Nature", Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+
+#EXTINF:-1 channel-id="GBBA220000751-gb" tvg-id="GBBA220000751" tvg-chno="4498" tvg-name="INWILD" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/cast/img/8z87JrE.png" group-title="Science & Nature", INWILD
+https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
+
+#EXTINF:-1 channel-id="ITBA3300046KE-it" tvg-id="ITBA3300046KE" tvg-chno="4489" tvg-name="WildEarth" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/cast/img/9Btm8V1.png" group-title="Science & Nature", WildEarth
 https://wildearth-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 channel-id="GBBB5000002PL-gb" tvg-id="GBBB5000002PL" tvg-chno="4486" tvg-name="Wild Planet" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/cast/img/MLMWSCV.png" group-title="Science & Nature", Wild Planet
+https://d3c7duantorcb1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/amgwildplanetuk/playlist.m3u8
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBC2100008DP" tvg-name="Xplore" tvg-id="USBC2100008DP" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/cast/img/GOVdtfZ.png" group-title="Science & Nature" tvg-chno="3529", Xplore
+#https://d1h0pre5juliql.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h9yybm20pnqb8-ssai-prd/amgxplore/playlist.m3u8
+https://xlpore-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USAK3508706A" tvg-name="Xtreme Outdoor Presented by HISTORY" tvg-id="USAK3508706A" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/cast/img/6Nj1cz6.png" group-title="Science & Nature" tvg-chno="2779", Xtreme Outdoor Presented by HISTORY
+https://d3t5fccwnhi5z7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uy8wco0v6aga/v1/aenetworks_skills_thrills_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 
 ########################################################     Music     ########################################################
 
