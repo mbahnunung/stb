@@ -855,7 +855,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/digitaldotmy/TV/main/Sony_MAX.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-id="SONY MAX.sg" tvg-name="Sony Max", Sony Max HD
-https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 11) ExoPlayerLib/2.11.4
+https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 14) ExoPlayerLib/2.11.4
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-2CZWDn-gVks/YaRWeK4pqkI/AAAAAAAABeE/aawEF9bRY1YG8_xHo3Q1esrp3e0a2UwpgCLcBGAsYHQ/s0/C5EpW33.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-id="Bflix" tvg-name="Bflix", Bflix Movies
 https://warningfm.github.io/v3/live/str/op/7335edf66aba711.m3u8
@@ -891,35 +891,34 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 
 ########################################################   MalaysiaTV  ########################################################
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/8BTOxlC.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="Astro Awani" tvg-name="Astro Awani HD", Astro Awani
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/uc2cHnp.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="AstroAwani" tvg-name="Astro Awani", Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/fEEFzKF.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="BeritaRTM" tvg-name="Berita RTM", Berita RTM
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/yQtzwWS.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="BERITARTM" tvg-name="Berita RTM", Berita RTM
 https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/XVgrze1.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="BernamaTV" tvg-name="Bernama", Bernama
-https://warningfm.github.io/v3/live/str/op/7335edf66aba710.m3u8
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/mWR9iwO.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="BernamaTV" tvg-name="Bernama", Bernama
+https://warningfm.github.io/v3/live/str/op/7335edf66aba711.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/oBNlPhA.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="TV Okey" tvg-name="TV Okey", TV Okey
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/yqfHm18.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="OKEY" tvg-name="TV Okey", TV Okey
 https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/ZAMtj0S.png?v=1.1.1.1" group-title="🇲🇾 Malaysia" tvg-id="TV1 HD" tvg-name="TV1 HD", TV1
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/sh6oadV.png?v=1.1.1.1" group-title="🇲🇾 Malaysia" tvg-id="101.astro" tvg-name="TV1", TV1
 https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/s1mRWex.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="TV2" tvg-name="TV2 HD", TV2
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/1Vlmsos.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="102.astro tvg-name="TV2", TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my/
+
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/0c5WJlU.png?v=1.1.1.1" group-title="🇲🇾 Malaysia" tvg-id="103.astro" tvg-name="TV3", TV3
+https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/dhrruWp.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="TV6" tvg-name="TV6", TV6
 https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/0c5WJlU.png?v=1.1.1.1" group-title="🇲🇾 Malaysia" tvg-id="TV3" tvg-name="TV3", TV3
-https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1dfa8a645af41e83c520bddf913934ca:65f6af8750d24b230d91b984237ac1e4
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/SQWHP5j.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="TV9" tvg-name="TV9", TV9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/SQWHP5j.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="149.astro" tvg-name="TV9", TV9
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live09.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
