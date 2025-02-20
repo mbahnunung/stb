@@ -331,16 +331,12 @@ https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/ra
 https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/0d34940b4d8e51866bcf9d338a0dc6292cb25754/18d7c304801584a.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/nclyzsj.png?v=1.0.0.1" group-title="Religious" tvg-id="IqraTV.uk" tvg-name="IQRA TV.uk", Iqra TV
-https://gist.githubusercontent.com/warningfm/77f2924b54e00133bffffc38f53b2726/raw/f736bedbac32731e3d43323ebc26db929551e5c4/df36e66d66f4156.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/vUHoMzT.png?v=1.1.1.1" group-title="Religious" tvg-id="Makkah TV.ar" tvg-name="Makkah TV.ar", Makkah TV
-https://warningfm.github.io/v3/live/str/ar/3058a2456b128c1.m3u8
+http://cdn.nng.cloudns.us/live/m3u8/ar/3058a2456b128c1.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sRHJJ5c.png?v=1.0.0.1" group-title="Religious" tvg-id="TawafTV.id" tvg-name="Tawaf TV", Tawaf TV
-https://sg1.agromegamedia.com/memfs/4715f8bf-19a0-4aea-ad0c-7b8ec8d5df43.m3u8
+http://cdn.nng.cloudns.us/live/m3u8/id/0c9fd875599b836.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eefa1c34afba72f8fe902b061632528f:334cde07f6ebe092c0ae0521591d73cf
