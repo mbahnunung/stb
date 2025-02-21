@@ -624,6 +624,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/puD2me6.png?v=1.0.0.1" group-title="Movies" tvg-id="KIX.id" tvg-name="KIX", KIX
 http://khano.nng.cloudns.us/live/m3u8/Mov/29afb26faff1ccd.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/HZy4U9O.png?v=1.1.1.1" group-title="Movies" channel-id="mjh-discovery-ptms" tvg-id="mjh-discovery-ptms" , MovieSphere
+https://raw.githubusercontent.com/mystery75/m3u8/main/MSPHERE.m3u8
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/ABjELCt.png?v=1.0.0.1" group-title="Movies" tvg-id="MyCinema.id" tvg-name="My Cinema", My Cinema
 http://khano.nng.cloudns.us/live/m3u8/Mov/0f117055295b31D.m3u8
@@ -664,9 +667,6 @@ https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/rCLnw5V.png?v=1.0.0.1" group-title="Movies" tvg-id="mjh-ahm-FAST" tvg-name="Action Hollywood Movies", Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/b4e2xGk.png?v=1.0.0.1" group-title="Movies" channel-id="mjh-discovery-ptms" tvg-id="mjh-discovery-ptms" , MovieSphere
-https://i.mjh.nz/.r/discovery-ptms.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/dfLNSn3.png?v=1.1.1.1" group-title="Movies" tvg-id="FX Movie Channel.us" tvg-name="FX Movie Channel.us", FX
 http://fl2.moveonjoy.com/FX/index.m3u8
@@ -813,11 +813,11 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HD
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/fgUVz5m.png?v=1.0.0.1" group-title="🌍 News" tvg-id="aljazeeraarabic.kn" tvg-name="Al Jazeera Arabic HD", Al Jazeera Arabic HD
-https://warningfm.github.io/v3/live/str/ar/f5f5c18cf037918b.m3u8
+http://cdn.nng.cloudns.us/live/m3u8/ar/f5f5c18cf037918b.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/S3Gn16p.png?v=1.0.0.1" group-title="🌍 News" tvg-id="Arabiya HD.ua" tvg-name="Arabiya HD.ua", Al Arabiya
-https://warningfm.github.io/v3/live/str/ar/b8b58e25df2b3ce.m3u8
+http://cdn.nng.cloudns.us/live/m3u8/ar/b8b58e25df2b3ce.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/xSCGVhz.png?v=1.0.0.1" group-title="🌍 News" tvg-id="AlManar.lb" tvg-name="Al-Manar TV", Al-Manar TV
@@ -827,7 +827,7 @@ https://edge.fastpublish.me/live/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/GVGesVr.png?v=1.0.0.1" group-title="🇰🇷 Korengan" tvg-id="ArirangTV.id" tvg-name="Arirang TV", Arirang
-https://warningfm.github.io/v3/live/str/int/892fc80890b4b65.m3u8
+http://cdn.nng.cloudns.us/live/m3u8/int/892fc80890b4b65.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b212a67ce3e8b056af85b890e3de811:428a68fac3d97a5fae0f695edcee6346
@@ -836,15 +836,15 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/SetOne/sa_dash_vmx/SetOne.mpd|Ref
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/jJTACLd.png?v=1.0.0.1" group-title="🇰🇷 Korengan" tvg-id="KBSWorld.kr" tvg-name="KBS World (HD)", KBS World
-https://warningfm.github.io/v3/live/str/int/56114419787640f.m3u8
+http://cdn.nng.cloudns.us/live/m3u8/int/56114419787640f.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/QVj6I9k.png?v=1.0.0.1" group-title="🇰🇷 Korengan" tvg-id="KPlus.sg" tvg-name="K-Plus HD", KPlus
-https://warningfm.github.io/v3/live/str/int/c19fce28bcd7cb7.m3u8
+http://cdn.nng.cloudns.us/live/m3u8/int/c19fce28bcd7cb7.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/6AmnAWu.png?v=1.0.0.1" group-title="🇰🇷 Korengan" tvg-id="tvNAsia.hk" tvg-name="tvN HD", tvN
-https://warningfm.github.io/v3/live/str/Mov/d577c0880b08b2e.m3u8
+http://cdn.nng.cloudns.us/live/m3u8/Mov/d577c0880b08b2e.m3u8
 
 ########################################################     Hindi     ########################################################
 
