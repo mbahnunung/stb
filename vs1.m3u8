@@ -719,7 +719,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_fashiontvhd.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/LgeA5wM.png?v=1.0.0.1" group-title="Fashion" group-logo="https://i.imgur.com/hnmGABf.png?v=1.0.0.1" tvg-id="FashionTV.id" tvg-name="FashionTV HD", FashionTV ᴴᴰ
-https://cdn11jtedge.indihometv.com/atm/DASH/FASHION_TV/manifest.mpd
+https://streaming.indihometv.com/atm/DASH/FASHION_TV/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/uE4EMmh.png?v=1.0.0.1" group-title="Fashion" group-logo="https://i.imgur.com/hnmGABf.png?v=1.0.0.1" tvg-id="Fashion TV.cz" tvg-name="Fashion TV.cz", FashionTV Czech&Slovak
 https://warningfm.github.io/v3/live/str/fs/364bfe25097b975.m3u8
@@ -1051,22 +1051,22 @@ http://cdn.nng.cloudns.us/live/m3u8/Mov/6dbd87da999998e.m3u8
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/HwXQJXW.png?v=1.0.0.1" group-title="Indihome" group-logo="https://play-lh.googleusercontent.com/ph8u4w6k70ZEmVFXf1n36tO4CrgBf0nxQxA3vm11WPr0xVuGG31u3RCvYUViefYBig=w240-h480-rw?v=1.0.0.1" ch-number="214" tvg-id="SCTV.id" tvg-name="SCTV", SCTV
-https://cdn12jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
+https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/GsUKABT.png?v=1.1.1.1" group-title="Indihome" group-logo="https://play-lh.googleusercontent.com/ph8u4w6k70ZEmVFXf1n36tO4CrgBf0nxQxA3vm11WPr0xVuGG31u3RCvYUViefYBig=w240-h480-rw?v=1.0.0.1" ch-number="215" tvg-id="Indosiar.id" tvg-name="Indosiar", Indosiar
-https://cdn12jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
+https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sWeXuef.png?v=1.1.1.1" group-title="Indihome" group-logo="https://play-lh.googleusercontent.com/ph8u4w6k70ZEmVFXf1n36tO4CrgBf0nxQxA3vm11WPr0xVuGG31u3RCvYUViefYBig=w240-h480-rw?v=1.0.0.1" ch-number="7" tvg-id="Trans7.id" tvg-name="Trans 7", Trans7
-https://cdn12jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd
+https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/AySErC1.png?v=1.0.0.1" group-title="Indihome" group-logo="https://play-lh.googleusercontent.com/ph8u4w6k70ZEmVFXf1n36tO4CrgBf0nxQxA3vm11WPr0xVuGG31u3RCvYUViefYBig=w240-h480-rw?v=1.0.0.1" ch-number="8" tvg-id="TransTV.id" tvg-name="Trans TV", TransTV
-https://cdn12jtedge.indihometv.com/atm/DASH/transtv/manifest.mpd
+https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
