@@ -812,11 +812,11 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/IDX/sa_dash_vmx/IDX.mpd|Referer=ht
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd|Referer=https://www.visionplus.id
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/fgUVz5m.png?v=1.0.0.1" group-title="🌍 News" tvg-id="aljazeeraarabic.kn" tvg-name="Al Jazeera Arabic HD", Al Jazeera Arabic HD
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/fgUVz5m.png?v=1.0.0.1" group-title="🌍 News" tvg-id="AlJazeera.Arabic.net" tvg-name="AlJazeera Arabic", AlJazeera Arabic
 http://cdn.nng.cloudns.us/live/m3u8/ar/f5f5c18cf037918b.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/S3Gn16p.png?v=1.0.0.1" group-title="🌍 News" tvg-id="Arabiya HD.ua" tvg-name="Arabiya HD.ua", Al Arabiya
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/S3Gn16p.png?v=1.0.0.1" group-title="🌍 News" tvg-id="Al Arabiya HD.ae" tvg-name="Al Arabiya HD.ae", Al Arabiya
 http://cdn.nng.cloudns.us/live/m3u8/ar/b8b58e25df2b3ce.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
@@ -959,15 +959,15 @@ https://d19h5fcpqoh625.cloudfront.net/out/v1/00ac947de8174a54bd0f52226115d1db/ma
 ########################################################    Dubai   ########################################################
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yIDtEcz.png?v=1.1.1.1" group-title="Dubai" tvg-id="Dubai TV HD.ua" tvg-name="Dubai TV HD.ua", Dubai TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yIDtEcz.png?v=1.1.1.1" group-title="Dubai" tvg-id="Dubai TV HD.ae" tvg-name="Dubai TV HD.ae", Dubai TV
 http://warningfm.github.io/streams/live/m3u8/ar/bcc43de11a0e1b3.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6NbRu5c.png?v=1.0.0.1" group-title="Dubai" tvg-id="Noor Dubai.ua" tvg-name="Noor Dubai.ua", Noor Dubai TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6NbRu5c.png?v=1.0.0.1" group-title="Dubai" tvg-id="Noor Dubai.ae" tvg-name="Noor Dubai.ae", Noor Dubai TV
 https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/master.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KttTuz6.png?v=1.0.0.1" group-title="Dubai" tvg-id="Dubai One.ua" tvg-name="Dubai One.ua", Dubai One
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KttTuz6.png?v=1.0.0.1" group-title="Dubai" tvg-id="Dubai One.ae" tvg-name="Dubai One.ae", Dubai One
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/master.m3u8
 
 ########################################################     Adult Lifestyle    ########################################################
