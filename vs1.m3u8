@@ -66,7 +66,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-H
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Ax67v0u.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="15" tvg-id="TVRINasional.id" tvg-name="TVRI Nasional", TVRI Nasional HD
-http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a8f.m3u8
+http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a9f.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/tQ6itG9.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="16" tvg-id="Nusantara.TV.id" tvg-name="Nusantara TV", Nusantara TV
@@ -85,7 +85,7 @@ http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a8i.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/iKHK6tC.png?v=1.1.1.1" group-title="🇮🇩 Nasional" ch-number="20" tvg-id="BTV.id" tvg-name="BTV", BTV
-http://cdn.nng.cloudns.us/live/m3u8/id/270f72deeb5843h.m3u8
+http://cdn.nng.cloudns.us/live/m3u8/id/270f72deeb5843f.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Si0yCff.png?v=1.1.1.1" group-title="🇮🇩 Nasional" ch-number="21" tvg-id="BeritaSatu.id" tvg-name="BeritaSatu", BeritaSatu
