@@ -253,7 +253,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd|Ref
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img//439xgNZ.png?v=1.0.0.1" group-title="Entertainment" tvg-id="Aniplus.id" tvg-name="Aniplus", Aniplus
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/XMOyQiG.png?v=1.0.0.1" group-title="Entertainment" tvg-id="Aniplus.id" tvg-name="Aniplus", Aniplus
 http://cdn.nng.cloudns.us/live/m3u8/int/4831104be353eb0.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
