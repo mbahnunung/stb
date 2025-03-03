@@ -982,15 +982,15 @@ https://d19h5fcpqoh625.cloudfront.net/out/v1/00ac947de8174a54bd0f52226115d1db/ma
 ########################################################    Dubai   ########################################################
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yIDtEcz.png?v=1.1.1.1" group-title="Dubai" tvg-id="Dubai TV HD.ae" tvg-name="Dubai TV HD.ae", Dubai TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BxTPECD.png?v=1.1.1.1" group-title="Dubai" tvg-id="Dubai TV HD.ae" tvg-name="Dubai TV HD.ae", Dubai TV
 http://warningfm.github.io/streams/live/m3u8/ar/bcc43de11a0e1b3.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6NbRu5c.png?v=1.0.0.1" group-title="Dubai" tvg-id="Noor Dubai.ae" tvg-name="Noor Dubai.ae", Noor Dubai TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0Q9qN5O.png?v=1.0.0.1" group-title="Dubai" tvg-id="Noor Dubai.ae" tvg-name="Noor Dubai.ae", Noor Dubai TV
 https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/master.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KttTuz6.png?v=1.0.0.1" group-title="Dubai" tvg-id="Dubai One.ae" tvg-name="Dubai One.ae", Dubai One
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eEcLk5j.png?v=1.1.1.1" group-title="Dubai" tvg-id="Dubai One.ae" tvg-name="Dubai One.ae", Dubai One
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/master.m3u8
 
 ########################################################     Adult Lifestyle    ########################################################
