@@ -1014,7 +1014,7 @@ https://asv.alhastream.com:3310/rbtfm
 https://s7.alhastream.com/radio/8090/radio?1609467814144
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFBcpPA.png?v=1.0.0.1" group-title="📻 Radio", Mandala FM Banyuwangi
-https://svara-stream.radioddns.net:8443/banyuwangi_mandalafm
+https://svara-stream.radioddns.net/banyuwangi_mandalafm
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F4ZhQvc.jpg?v=1.0.0.1" group-title="📻 Radio", VIS FM Banyuwangi
 https://visfm.radiobanyuwangi.my.id/visfm
