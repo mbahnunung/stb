@@ -1007,8 +1007,8 @@ https://59ec5453559f0.streamlock.net/jennylive/smil:WEB3131/playlist.m3u8
 
 ########################################################     Radio     ########################################################
 
-#EXTINF:-1 tvg-logo="https://cdn.bintangtenggarafm.com/img/sxFQM0Z.png?v=1.0.0.1" group-title="📻 Radio", Radio Bintang Tenggara
-https://asv.alhastream.com:3310/rbtfm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oXjwIYm.png?v=1.0.0.1" group-title="📻 Radio", Radio Bintang Tenggara
+https://asv.alhastream.com:3310/radio
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A5XtE1G.png?v=1.0.0.1" group-title="📻 Radio", Radio GBS FM
 https://s7.alhastream.com/radio/8090/radio?1609467814144
@@ -1019,25 +1019,28 @@ https://svara-stream.radioddns.net/banyuwangi_mandalafm
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F4ZhQvc.jpg?v=1.0.0.1" group-title="📻 Radio", VIS FM Banyuwangi
 https://visfm.radiobanyuwangi.my.id/visfm
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mbahnunung/v3/kn/img/93cFv35.png?v=1.0.0.1" group-title="📻 Radio" tvg-id=mbah nunung Online" tvg-name="mbah nunung Online", mbah nunung Online
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/93cFv35.png?v=1.0.0.1" group-title="📻 Radio" tvg-id=mbah nunung Online" tvg-name="mbah nunung Online", mbah nunung Online
 https://stream.zeno.fm/n4gzbe9ufzzuv
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mbahnunung/v3/kn/img/93cFv35.png?v=1.0.0.1" group-title="📻 Radio" tvg-id=Tombo Waras FM" tvg-name="Tombo Waras FM", Tombo Waras FM
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/93cFv35.png?v=1.0.0.1" group-title="📻 Radio" tvg-id=Tombo Waras FM" tvg-name="Tombo Waras FM", Tombo Waras FM
 https://stream.zeno.fm/uv0krbzgszpvv
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3bVDwBrUqhmD_ON_EbGtVezoc27DaMsc-ZSif1x67O2SKtWe7q9JJcww8JNr_LYTg__OT_CNVLDpMfGKT0xN_9Q1EXcIwV_gFz4GaN51bigwkKqTp7d4987y6rmMwKdOetggMawynUn7VwoyKKHft7XofQW2nExnfvxYrtxkjdCU6ZSjvGJUE9_RoUTya/s1600/LaRsq22.png?v=1.0.0.1" group-title="📻 Radio" tvg-id=Mantab Herbal FM" tvg-name="Mantab Herbal FM", Mantab Herbal FM
 https://stream.zeno.fm/p3flr3pjqwhtv
 
-#EXTINF:-1 tvg-logo="https://images-v2.noiceid.cc/catalog/500x500/content-1720587925799.webp" group-title="📻 Radio", Elshinta FM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/93cFv35.png?v=1.0.0.1" group-title="📻 Radio", Radio Suara Giri
+https://azuracast.suzananet.com/radio/8010/radio
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SIWKiiM.jpg?v=1.0.0.1" group-title="📻 Radio", Elshinta FM
 https://stream-ssl.arenastreaming.com:8000/jakarta
 
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7057.jpg" group-title="📻 Radio", I Radio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1pwiqj3.jpg?v=1.0.0.1" group-title="📻 Radio", I Radio
 http://stream.radiojar.com/4ywdgup3bnzuv
 
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7056.jpg" group-title="📻 Radio", Cosmopolitan FM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OwEG2Ju.jpg?v=1.0.0.1" group-title="📻 Radio", Cosmopolitan FM
 http://n02.radiojar.com/u7d8heq3bnzuv
 
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7055.jpg" group-title="📻 Radio", Trax FM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BRZ0nMf.jpg?v=1.0.0.1" group-title="📻 Radio", Trax FM
 https://n11.radiojar.com:443/rrqf78p3bnzuv
 
 ########################################################    denstv   ########################################################
