@@ -158,7 +158,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/459caa984301138.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/226fe77699e03c7.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/bCXtnI3.png?v=1.0.0.1" group-title="Local" tvg-id="BadarTV" tvg-name="BRTV", BRTV
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/bCXtnI3.png?v=1.1.1.1" group-title="Local" tvg-id="BadarTV" tvg-name="BRTV", BRTV
 http://cdn.nng.cloudns.us/live/m3u8/id/1375b51bb1b2c31.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
