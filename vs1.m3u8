@@ -411,7 +411,7 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/mas
 https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 11) ExoPlayerLib/2.11.4
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/MtO1ReC.png?v=1.1.1.1" group-title="Sports" tvg-id="Fight Network" tvg-name="Fight Network", Fight Network
-https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+http://cdn.nng.cloudns.us/live/m3u8/sprt/e1455ce9a0e857a.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/pmnxhBQ.png?v=1.0.0.1" group-title="Sports" group-logo="https://i.imgur.com/bpvKmSk.png?v=1.0.0.1" tvg-id="FightSports.id" tvg-name="Fight Sports", Fight Sports
