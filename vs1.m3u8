@@ -378,20 +378,32 @@ https://warningfm.github.io/dailymotion/AswajaTV.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#EXTINF:-1 tvg-id="beINSports" group-title="Sports" group-logo="https://i.imgur.com/bpvKmSk.png?v=1.0.0.1 tvg-logo="https://warningfm.github.io/v3/img/EqMYfQl.png?v=1.1.1.1", beIN Sports
-https://dsgtq5sngxkde.cloudfront.net/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd|Referer=https://www.visionplus.id
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/EqMYfQl.png?v=1.1.1.1" group-title="Sports" group-logo="https://i.imgur.com/bpvKmSk.png?v=1.0.0.1" tvg-id="beINSports1.id" tvg-name="beIN Sports", beIN Sports
+https://d1abp075u76pbq.cloudfront.net/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#EXTINF:-1 tvg-id="beINSports2.id" group-title="Sports" group-logo="https://i.imgur.com/bpvKmSk.png?v=1.0.0.1 tvg-logo="https://warningfm.github.io/v3/img/VeV4Va6.png?v=1.1.1.1", beIN Sports 2 
-https://dsgtq5sngxkde.cloudfront.net/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd|Referer=https://www.visionplus.id
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/VeV4Va6.png?v=1.1.1.1" group-title="Sports" group-logo="https://i.imgur.com/bpvKmSk.png?v=1.0.0.1" tvg-id="beINSports2.id" tvg-name="beIN Sports 2", beIN Sports 2 
+https://d1abp075u76pbq.cloudfront.net/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#EXTINF:-1 tvg-id="beINSports3.id" group-title="Sports" group-logo="https://i.imgur.com/bpvKmSk.png?v=1.0.0.1 tvg-logo="https://warningfm.github.io/v3/img/nG5sNMv.png?v=1.1.1.1", beIN Sports 3 
-https://dsgtq5sngxkde.cloudfront.net/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd|Referer=https://www.visionplus.id
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/nG5sNMv.png?v=1.1.1.1" group-title="Sports" group-logo="https://i.imgur.com/bpvKmSk.png?v=1.0.0.1" tvg-id="beINSports3.id" tvg-name="beIN Sports 3", beIN Sports 3 
+https://d1abp075u76pbq.cloudfront.net/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/easjB2c.png" group-title="Sports" group-logo="https://i.imgur.com/bpvKmSk.png?v=1.0.0.1" tvg-id="Dubai Sports 1.ae" tvg-name="Dubai Sports 1.ae", DubaiSports 1
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rACeM3m.png" group-title="Sports" group-logo="https://i.imgur.com/bpvKmSk.png?v=1.0.0.1" tvg-id="Dubai Sports 2.ae" tvg-name="Dubai Sports 2.ae", DubaiSports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FzcQgKU.png" group-title="Sports" group-logo="https://i.imgur.com/bpvKmSk.png?v=1.0.0.1" tvg-id="Dubai Sports 3.ar" tvg-name="Dubai Sports 3.ar", DubaiSports 3	
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
@@ -401,31 +413,42 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd|u
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/MtO1ReC.png?v=1.1.1.1" group-title="Sports" tvg-id="Fight Network" tvg-name="Fight Network", Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d2159ffe3be22ed4916a6abe4d58d265:3e4efcec08d5d5c18a403b7048a43638
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/pmnxhBQ.png?v=1.0.0.1" group-title="Sports" tvg-id="FightSports.id" tvg-name="Fight Sports", Fight Sports
-https://d1abp075u76pbq.cloudfront.net/live/eds/FightSports/sa_dash_vmx/FightSports.mpd|Referer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/pmnxhBQ.png?v=1.0.0.1" group-title="Sports" group-logo="https://i.imgur.com/bpvKmSk.png?v=1.0.0.1" tvg-id="FightSports.id" tvg-name="Fight Sports", Fight Sports
+http://cdn.nng.cloudns.us/live/m3u8/sprt/d7d981d1df08d72.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/8PvEGlg.png?v=1.0.0.1" group-title="Sports" tvg-id="NBA TV.us" tvg-name="NBA TV.us", NBA TV
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/rukoJmO.png?v=1.0.0.1" group-title="Sports" channel-id="ITBA1500002UB-it" tvg-id="ITBA1500002UB" tvg-chno="4670" tvg-name="HorizonSports", HorizonSports
+https://jmp2.uk/sam-ITBA1500002UB.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/8PvEGlg.png?v=1.0.0.1" group-title="Sports" group-logo="https://i.imgur.com/bpvKmSk.png?v=1.0.0.1" tvg-id="NBA.TV.id" tvg-name="NBA TV", NBA TV
+#https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 http://fl2.moveonjoy.com/NBA_TV/index.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/VyqMhjx.png?v=1.0.0.1" group-title="Sports" tvg-id="CAAJ2700030ON" tvg-name="Outside", Outside
 https://gist.githubusercontent.com/warningfm/f951716f1dfd96d4480dbdad6a000eeb/raw/edfa08178fc5cb3608324d1e3d4f8ff7df89a997/Outside.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/zfcBrM4.png?v=1.0.0.1" group-title="Sports" tvg-id="SPOTV.id" tvg-name="SPOTV", SPOTV
-https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd|Referer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/4AcGcN0.png?v=1.0.0.1" group-title="Sports" group-logo="https://i.imgur.com/bpvKmSk.png?v=1.0.0.1" channel-id="GBBD2300003IK" tvg-id="GBBD2300003IK" tvg-name="Red Bull TV", Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/wDbt2cl.png?v=1.0.0.1" group-title="Sports" tvg-id="SPOTV2.id" tvg-name="SPOTV 2", SPOTV2
-https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd|Referer=https://www.visionplus.id
+#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/zfcBrM4.png?v=1.0.0.1" group-title="Sports" group-logo="https://i.imgur.com/bpvKmSk.png?v=1.0.0.1" tvg-id="SPOTV.id" tvg-name="SPOTV", SPOTV
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/wDbt2cl.png?v=1.0.0.1" group-title="Sports" group-logo="https://i.imgur.com/bpvKmSk.png?v=1.0.0.1" tvg-id="SPOTV2.id" tvg-name="SPOTV 2", SPOTV2
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/hZRtYEf.png?v=1.0.0.1" group-title="Sports" tvg-id="SoccerChannel.id" tvg-name="Soccer Channel", Soccer Channel
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/hZRtYEf.png?v=1.0.0.1" group-title="Sports" group-logo="https://i.imgur.com/bpvKmSk.png?v=1.0.0.1" tvg-id="SoccerChannel.id" tvg-name="Soccer Channel", Soccer Channel
 https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd|Referer=https://www.visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -433,29 +456,18 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/so
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/M7aRlmr.png?v=1.0.0.1" group-title="Sports" group-logo="https://i.imgur.com/bpvKmSk.png?v=1.0.0.1" tvg-id="SportStars.id" tvg-name="Sportstars", Sportstars
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd|Referer=https://www.visionplus.id
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+#EXTINF:-1 tvg-logo="https://i.imgur.com/89cWa61.png?v=1.0.0.1" group-title="Sports" group-logo="https://i.imgur.com/bpvKmSk.png?v=1.0.0.1" tvg-id="SportStars2.id" tvg-name="Sportstars 2", Sportstars 2
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/4AcGcN0.png?v=1.0.0.1" group-title="Sports" channel-id="GBBD2300003IK" tvg-id="GBBD2300003IK" tvg-name="Red Bull TV", Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/ycmmz6n.png?v=1.1.1.1" group-title="Sports" tvg-id="Trace Sport Stars.uk" tvg-name="Trace Sport Stars.uk", TRACE Sport Stars HD
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mUDWgt9.png?v=1.0.0.1" group-title="Sports" tvg-id="701.unifi" tvg-name="unifi Sports 1", unifi Sports 1
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/fEuREpo.png?v=1.0.0.1" group-title="Sports" group-logo="https://i.imgur.com/bpvKmSk.png?v=1.0.0.1" tvg-id="701.unifi" tvg-name="unifi Sports 1", unifi Sports 1
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/easjB2c.png" group-title="Sports" tvg-id="Dubai Sports HD.ua" tvg-name="Dubai Sports HD.ua", DubaiSports 1
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rACeM3m.png" group-title="Sports" tvg-id="Dubai Sports 2 HD.ua" tvg-name="Dubai Sports 2 HD.ua", DubaiSports 2	
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FzcQgKU.png" group-title="Sports" tvg-id="Dubai Sports 3.ar" tvg-name="Dubai Sports 3.ar", DubaiSports 3	
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/ycmmz6n.png?v=1.1.1.1" group-title="Sports" tvg-id="5257" tvg-name="TRACE Sports Stars HD.sg", TRACE Sport Stars HD
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
 ########################################################   Knowledge   ########################################################
 
