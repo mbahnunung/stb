@@ -502,30 +502,30 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CrimeInvestigationHD/mpd/CrimeInv
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/bMmDRaD.png?v=1.0.0.1" group-title="Knowledge" tvg-id="DiscoveryAsia.id" tvg-name="Discovery Asia", Discovery Asia
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/bMmDRaD.png?v=1.0.0.1" group-title="Knowledge" tvg-id="DiscoveryAsia.id" tvg-name="Discovery Asia", Discovery Asia
 https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/AWvwPm5.png?v=1.0.0.1" group-title="Knowledge" tvg-id="DiscoveryChannel.id" tvg-name="Discovery Channel HD", Discovery Channel HD
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/AWvwPm5.png?v=1.0.0.1" group-title="Knowledge" tvg-id="DiscoveryChannel.id" tvg-name="Discovery Channel HD", Discovery Channel HD
 https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62fae935e91c4e8d9e835a294ea81909:328cfed51cba1bfa41f1bda219ceeff8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NFu6IF2.png?v=1.0.0.1" group-title="Knowledge" tvg-id="716.astro" tvg-name="DMAX HD", DMAX HD
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/aNBZKaM.png?v=1.0.0.1" group-title="Knowledge" tvg-id="716.astro" tvg-name="DMAX HD", DMAX HD
 https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8b27270c10422acdf2b70c296c8ddb29:32ca577ab5b577a31cc61eb847642fa8
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/dkQOJQ2.png?v=1.0.0.1" group-title="Knowledge" tvg-id="GlobalTrekker" tvg-name="Global Trekker", Global Trekker
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/dkQOJQ2.png?v=1.0.0.1" group-title="Knowledge" tvg-id="GlobalTrekker" tvg-name="Global Trekker", Global Trekker
 https://d1abp075u76pbq.cloudfront.net/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd|Referer=https://www.visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bf7ec2974fa14a248e338280a6e64cb8:7e81ae9282d08881e304aa527a1d7e72
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/2ITg94V.png?v=1.0.0.1" group-title="Knowledge" tvg-id="History.id" tvg-name="History", History
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/2ITg94V.png?v=1.0.0.1" group-title="Knowledge" tvg-id="History.id" tvg-name="History", History
 https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mpd/HistoryHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
