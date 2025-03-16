@@ -627,6 +627,9 @@ https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
 
 ########################################################     Movies    ########################################################
 
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/NoCJFNZ.png?v=1.0.0.1" group-title="Movies" tvg-id="mjh-ahm-FAST" tvg-name="Action Hollywood Movies", Action Hollywood Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5d5297a84f8b2de977f07286345c591:bdb773d6d25303b75a396b8040cfaf8c
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/9DGEGou.png?v=1.0.0.1" group-title="Movies" tvg-id="AXN.id" tvg-name="AXN Asia", AXN Asia
@@ -644,6 +647,9 @@ http://khano.nng.cloudns.us/live/m3u8/Mov/3a74cff24b6d3ae.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Mvkq14Y.png?v=1.0.0.1" group-title="Movies" tvg-id="CelestialMovies.id" tvg-name="Celestial Movies", Celestial Movies
 http://khano.nng.cloudns.us/live/m3u8/Mov/1375b51bb1b2c31.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/i38ejrW.png?v=1.1.1.1" group-title="Movies" tvg-id="FX Movie Channel.us" tvg-name="FX Movie Channel.us", FX
+http://fl2.moveonjoy.com/FX/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e5c40292f8d01b1d5f0c6b3904d73104:bcb2ac12e11c69594ba217bfe8714efe
@@ -714,12 +720,6 @@ http://khano.nng.cloudns.us/live/m3u8/Mov/d577c0880b08b2f.m3u8
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/PZ8lqc9.png?v=1.1.1.1" group-title="Movies" group-logo="https://i.imgur.com/vcrozxa.png?v=1.0.0.1" tvg-id="WarnerTV.id" tvg-name="Warner TV", Warner TV
 https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/rCLnw5V.png?v=1.0.0.1" group-title="Movies" tvg-id="mjh-ahm-FAST" tvg-name="Action Hollywood Movies", Action Hollywood Movies
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/dfLNSn3.png?v=1.1.1.1" group-title="Movies" tvg-id="FX Movie Channel.us" tvg-name="FX Movie Channel.us", FX
-http://fl2.moveonjoy.com/FX/index.m3u8
 
 ########################################################    Bioskop Indonesia     ########################################################
 
