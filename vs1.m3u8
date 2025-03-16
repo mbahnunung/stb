@@ -744,21 +744,21 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/IndonesiaMovieChannels-HD/sa_dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=367f9bf4d0684f109d74a9eeb68d32be:59983c58c1b0daa1dcc370f697ccaead
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e7ypN3H.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://i.imgur.com/h2a2AIf.png?v=1.0.0.1" tvg-id="5256" tvg-name="AFN (HD)", Asian Food Network
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/e7ypN3H.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://i.imgur.com/h2a2AIf.png?v=1.0.0.1" tvg-id="5256" tvg-name="AFN (HD)", Asian Food Network
 https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sE1nCEC.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://i.imgur.com/h2a2AIf.png?v=1.0.0.1" tvg-id="DENSFoodChannel.id" tvg-name="DENS Food Channel", DENS Food Channel
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sE1nCEC.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://i.imgur.com/h2a2AIf.png?v=1.0.0.1" tvg-id="DENSFoodChannel.id" tvg-name="DENS Food Channel", DENS Food Channel
 http://cdn.nng.cloudns.us/live/m3u8/id/dfc160946781414.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6dc31ac1031242a8b0c37286acb66a37:648286167b494bf9ee122eced0e37de1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t7gOZKa.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://i.imgur.com/h2a2AIf.png?v=1.0.0.1" tvg-id="FoodNetwork.uk" tvg-name="Food Network (HD)", Food Network
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/t7gOZKa.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://i.imgur.com/h2a2AIf.png?v=1.0.0.1" tvg-id="FoodNetwork.uk" tvg-name="Food Network (HD)", Food Network
 https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7G9jZCQ.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://i.imgur.com/h2a2AIf.png?v=1.0.0.1" tvg-id="HGTV.id" tvg-name="HGTV", HGTV
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/7G9jZCQ.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://i.imgur.com/h2a2AIf.png?v=1.0.0.1" tvg-id="HGTV.id" tvg-name="HGTV", HGTV
 https://i.mjh.nz/.r/discovery-hgtv.m3u8
 
 ########################################################    Fashion    ########################################################
