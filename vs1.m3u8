@@ -225,7 +225,7 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/PsC9vCu.png?v=1.0.0.1" group-title="Kids" group-logo="https://warningfm.github.io/v3/img/BxvUXcn.png?v=1.0.0.1" tvg-id="MyKidz.id" tvg-name="My Kidz", MyKidz
-http://cdn.nng.cloudns.us/live/m3u8/Kids/d906ad24c354b91.m3u8
+http://khano.nng.cloudns.us/live/m3u8/Kids/d906ad24c354b91.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f71ca09f57ea09e27ee63d7d1f0d0e31:8a07ef45b4a18973ef12f8da482dcec0
@@ -251,11 +251,11 @@ https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.m
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/nQEfdUN.png?v=1.0.0.1" group-title="Entertainment" tvg-id="Aniplus.id" tvg-name="Aniplus", Aniplus
-http://cdn.nng.cloudns.us/live/m3u8/int/4831104be353eb0.m3u8
+http://khano.nng.cloudns.us/live/m3u8/int/4831104be353eb0.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Q2dStFM.png?v=1.0.0.1" group-title="Entertainment" tvg-id="CCTV4.id" tvg-name="CCTV-4", CCTV-4
-http://cdn.nng.cloudns.us/live/m3u8/int/b0e5bb72ae995c6.m3u8
+http://khano.nng.cloudns.us/live/m3u8/int/b0e5bb72ae995c6.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a17bbb3d95ba22f0fa680bba609340f6:cb682391dc1830d2cec8ca9d4ce681cc
@@ -320,7 +320,7 @@ https://public-streaming.rri.co.id/memfs/a3a573d6-1ed3-4d6e-9f9f-e9a4e2cefd9d.m3
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/GrgQzKo.png?v=1.0.0.1" group-title="Entertainment" tvg-id="SEAToday.id" tvg-name="SEA Today", SEA Today
-http://cdn.nng.cloudns.us/live/m3u8/id/2224e34a782179c.m3u8
+http://khano.nng.cloudns.us/live/m3u8/id/2224e34a782179c.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=abac9e0bf2b448f8871145829c68a7fd:eebd1a86367df6c2c4aad70b7a6165a9
@@ -345,11 +345,11 @@ https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/ra
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/vUHoMzT.png?v=1.1.1.1" group-title="Religious" tvg-id="Makkah TV.ar" tvg-name="Makkah TV.ar", Makkah TV
-http://cdn.nng.cloudns.us/live/m3u8/ar/3058a2456b128c1.m3u8
+http://khano.nng.cloudns.us/live/m3u8/ar/3058a2456b128c1.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sRHJJ5c.png?v=1.0.0.1" group-title="Religious" tvg-id="TawafTV.id" tvg-name="Tawaf TV", Tawaf TV
-http://cdn.nng.cloudns.us/live/m3u8/id/0c9fd875599b836.m3u8
+http://khano.nng.cloudns.us/live/m3u8/id/0c9fd875599b836.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eefa1c34afba72f8fe902b061632528f:334cde07f6ebe092c0ae0521591d73cf
