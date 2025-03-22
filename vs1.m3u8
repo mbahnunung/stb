@@ -7,7 +7,7 @@
 https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|Referer=https://www.visionplus.id
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/HwXQJXW.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/ePGe3Yp.png?v=1.0.0.1" ch-number="2" tvg-id="SCTV.my.id" tvg-name="SCTV ᴴᴰ", SCTV ᴴᴰ
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/HwXQJXW.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/ePGe3Yp.png?v=1.0.0.1" ch-number="2" tvg-id="SCTV.id" tvg-name="SCTV", SCTV
 http://khano.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847a.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -20,11 +20,11 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 http://khano.nng.cloudns.us/live/m3u8/id/b630a001384603f.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/k3IqSHs.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/ePGe3Yp.png?v=1.0.0.1" ch-number="5" tvg-id="Indosiar.my.id" tvg-name="Indosiar ᴴᴰ", Indosiar ᴴᴰ
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/k3IqSHs.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/ePGe3Yp.png?v=1.0.0.1" ch-number="5" tvg-id="Indosiar.id" tvg-name="Indosiar", Indosiar
 http://khano.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Qdzsb1v.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="6" tvg-id="MetroTV.my.id" tvg-name="MetroTV", MetroTV
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Qdzsb1v.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="6" tvg-id="MetroTV.my.id" tvg-name="Metro TV", MetroTV
 http://khano.nng.cloudns.us/live/m3u8/id/6183ec225226ccb.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
