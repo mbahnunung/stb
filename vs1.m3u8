@@ -1003,7 +1003,7 @@ https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my/
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/0c5WJlU.png?v=1.1.1.1" group-title="🇲🇾 Malaysia" tvg-id="103.astro" tvg-name="TV3", TV3
-https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
+https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/dhrruWp.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="TV6" tvg-name="TV6", TV6
 https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
