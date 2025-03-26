@@ -546,6 +546,9 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7krwPaP-Yrg/YRUcA2uzEWI/AAAAAAAABS0/EMHIJUtHVKcoTpTtl9Kco64dC57uArURQCLcBGAsYHQ/s0/5znakl6.png?v=1.0.0.1" group-title="Knowledge" tvg-id="5f21ea08007a49000762d349" tvg-name="Smithsonian Channel Selects", Smithsonian Channel
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d349/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rYkpAfT.png" group-title="Knowledge" tvg-id="Wonder.uk", Wonder
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8
+
 ########################################################     samsung-tvplus     ########################################################
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/47fKI1D.png?v=1.0.0.1" group-title="Science & Nature" group-logo="https://i.imgur.com/M2ilzry.png?v=1.1.1.1" channel-id="US2200001IY-us" tvg-id="US2200001IY" tvg-chno="3878" tvg-name="Curiosity Animales", Curiosity Animales
