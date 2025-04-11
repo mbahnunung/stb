@@ -453,7 +453,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/VyqMhjx.png?v=1.1.1.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="CAAJ2700030ON" tvg-name="Outside", Outside
-https://gist.githubusercontent.com/warningfm/f951716f1dfd96d4480dbdad6a000eeb/raw/edfa08178fc5cb3608324d1e3d4f8ff7df89a997/Outside.m3u8
+https://gist.githubusercontent.com/warningfm/f951716f1dfd96d4480dbdad6a000eeb/raw/c04d61b0a6119b0f2efcc31b3308c8cc82d2025a/Outside.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/4AcGcN0.png?v=1.0.0.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" channel-id="GBBD2300003IK" tvg-id="GBBD2300003IK" tvg-name="Red Bull TV", Red Bull TV
